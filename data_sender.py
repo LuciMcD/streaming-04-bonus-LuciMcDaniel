@@ -48,15 +48,15 @@ def send_message(host: str, queue_name: str):
         # messages will not be deleted until the consumer acknowledges
         ch.queue_declare(queue=queue_name, durable=True)
 
-        with open('tasks.csv', 'r') as file:
+        with open('NetflixBestMoviebyYear.csv', 'r') as file:
             reader = csv.reader(file)
             for row in reader:
-                task = ''.join(row)
+                movie = ''.join(row)
                 # use the channel to publish a message to the queue
                  # every message passes through an exchange
-                ch.basic_publish(exchange="", routing_key=queue_name, body=task)
+                ch.basic_publish(exchange="", routing_key=queue_name, body=movie)
                 # print a message to the console for the user
-                logger.info(f" [x] Sent {task}")
+                logger.info(f" [x] Sent {movie}")
     except pika.exceptions.AMQPConnectionError as e:
         logger.info(f"Error: Connection to RabbitMQ server failed: {e}")
         sys.exit(1)
