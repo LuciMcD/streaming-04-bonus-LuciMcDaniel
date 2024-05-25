@@ -33,6 +33,6 @@
 ## Reference
 
 - [RabbitMQ Tutorial - Work Queues](https://www.rabbitmq.com/tutorials/tutorial-two-python.html)
-
+- [link to csv dataset] https://www.kaggle.com/datasets/thedevastator/the-ultimate-netflix-tv-shows-and-movies-dataset
 
 ## Screenshots
