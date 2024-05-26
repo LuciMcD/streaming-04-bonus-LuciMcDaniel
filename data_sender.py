@@ -77,5 +77,5 @@ if __name__ == "__main__":
     offer_rabbitmq_admin_site()
 
     # send the message to the queue
-    send_message("localhost","movie_queue1")
+    send_message("localhost","movie_queue2")
     time.sleep(3) 

@@ -1,0 +1,2500 @@
+index,TITLE,RELEASE_YEAR,SCORE,MAIN_GENRE,MAIN_PRODUCTION
+0,White Christmas,1954,75.0,romance,US
+1,The Guns of Navarone,1961,75.0,war,US
+2,My Fair Lady,1964,78.0,drama,US
+3,Bonnie and Clyde,1967,77.0,drama,US
+4,Dirty Harry,1971,77.0,thriller,US
+5,The Exorcist,1973,81.0,horror,US
+6,Monty Python and the Holy Grail,1975,82.0,comedy,GB
+7,Taxi Driver,1976,83.0,crime,US
+8,Life of Brian,1979,80.0,comedy,GB
+9,The Blue Lagoon,1980,58.0,romance,US
+10,Annie,1982,66.0,drama,US
+11,Christine,1983,67.0,horror,US
+12,Once Upon a Time in America,1984,83.0,drama,US
+13,Stand by Me,1986,81.0,drama,US
+14,Full Metal Jacket,1987,83.0,drama,GB
+15,When Harry Met Sally...,1989,77.0,romance,US
+16,Awakenings,1990,78.0,drama,US
+17,My Girl,1991,69.0,comedy,US
+18,A River Runs Through It,1992,72.0,drama,US
+19,Menace II Society,1993,75.0,drama,US
+20,Forrest Gump,1994,88.0,drama,US
+21,Desperado,1995,71.0,thriller,US
+22,Happy Gilmore,1996,70.0,comedy,US
+23,Neon Genesis Evangelion: The End of Evangelion,1997,80.0,scifi,JP
+24,Saving Private Ryan,1998,86.0,drama,US
+25,"Girl, Interrupted",1999,73.0,drama,US
+26,The Patriot,2000,72.0,drama,DE
+27,Lagaan: Once Upon a Time in India,2001,81.0,drama,IN
+28,Road to Perdition,2002,77.0,thriller,US
+29,Big Fish,2003,80.0,drama,US
+30,Swades,2004,81.0,drama,IN
+31,Memoirs of a Geisha,2005,73.0,drama,FR
+32,Rang De Basanti,2006,81.0,comedy,IN
+33,Like Stars on Earth,2007,83.0,drama,IN
+34,Ip Man,2008,80.0,drama,HK
+35,3 Idiots,2009,84.0,comedy,IN
+36,Inception,2010,88.0,scifi,GB
+37,Warrior,2011,82.0,drama,US
+38,Django Unchained,2012,84.0,western,US
+39,Rush,2013,81.0,drama,US
+40,Queen,2014,82.0,drama,IN
+41,Drishyam,2015,82.0,thriller,IN
+42,Dangal,2016,84.0,action,IN
+43,Bahubali 2: The Conclusion,2017,82.0,fantasy,IN
+44,Andhadhun,2018,82.0,thriller,IN
+45,Dave Chappelle: Sticks & Stones,2019,84.0,comedy,US
+46,David Attenborough: A Life on Our Planet,2020,90.0,documentary,GB
+47,Bo Burnham: Inside,2021,87.0,comedy,US
+48,The Tinder Swindler,2022,72.0,crime,GB
+index,TITLE,RELEASE_YEAR,SCORE,MAIN_GENRE,MAIN_PRODUCTION
+0,White Christmas,1954,75.0,romance,US
+1,The Guns of Navarone,1961,75.0,war,US
+2,My Fair Lady,1964,78.0,drama,US
+3,Bonnie and Clyde,1967,77.0,drama,US
+4,Dirty Harry,1971,77.0,thriller,US
+5,The Exorcist,1973,81.0,horror,US
+6,Monty Python and the Holy Grail,1975,82.0,comedy,GB
+7,Taxi Driver,1976,83.0,crime,US
+8,Life of Brian,1979,80.0,comedy,GB
+9,The Blue Lagoon,1980,58.0,romance,US
+10,Annie,1982,66.0,drama,US
+11,Christine,1983,67.0,horror,US
+12,Once Upon a Time in America,1984,83.0,drama,US
+13,Stand by Me,1986,81.0,drama,US
+14,Full Metal Jacket,1987,83.0,drama,GB
+15,When Harry Met Sally...,1989,77.0,romance,US
+16,Awakenings,1990,78.0,drama,US
+17,My Girl,1991,69.0,comedy,US
+18,A River Runs Through It,1992,72.0,drama,US
+19,Menace II Society,1993,75.0,drama,US
+20,Forrest Gump,1994,88.0,drama,US
+21,Desperado,1995,71.0,thriller,US
+22,Happy Gilmore,1996,70.0,comedy,US
+23,Neon Genesis Evangelion: The End of Evangelion,1997,80.0,scifi,JP
+24,Saving Private Ryan,1998,86.0,drama,US
+25,"Girl, Interrupted",1999,73.0,drama,US
+26,The Patriot,2000,72.0,drama,DE
+27,Lagaan: Once Upon a Time in India,2001,81.0,drama,IN
+28,Road to Perdition,2002,77.0,thriller,US
+29,Big Fish,2003,80.0,drama,US
+30,Swades,2004,81.0,drama,IN
+31,Memoirs of a Geisha,2005,73.0,drama,FR
+32,Rang De Basanti,2006,81.0,comedy,IN
+33,Like Stars on Earth,2007,83.0,drama,IN
+34,Ip Man,2008,80.0,drama,HK
+35,3 Idiots,2009,84.0,comedy,IN
+36,Inception,2010,88.0,scifi,GB
+37,Warrior,2011,82.0,drama,US
+38,Django Unchained,2012,84.0,western,US
+39,Rush,2013,81.0,drama,US
+40,Queen,2014,82.0,drama,IN
+41,Drishyam,2015,82.0,thriller,IN
+42,Dangal,2016,84.0,action,IN
+43,Bahubali 2: The Conclusion,2017,82.0,fantasy,IN
+44,Andhadhun,2018,82.0,thriller,IN
+45,Dave Chappelle: Sticks & Stones,2019,84.0,comedy,US
+46,David Attenborough: A Life on Our Planet,2020,90.0,documentary,GB
+47,Bo Burnham: Inside,2021,87.0,comedy,US
+48,The Tinder Swindler,2022,72.0,crime,GB
+index,TITLE,RELEASE_YEAR,SCORE,MAIN_GENRE,MAIN_PRODUCTION
+0,White Christmas,1954,75.0,romance,US
+1,The Guns of Navarone,1961,75.0,war,US
+2,My Fair Lady,1964,78.0,drama,US
+3,Bonnie and Clyde,1967,77.0,drama,US
+4,Dirty Harry,1971,77.0,thriller,US
+5,The Exorcist,1973,81.0,horror,US
+6,Monty Python and the Holy Grail,1975,82.0,comedy,GB
+7,Taxi Driver,1976,83.0,crime,US
+8,Life of Brian,1979,80.0,comedy,GB
+9,The Blue Lagoon,1980,58.0,romance,US
+10,Annie,1982,66.0,drama,US
+11,Christine,1983,67.0,horror,US
+12,Once Upon a Time in America,1984,83.0,drama,US
+13,Stand by Me,1986,81.0,drama,US
+14,Full Metal Jacket,1987,83.0,drama,GB
+15,When Harry Met Sally...,1989,77.0,romance,US
+16,Awakenings,1990,78.0,drama,US
+17,My Girl,1991,69.0,comedy,US
+18,A River Runs Through It,1992,72.0,drama,US
+19,Menace II Society,1993,75.0,drama,US
+20,Forrest Gump,1994,88.0,drama,US
+21,Desperado,1995,71.0,thriller,US
+22,Happy Gilmore,1996,70.0,comedy,US
+23,Neon Genesis Evangelion: The End of Evangelion,1997,80.0,scifi,JP
+24,Saving Private Ryan,1998,86.0,drama,US
+25,"Girl, Interrupted",1999,73.0,drama,US
+26,The Patriot,2000,72.0,drama,DE
+27,Lagaan: Once Upon a Time in India,2001,81.0,drama,IN
+28,Road to Perdition,2002,77.0,thriller,US
+29,Big Fish,2003,80.0,drama,US
+30,Swades,2004,81.0,drama,IN
+31,Memoirs of a Geisha,2005,73.0,drama,FR
+32,Rang De Basanti,2006,81.0,comedy,IN
+33,Like Stars on Earth,2007,83.0,drama,IN
+34,Ip Man,2008,80.0,drama,HK
+35,3 Idiots,2009,84.0,comedy,IN
+36,Inception,2010,88.0,scifi,GB
+37,Warrior,2011,82.0,drama,US
+38,Django Unchained,2012,84.0,western,US
+39,Rush,2013,81.0,drama,US
+40,Queen,2014,82.0,drama,IN
+41,Drishyam,2015,82.0,thriller,IN
+42,Dangal,2016,84.0,action,IN
+43,Bahubali 2: The Conclusion,2017,82.0,fantasy,IN
+44,Andhadhun,2018,82.0,thriller,IN
+45,Dave Chappelle: Sticks & Stones,2019,84.0,comedy,US
+46,David Attenborough: A Life on Our Planet,2020,90.0,documentary,GB
+47,Bo Burnham: Inside,2021,87.0,comedy,US
+48,The Tinder Swindler,2022,72.0,crime,GB
+index,TITLE,RELEASE_YEAR,SCORE,MAIN_GENRE,MAIN_PRODUCTION
+0,White Christmas,1954,75.0,romance,US
+1,The Guns of Navarone,1961,75.0,war,US
+2,My Fair Lady,1964,78.0,drama,US
+3,Bonnie and Clyde,1967,77.0,drama,US
+4,Dirty Harry,1971,77.0,thriller,US
+5,The Exorcist,1973,81.0,horror,US
+6,Monty Python and the Holy Grail,1975,82.0,comedy,GB
+7,Taxi Driver,1976,83.0,crime,US
+8,Life of Brian,1979,80.0,comedy,GB
+9,The Blue Lagoon,1980,58.0,romance,US
+10,Annie,1982,66.0,drama,US
+11,Christine,1983,67.0,horror,US
+12,Once Upon a Time in America,1984,83.0,drama,US
+13,Stand by Me,1986,81.0,drama,US
+14,Full Metal Jacket,1987,83.0,drama,GB
+15,When Harry Met Sally...,1989,77.0,romance,US
+16,Awakenings,1990,78.0,drama,US
+17,My Girl,1991,69.0,comedy,US
+18,A River Runs Through It,1992,72.0,drama,US
+19,Menace II Society,1993,75.0,drama,US
+20,Forrest Gump,1994,88.0,drama,US
+21,Desperado,1995,71.0,thriller,US
+22,Happy Gilmore,1996,70.0,comedy,US
+23,Neon Genesis Evangelion: The End of Evangelion,1997,80.0,scifi,JP
+24,Saving Private Ryan,1998,86.0,drama,US
+25,"Girl, Interrupted",1999,73.0,drama,US
+26,The Patriot,2000,72.0,drama,DE
+27,Lagaan: Once Upon a Time in India,2001,81.0,drama,IN
+28,Road to Perdition,2002,77.0,thriller,US
+29,Big Fish,2003,80.0,drama,US
+30,Swades,2004,81.0,drama,IN
+31,Memoirs of a Geisha,2005,73.0,drama,FR
+32,Rang De Basanti,2006,81.0,comedy,IN
+33,Like Stars on Earth,2007,83.0,drama,IN
+34,Ip Man,2008,80.0,drama,HK
+35,3 Idiots,2009,84.0,comedy,IN
+36,Inception,2010,88.0,scifi,GB
+37,Warrior,2011,82.0,drama,US
+38,Django Unchained,2012,84.0,western,US
+39,Rush,2013,81.0,drama,US
+40,Queen,2014,82.0,drama,IN
+41,Drishyam,2015,82.0,thriller,IN
+42,Dangal,2016,84.0,action,IN
+43,Bahubali 2: The Conclusion,2017,82.0,fantasy,IN
+44,Andhadhun,2018,82.0,thriller,IN
+45,Dave Chappelle: Sticks & Stones,2019,84.0,comedy,US
+46,David Attenborough: A Life on Our Planet,2020,90.0,documentary,GB
+47,Bo Burnham: Inside,2021,87.0,comedy,US
+48,The Tinder Swindler,2022,72.0,crime,GB
+index,TITLE,RELEASE_YEAR,SCORE,MAIN_GENRE,MAIN_PRODUCTION
+0,White Christmas,1954,75.0,romance,US
+1,The Guns of Navarone,1961,75.0,war,US
+2,My Fair Lady,1964,78.0,drama,US
+3,Bonnie and Clyde,1967,77.0,drama,US
+4,Dirty Harry,1971,77.0,thriller,US
+5,The Exorcist,1973,81.0,horror,US
+6,Monty Python and the Holy Grail,1975,82.0,comedy,GB
+7,Taxi Driver,1976,83.0,crime,US
+8,Life of Brian,1979,80.0,comedy,GB
+9,The Blue Lagoon,1980,58.0,romance,US
+10,Annie,1982,66.0,drama,US
+11,Christine,1983,67.0,horror,US
+12,Once Upon a Time in America,1984,83.0,drama,US
+13,Stand by Me,1986,81.0,drama,US
+14,Full Metal Jacket,1987,83.0,drama,GB
+15,When Harry Met Sally...,1989,77.0,romance,US
+16,Awakenings,1990,78.0,drama,US
+17,My Girl,1991,69.0,comedy,US
+18,A River Runs Through It,1992,72.0,drama,US
+19,Menace II Society,1993,75.0,drama,US
+20,Forrest Gump,1994,88.0,drama,US
+21,Desperado,1995,71.0,thriller,US
+22,Happy Gilmore,1996,70.0,comedy,US
+23,Neon Genesis Evangelion: The End of Evangelion,1997,80.0,scifi,JP
+24,Saving Private Ryan,1998,86.0,drama,US
+25,"Girl, Interrupted",1999,73.0,drama,US
+26,The Patriot,2000,72.0,drama,DE
+27,Lagaan: Once Upon a Time in India,2001,81.0,drama,IN
+28,Road to Perdition,2002,77.0,thriller,US
+29,Big Fish,2003,80.0,drama,US
+30,Swades,2004,81.0,drama,IN
+31,Memoirs of a Geisha,2005,73.0,drama,FR
+32,Rang De Basanti,2006,81.0,comedy,IN
+33,Like Stars on Earth,2007,83.0,drama,IN
+34,Ip Man,2008,80.0,drama,HK
+35,3 Idiots,2009,84.0,comedy,IN
+36,Inception,2010,88.0,scifi,GB
+37,Warrior,2011,82.0,drama,US
+38,Django Unchained,2012,84.0,western,US
+39,Rush,2013,81.0,drama,US
+40,Queen,2014,82.0,drama,IN
+41,Drishyam,2015,82.0,thriller,IN
+42,Dangal,2016,84.0,action,IN
+43,Bahubali 2: The Conclusion,2017,82.0,fantasy,IN
+44,Andhadhun,2018,82.0,thriller,IN
+45,Dave Chappelle: Sticks & Stones,2019,84.0,comedy,US
+46,David Attenborough: A Life on Our Planet,2020,90.0,documentary,GB
+47,Bo Burnham: Inside,2021,87.0,comedy,US
+48,The Tinder Swindler,2022,72.0,crime,GB
+index,TITLE,RELEASE_YEAR,SCORE,MAIN_GENRE,MAIN_PRODUCTION
+0,White Christmas,1954,75.0,romance,US
+1,The Guns of Navarone,1961,75.0,war,US
+2,My Fair Lady,1964,78.0,drama,US
+3,Bonnie and Clyde,1967,77.0,drama,US
+4,Dirty Harry,1971,77.0,thriller,US
+5,The Exorcist,1973,81.0,horror,US
+6,Monty Python and the Holy Grail,1975,82.0,comedy,GB
+7,Taxi Driver,1976,83.0,crime,US
+8,Life of Brian,1979,80.0,comedy,GB
+9,The Blue Lagoon,1980,58.0,romance,US
+10,Annie,1982,66.0,drama,US
+11,Christine,1983,67.0,horror,US
+12,Once Upon a Time in America,1984,83.0,drama,US
+13,Stand by Me,1986,81.0,drama,US
+14,Full Metal Jacket,1987,83.0,drama,GB
+15,When Harry Met Sally...,1989,77.0,romance,US
+16,Awakenings,1990,78.0,drama,US
+17,My Girl,1991,69.0,comedy,US
+18,A River Runs Through It,1992,72.0,drama,US
+19,Menace II Society,1993,75.0,drama,US
+20,Forrest Gump,1994,88.0,drama,US
+21,Desperado,1995,71.0,thriller,US
+22,Happy Gilmore,1996,70.0,comedy,US
+23,Neon Genesis Evangelion: The End of Evangelion,1997,80.0,scifi,JP
+24,Saving Private Ryan,1998,86.0,drama,US
+25,"Girl, Interrupted",1999,73.0,drama,US
+26,The Patriot,2000,72.0,drama,DE
+27,Lagaan: Once Upon a Time in India,2001,81.0,drama,IN
+28,Road to Perdition,2002,77.0,thriller,US
+29,Big Fish,2003,80.0,drama,US
+30,Swades,2004,81.0,drama,IN
+31,Memoirs of a Geisha,2005,73.0,drama,FR
+32,Rang De Basanti,2006,81.0,comedy,IN
+33,Like Stars on Earth,2007,83.0,drama,IN
+34,Ip Man,2008,80.0,drama,HK
+35,3 Idiots,2009,84.0,comedy,IN
+36,Inception,2010,88.0,scifi,GB
+37,Warrior,2011,82.0,drama,US
+38,Django Unchained,2012,84.0,western,US
+39,Rush,2013,81.0,drama,US
+40,Queen,2014,82.0,drama,IN
+41,Drishyam,2015,82.0,thriller,IN
+42,Dangal,2016,84.0,action,IN
+43,Bahubali 2: The Conclusion,2017,82.0,fantasy,IN
+44,Andhadhun,2018,82.0,thriller,IN
+45,Dave Chappelle: Sticks & Stones,2019,84.0,comedy,US
+46,David Attenborough: A Life on Our Planet,2020,90.0,documentary,GB
+47,Bo Burnham: Inside,2021,87.0,comedy,US
+48,The Tinder Swindler,2022,72.0,crime,GB
+index,TITLE,RELEASE_YEAR,SCORE,MAIN_GENRE,MAIN_PRODUCTION
+0,White Christmas,1954,75.0,romance,US
+1,The Guns of Navarone,1961,75.0,war,US
+2,My Fair Lady,1964,78.0,drama,US
+3,Bonnie and Clyde,1967,77.0,drama,US
+4,Dirty Harry,1971,77.0,thriller,US
+5,The Exorcist,1973,81.0,horror,US
+6,Monty Python and the Holy Grail,1975,82.0,comedy,GB
+7,Taxi Driver,1976,83.0,crime,US
+8,Life of Brian,1979,80.0,comedy,GB
+9,The Blue Lagoon,1980,58.0,romance,US
+10,Annie,1982,66.0,drama,US
+11,Christine,1983,67.0,horror,US
+12,Once Upon a Time in America,1984,83.0,drama,US
+13,Stand by Me,1986,81.0,drama,US
+14,Full Metal Jacket,1987,83.0,drama,GB
+15,When Harry Met Sally...,1989,77.0,romance,US
+16,Awakenings,1990,78.0,drama,US
+17,My Girl,1991,69.0,comedy,US
+18,A River Runs Through It,1992,72.0,drama,US
+19,Menace II Society,1993,75.0,drama,US
+20,Forrest Gump,1994,88.0,drama,US
+21,Desperado,1995,71.0,thriller,US
+22,Happy Gilmore,1996,70.0,comedy,US
+23,Neon Genesis Evangelion: The End of Evangelion,1997,80.0,scifi,JP
+24,Saving Private Ryan,1998,86.0,drama,US
+25,"Girl, Interrupted",1999,73.0,drama,US
+26,The Patriot,2000,72.0,drama,DE
+27,Lagaan: Once Upon a Time in India,2001,81.0,drama,IN
+28,Road to Perdition,2002,77.0,thriller,US
+29,Big Fish,2003,80.0,drama,US
+30,Swades,2004,81.0,drama,IN
+31,Memoirs of a Geisha,2005,73.0,drama,FR
+32,Rang De Basanti,2006,81.0,comedy,IN
+33,Like Stars on Earth,2007,83.0,drama,IN
+34,Ip Man,2008,80.0,drama,HK
+35,3 Idiots,2009,84.0,comedy,IN
+36,Inception,2010,88.0,scifi,GB
+37,Warrior,2011,82.0,drama,US
+38,Django Unchained,2012,84.0,western,US
+39,Rush,2013,81.0,drama,US
+40,Queen,2014,82.0,drama,IN
+41,Drishyam,2015,82.0,thriller,IN
+42,Dangal,2016,84.0,action,IN
+43,Bahubali 2: The Conclusion,2017,82.0,fantasy,IN
+44,Andhadhun,2018,82.0,thriller,IN
+45,Dave Chappelle: Sticks & Stones,2019,84.0,comedy,US
+46,David Attenborough: A Life on Our Planet,2020,90.0,documentary,GB
+47,Bo Burnham: Inside,2021,87.0,comedy,US
+48,The Tinder Swindler,2022,72.0,crime,GB
+index,TITLE,RELEASE_YEAR,SCORE,MAIN_GENRE,MAIN_PRODUCTION
+0,White Christmas,1954,75.0,romance,US
+1,The Guns of Navarone,1961,75.0,war,US
+2,My Fair Lady,1964,78.0,drama,US
+3,Bonnie and Clyde,1967,77.0,drama,US
+4,Dirty Harry,1971,77.0,thriller,US
+5,The Exorcist,1973,81.0,horror,US
+6,Monty Python and the Holy Grail,1975,82.0,comedy,GB
+7,Taxi Driver,1976,83.0,crime,US
+8,Life of Brian,1979,80.0,comedy,GB
+9,The Blue Lagoon,1980,58.0,romance,US
+10,Annie,1982,66.0,drama,US
+11,Christine,1983,67.0,horror,US
+12,Once Upon a Time in America,1984,83.0,drama,US
+13,Stand by Me,1986,81.0,drama,US
+14,Full Metal Jacket,1987,83.0,drama,GB
+15,When Harry Met Sally...,1989,77.0,romance,US
+16,Awakenings,1990,78.0,drama,US
+17,My Girl,1991,69.0,comedy,US
+18,A River Runs Through It,1992,72.0,drama,US
+19,Menace II Society,1993,75.0,drama,US
+20,Forrest Gump,1994,88.0,drama,US
+21,Desperado,1995,71.0,thriller,US
+22,Happy Gilmore,1996,70.0,comedy,US
+23,Neon Genesis Evangelion: The End of Evangelion,1997,80.0,scifi,JP
+24,Saving Private Ryan,1998,86.0,drama,US
+25,"Girl, Interrupted",1999,73.0,drama,US
+26,The Patriot,2000,72.0,drama,DE
+27,Lagaan: Once Upon a Time in India,2001,81.0,drama,IN
+28,Road to Perdition,2002,77.0,thriller,US
+29,Big Fish,2003,80.0,drama,US
+30,Swades,2004,81.0,drama,IN
+31,Memoirs of a Geisha,2005,73.0,drama,FR
+32,Rang De Basanti,2006,81.0,comedy,IN
+33,Like Stars on Earth,2007,83.0,drama,IN
+34,Ip Man,2008,80.0,drama,HK
+35,3 Idiots,2009,84.0,comedy,IN
+36,Inception,2010,88.0,scifi,GB
+37,Warrior,2011,82.0,drama,US
+38,Django Unchained,2012,84.0,western,US
+39,Rush,2013,81.0,drama,US
+40,Queen,2014,82.0,drama,IN
+41,Drishyam,2015,82.0,thriller,IN
+42,Dangal,2016,84.0,action,IN
+43,Bahubali 2: The Conclusion,2017,82.0,fantasy,IN
+44,Andhadhun,2018,82.0,thriller,IN
+45,Dave Chappelle: Sticks & Stones,2019,84.0,comedy,US
+46,David Attenborough: A Life on Our Planet,2020,90.0,documentary,GB
+47,Bo Burnham: Inside,2021,87.0,comedy,US
+48,The Tinder Swindler,2022,72.0,crime,GB
+index,TITLE,RELEASE_YEAR,SCORE,MAIN_GENRE,MAIN_PRODUCTION
+0,White Christmas,1954,75.0,romance,US
+1,The Guns of Navarone,1961,75.0,war,US
+2,My Fair Lady,1964,78.0,drama,US
+3,Bonnie and Clyde,1967,77.0,drama,US
+4,Dirty Harry,1971,77.0,thriller,US
+5,The Exorcist,1973,81.0,horror,US
+6,Monty Python and the Holy Grail,1975,82.0,comedy,GB
+7,Taxi Driver,1976,83.0,crime,US
+8,Life of Brian,1979,80.0,comedy,GB
+9,The Blue Lagoon,1980,58.0,romance,US
+10,Annie,1982,66.0,drama,US
+11,Christine,1983,67.0,horror,US
+12,Once Upon a Time in America,1984,83.0,drama,US
+13,Stand by Me,1986,81.0,drama,US
+14,Full Metal Jacket,1987,83.0,drama,GB
+15,When Harry Met Sally...,1989,77.0,romance,US
+16,Awakenings,1990,78.0,drama,US
+17,My Girl,1991,69.0,comedy,US
+18,A River Runs Through It,1992,72.0,drama,US
+19,Menace II Society,1993,75.0,drama,US
+20,Forrest Gump,1994,88.0,drama,US
+21,Desperado,1995,71.0,thriller,US
+22,Happy Gilmore,1996,70.0,comedy,US
+23,Neon Genesis Evangelion: The End of Evangelion,1997,80.0,scifi,JP
+24,Saving Private Ryan,1998,86.0,drama,US
+25,"Girl, Interrupted",1999,73.0,drama,US
+26,The Patriot,2000,72.0,drama,DE
+27,Lagaan: Once Upon a Time in India,2001,81.0,drama,IN
+28,Road to Perdition,2002,77.0,thriller,US
+29,Big Fish,2003,80.0,drama,US
+30,Swades,2004,81.0,drama,IN
+31,Memoirs of a Geisha,2005,73.0,drama,FR
+32,Rang De Basanti,2006,81.0,comedy,IN
+33,Like Stars on Earth,2007,83.0,drama,IN
+34,Ip Man,2008,80.0,drama,HK
+35,3 Idiots,2009,84.0,comedy,IN
+36,Inception,2010,88.0,scifi,GB
+37,Warrior,2011,82.0,drama,US
+38,Django Unchained,2012,84.0,western,US
+39,Rush,2013,81.0,drama,US
+40,Queen,2014,82.0,drama,IN
+41,Drishyam,2015,82.0,thriller,IN
+42,Dangal,2016,84.0,action,IN
+43,Bahubali 2: The Conclusion,2017,82.0,fantasy,IN
+44,Andhadhun,2018,82.0,thriller,IN
+45,Dave Chappelle: Sticks & Stones,2019,84.0,comedy,US
+46,David Attenborough: A Life on Our Planet,2020,90.0,documentary,GB
+47,Bo Burnham: Inside,2021,87.0,comedy,US
+48,The Tinder Swindler,2022,72.0,crime,GB
+index,TITLE,RELEASE_YEAR,SCORE,MAIN_GENRE,MAIN_PRODUCTION
+0,White Christmas,1954,75.0,romance,US
+1,The Guns of Navarone,1961,75.0,war,US
+2,My Fair Lady,1964,78.0,drama,US
+3,Bonnie and Clyde,1967,77.0,drama,US
+4,Dirty Harry,1971,77.0,thriller,US
+5,The Exorcist,1973,81.0,horror,US
+6,Monty Python and the Holy Grail,1975,82.0,comedy,GB
+7,Taxi Driver,1976,83.0,crime,US
+8,Life of Brian,1979,80.0,comedy,GB
+9,The Blue Lagoon,1980,58.0,romance,US
+10,Annie,1982,66.0,drama,US
+11,Christine,1983,67.0,horror,US
+12,Once Upon a Time in America,1984,83.0,drama,US
+13,Stand by Me,1986,81.0,drama,US
+14,Full Metal Jacket,1987,83.0,drama,GB
+15,When Harry Met Sally...,1989,77.0,romance,US
+16,Awakenings,1990,78.0,drama,US
+17,My Girl,1991,69.0,comedy,US
+18,A River Runs Through It,1992,72.0,drama,US
+19,Menace II Society,1993,75.0,drama,US
+20,Forrest Gump,1994,88.0,drama,US
+21,Desperado,1995,71.0,thriller,US
+22,Happy Gilmore,1996,70.0,comedy,US
+23,Neon Genesis Evangelion: The End of Evangelion,1997,80.0,scifi,JP
+24,Saving Private Ryan,1998,86.0,drama,US
+25,"Girl, Interrupted",1999,73.0,drama,US
+26,The Patriot,2000,72.0,drama,DE
+27,Lagaan: Once Upon a Time in India,2001,81.0,drama,IN
+28,Road to Perdition,2002,77.0,thriller,US
+29,Big Fish,2003,80.0,drama,US
+30,Swades,2004,81.0,drama,IN
+31,Memoirs of a Geisha,2005,73.0,drama,FR
+32,Rang De Basanti,2006,81.0,comedy,IN
+33,Like Stars on Earth,2007,83.0,drama,IN
+34,Ip Man,2008,80.0,drama,HK
+35,3 Idiots,2009,84.0,comedy,IN
+36,Inception,2010,88.0,scifi,GB
+37,Warrior,2011,82.0,drama,US
+38,Django Unchained,2012,84.0,western,US
+39,Rush,2013,81.0,drama,US
+40,Queen,2014,82.0,drama,IN
+41,Drishyam,2015,82.0,thriller,IN
+42,Dangal,2016,84.0,action,IN
+43,Bahubali 2: The Conclusion,2017,82.0,fantasy,IN
+44,Andhadhun,2018,82.0,thriller,IN
+45,Dave Chappelle: Sticks & Stones,2019,84.0,comedy,US
+46,David Attenborough: A Life on Our Planet,2020,90.0,documentary,GB
+47,Bo Burnham: Inside,2021,87.0,comedy,US
+48,The Tinder Swindler,2022,72.0,crime,GB
+index,TITLE,RELEASE_YEAR,SCORE,MAIN_GENRE,MAIN_PRODUCTION
+0,White Christmas,1954,75.0,romance,US
+1,The Guns of Navarone,1961,75.0,war,US
+2,My Fair Lady,1964,78.0,drama,US
+3,Bonnie and Clyde,1967,77.0,drama,US
+4,Dirty Harry,1971,77.0,thriller,US
+5,The Exorcist,1973,81.0,horror,US
+6,Monty Python and the Holy Grail,1975,82.0,comedy,GB
+7,Taxi Driver,1976,83.0,crime,US
+8,Life of Brian,1979,80.0,comedy,GB
+9,The Blue Lagoon,1980,58.0,romance,US
+10,Annie,1982,66.0,drama,US
+11,Christine,1983,67.0,horror,US
+12,Once Upon a Time in America,1984,83.0,drama,US
+13,Stand by Me,1986,81.0,drama,US
+14,Full Metal Jacket,1987,83.0,drama,GB
+15,When Harry Met Sally...,1989,77.0,romance,US
+16,Awakenings,1990,78.0,drama,US
+17,My Girl,1991,69.0,comedy,US
+18,A River Runs Through It,1992,72.0,drama,US
+19,Menace II Society,1993,75.0,drama,US
+20,Forrest Gump,1994,88.0,drama,US
+21,Desperado,1995,71.0,thriller,US
+22,Happy Gilmore,1996,70.0,comedy,US
+23,Neon Genesis Evangelion: The End of Evangelion,1997,80.0,scifi,JP
+24,Saving Private Ryan,1998,86.0,drama,US
+25,"Girl, Interrupted",1999,73.0,drama,US
+26,The Patriot,2000,72.0,drama,DE
+27,Lagaan: Once Upon a Time in India,2001,81.0,drama,IN
+28,Road to Perdition,2002,77.0,thriller,US
+29,Big Fish,2003,80.0,drama,US
+30,Swades,2004,81.0,drama,IN
+31,Memoirs of a Geisha,2005,73.0,drama,FR
+32,Rang De Basanti,2006,81.0,comedy,IN
+33,Like Stars on Earth,2007,83.0,drama,IN
+34,Ip Man,2008,80.0,drama,HK
+35,3 Idiots,2009,84.0,comedy,IN
+36,Inception,2010,88.0,scifi,GB
+37,Warrior,2011,82.0,drama,US
+38,Django Unchained,2012,84.0,western,US
+39,Rush,2013,81.0,drama,US
+40,Queen,2014,82.0,drama,IN
+41,Drishyam,2015,82.0,thriller,IN
+42,Dangal,2016,84.0,action,IN
+43,Bahubali 2: The Conclusion,2017,82.0,fantasy,IN
+44,Andhadhun,2018,82.0,thriller,IN
+45,Dave Chappelle: Sticks & Stones,2019,84.0,comedy,US
+46,David Attenborough: A Life on Our Planet,2020,90.0,documentary,GB
+47,Bo Burnham: Inside,2021,87.0,comedy,US
+48,The Tinder Swindler,2022,72.0,crime,GB
+index,TITLE,RELEASE_YEAR,SCORE,MAIN_GENRE,MAIN_PRODUCTION
+0,White Christmas,1954,75.0,romance,US
+1,The Guns of Navarone,1961,75.0,war,US
+2,My Fair Lady,1964,78.0,drama,US
+3,Bonnie and Clyde,1967,77.0,drama,US
+4,Dirty Harry,1971,77.0,thriller,US
+5,The Exorcist,1973,81.0,horror,US
+6,Monty Python and the Holy Grail,1975,82.0,comedy,GB
+7,Taxi Driver,1976,83.0,crime,US
+8,Life of Brian,1979,80.0,comedy,GB
+9,The Blue Lagoon,1980,58.0,romance,US
+10,Annie,1982,66.0,drama,US
+11,Christine,1983,67.0,horror,US
+12,Once Upon a Time in America,1984,83.0,drama,US
+13,Stand by Me,1986,81.0,drama,US
+14,Full Metal Jacket,1987,83.0,drama,GB
+15,When Harry Met Sally...,1989,77.0,romance,US
+16,Awakenings,1990,78.0,drama,US
+17,My Girl,1991,69.0,comedy,US
+18,A River Runs Through It,1992,72.0,drama,US
+19,Menace II Society,1993,75.0,drama,US
+20,Forrest Gump,1994,88.0,drama,US
+21,Desperado,1995,71.0,thriller,US
+22,Happy Gilmore,1996,70.0,comedy,US
+23,Neon Genesis Evangelion: The End of Evangelion,1997,80.0,scifi,JP
+24,Saving Private Ryan,1998,86.0,drama,US
+25,"Girl, Interrupted",1999,73.0,drama,US
+26,The Patriot,2000,72.0,drama,DE
+27,Lagaan: Once Upon a Time in India,2001,81.0,drama,IN
+28,Road to Perdition,2002,77.0,thriller,US
+29,Big Fish,2003,80.0,drama,US
+30,Swades,2004,81.0,drama,IN
+31,Memoirs of a Geisha,2005,73.0,drama,FR
+32,Rang De Basanti,2006,81.0,comedy,IN
+33,Like Stars on Earth,2007,83.0,drama,IN
+34,Ip Man,2008,80.0,drama,HK
+35,3 Idiots,2009,84.0,comedy,IN
+36,Inception,2010,88.0,scifi,GB
+37,Warrior,2011,82.0,drama,US
+38,Django Unchained,2012,84.0,western,US
+39,Rush,2013,81.0,drama,US
+40,Queen,2014,82.0,drama,IN
+41,Drishyam,2015,82.0,thriller,IN
+42,Dangal,2016,84.0,action,IN
+43,Bahubali 2: The Conclusion,2017,82.0,fantasy,IN
+44,Andhadhun,2018,82.0,thriller,IN
+45,Dave Chappelle: Sticks & Stones,2019,84.0,comedy,US
+46,David Attenborough: A Life on Our Planet,2020,90.0,documentary,GB
+47,Bo Burnham: Inside,2021,87.0,comedy,US
+48,The Tinder Swindler,2022,72.0,crime,GB
+index,TITLE,RELEASE_YEAR,SCORE,MAIN_GENRE,MAIN_PRODUCTION
+0,White Christmas,1954,75.0,romance,US
+1,The Guns of Navarone,1961,75.0,war,US
+2,My Fair Lady,1964,78.0,drama,US
+3,Bonnie and Clyde,1967,77.0,drama,US
+4,Dirty Harry,1971,77.0,thriller,US
+5,The Exorcist,1973,81.0,horror,US
+6,Monty Python and the Holy Grail,1975,82.0,comedy,GB
+7,Taxi Driver,1976,83.0,crime,US
+8,Life of Brian,1979,80.0,comedy,GB
+9,The Blue Lagoon,1980,58.0,romance,US
+10,Annie,1982,66.0,drama,US
+11,Christine,1983,67.0,horror,US
+12,Once Upon a Time in America,1984,83.0,drama,US
+13,Stand by Me,1986,81.0,drama,US
+14,Full Metal Jacket,1987,83.0,drama,GB
+15,When Harry Met Sally...,1989,77.0,romance,US
+16,Awakenings,1990,78.0,drama,US
+17,My Girl,1991,69.0,comedy,US
+18,A River Runs Through It,1992,72.0,drama,US
+19,Menace II Society,1993,75.0,drama,US
+20,Forrest Gump,1994,88.0,drama,US
+21,Desperado,1995,71.0,thriller,US
+22,Happy Gilmore,1996,70.0,comedy,US
+23,Neon Genesis Evangelion: The End of Evangelion,1997,80.0,scifi,JP
+24,Saving Private Ryan,1998,86.0,drama,US
+25,"Girl, Interrupted",1999,73.0,drama,US
+26,The Patriot,2000,72.0,drama,DE
+27,Lagaan: Once Upon a Time in India,2001,81.0,drama,IN
+28,Road to Perdition,2002,77.0,thriller,US
+29,Big Fish,2003,80.0,drama,US
+30,Swades,2004,81.0,drama,IN
+31,Memoirs of a Geisha,2005,73.0,drama,FR
+32,Rang De Basanti,2006,81.0,comedy,IN
+33,Like Stars on Earth,2007,83.0,drama,IN
+34,Ip Man,2008,80.0,drama,HK
+35,3 Idiots,2009,84.0,comedy,IN
+36,Inception,2010,88.0,scifi,GB
+37,Warrior,2011,82.0,drama,US
+38,Django Unchained,2012,84.0,western,US
+39,Rush,2013,81.0,drama,US
+40,Queen,2014,82.0,drama,IN
+41,Drishyam,2015,82.0,thriller,IN
+42,Dangal,2016,84.0,action,IN
+43,Bahubali 2: The Conclusion,2017,82.0,fantasy,IN
+44,Andhadhun,2018,82.0,thriller,IN
+45,Dave Chappelle: Sticks & Stones,2019,84.0,comedy,US
+46,David Attenborough: A Life on Our Planet,2020,90.0,documentary,GB
+47,Bo Burnham: Inside,2021,87.0,comedy,US
+48,The Tinder Swindler,2022,72.0,crime,GB
+index,TITLE,RELEASE_YEAR,SCORE,MAIN_GENRE,MAIN_PRODUCTION
+0,White Christmas,1954,75.0,romance,US
+1,The Guns of Navarone,1961,75.0,war,US
+2,My Fair Lady,1964,78.0,drama,US
+3,Bonnie and Clyde,1967,77.0,drama,US
+4,Dirty Harry,1971,77.0,thriller,US
+5,The Exorcist,1973,81.0,horror,US
+6,Monty Python and the Holy Grail,1975,82.0,comedy,GB
+7,Taxi Driver,1976,83.0,crime,US
+8,Life of Brian,1979,80.0,comedy,GB
+9,The Blue Lagoon,1980,58.0,romance,US
+10,Annie,1982,66.0,drama,US
+11,Christine,1983,67.0,horror,US
+12,Once Upon a Time in America,1984,83.0,drama,US
+13,Stand by Me,1986,81.0,drama,US
+14,Full Metal Jacket,1987,83.0,drama,GB
+15,When Harry Met Sally...,1989,77.0,romance,US
+16,Awakenings,1990,78.0,drama,US
+17,My Girl,1991,69.0,comedy,US
+18,A River Runs Through It,1992,72.0,drama,US
+19,Menace II Society,1993,75.0,drama,US
+20,Forrest Gump,1994,88.0,drama,US
+21,Desperado,1995,71.0,thriller,US
+22,Happy Gilmore,1996,70.0,comedy,US
+23,Neon Genesis Evangelion: The End of Evangelion,1997,80.0,scifi,JP
+24,Saving Private Ryan,1998,86.0,drama,US
+25,"Girl, Interrupted",1999,73.0,drama,US
+26,The Patriot,2000,72.0,drama,DE
+27,Lagaan: Once Upon a Time in India,2001,81.0,drama,IN
+28,Road to Perdition,2002,77.0,thriller,US
+29,Big Fish,2003,80.0,drama,US
+30,Swades,2004,81.0,drama,IN
+31,Memoirs of a Geisha,2005,73.0,drama,FR
+32,Rang De Basanti,2006,81.0,comedy,IN
+33,Like Stars on Earth,2007,83.0,drama,IN
+34,Ip Man,2008,80.0,drama,HK
+35,3 Idiots,2009,84.0,comedy,IN
+36,Inception,2010,88.0,scifi,GB
+37,Warrior,2011,82.0,drama,US
+38,Django Unchained,2012,84.0,western,US
+39,Rush,2013,81.0,drama,US
+40,Queen,2014,82.0,drama,IN
+41,Drishyam,2015,82.0,thriller,IN
+42,Dangal,2016,84.0,action,IN
+43,Bahubali 2: The Conclusion,2017,82.0,fantasy,IN
+44,Andhadhun,2018,82.0,thriller,IN
+45,Dave Chappelle: Sticks & Stones,2019,84.0,comedy,US
+46,David Attenborough: A Life on Our Planet,2020,90.0,documentary,GB
+47,Bo Burnham: Inside,2021,87.0,comedy,US
+48,The Tinder Swindler,2022,72.0,crime,GB
+index,TITLE,RELEASE_YEAR,SCORE,MAIN_GENRE,MAIN_PRODUCTION
+0,White Christmas,1954,75.0,romance,US
+1,The Guns of Navarone,1961,75.0,war,US
+2,My Fair Lady,1964,78.0,drama,US
+3,Bonnie and Clyde,1967,77.0,drama,US
+4,Dirty Harry,1971,77.0,thriller,US
+5,The Exorcist,1973,81.0,horror,US
+6,Monty Python and the Holy Grail,1975,82.0,comedy,GB
+7,Taxi Driver,1976,83.0,crime,US
+8,Life of Brian,1979,80.0,comedy,GB
+9,The Blue Lagoon,1980,58.0,romance,US
+10,Annie,1982,66.0,drama,US
+11,Christine,1983,67.0,horror,US
+12,Once Upon a Time in America,1984,83.0,drama,US
+13,Stand by Me,1986,81.0,drama,US
+14,Full Metal Jacket,1987,83.0,drama,GB
+15,When Harry Met Sally...,1989,77.0,romance,US
+16,Awakenings,1990,78.0,drama,US
+17,My Girl,1991,69.0,comedy,US
+18,A River Runs Through It,1992,72.0,drama,US
+19,Menace II Society,1993,75.0,drama,US
+20,Forrest Gump,1994,88.0,drama,US
+21,Desperado,1995,71.0,thriller,US
+22,Happy Gilmore,1996,70.0,comedy,US
+23,Neon Genesis Evangelion: The End of Evangelion,1997,80.0,scifi,JP
+24,Saving Private Ryan,1998,86.0,drama,US
+25,"Girl, Interrupted",1999,73.0,drama,US
+26,The Patriot,2000,72.0,drama,DE
+27,Lagaan: Once Upon a Time in India,2001,81.0,drama,IN
+28,Road to Perdition,2002,77.0,thriller,US
+29,Big Fish,2003,80.0,drama,US
+30,Swades,2004,81.0,drama,IN
+31,Memoirs of a Geisha,2005,73.0,drama,FR
+32,Rang De Basanti,2006,81.0,comedy,IN
+33,Like Stars on Earth,2007,83.0,drama,IN
+34,Ip Man,2008,80.0,drama,HK
+35,3 Idiots,2009,84.0,comedy,IN
+36,Inception,2010,88.0,scifi,GB
+37,Warrior,2011,82.0,drama,US
+38,Django Unchained,2012,84.0,western,US
+39,Rush,2013,81.0,drama,US
+40,Queen,2014,82.0,drama,IN
+41,Drishyam,2015,82.0,thriller,IN
+42,Dangal,2016,84.0,action,IN
+43,Bahubali 2: The Conclusion,2017,82.0,fantasy,IN
+44,Andhadhun,2018,82.0,thriller,IN
+45,Dave Chappelle: Sticks & Stones,2019,84.0,comedy,US
+46,David Attenborough: A Life on Our Planet,2020,90.0,documentary,GB
+47,Bo Burnham: Inside,2021,87.0,comedy,US
+48,The Tinder Swindler,2022,72.0,crime,GB
+index,TITLE,RELEASE_YEAR,SCORE,MAIN_GENRE,MAIN_PRODUCTION
+0,White Christmas,1954,75.0,romance,US
+1,The Guns of Navarone,1961,75.0,war,US
+2,My Fair Lady,1964,78.0,drama,US
+3,Bonnie and Clyde,1967,77.0,drama,US
+4,Dirty Harry,1971,77.0,thriller,US
+5,The Exorcist,1973,81.0,horror,US
+6,Monty Python and the Holy Grail,1975,82.0,comedy,GB
+7,Taxi Driver,1976,83.0,crime,US
+8,Life of Brian,1979,80.0,comedy,GB
+9,The Blue Lagoon,1980,58.0,romance,US
+10,Annie,1982,66.0,drama,US
+11,Christine,1983,67.0,horror,US
+12,Once Upon a Time in America,1984,83.0,drama,US
+13,Stand by Me,1986,81.0,drama,US
+14,Full Metal Jacket,1987,83.0,drama,GB
+15,When Harry Met Sally...,1989,77.0,romance,US
+16,Awakenings,1990,78.0,drama,US
+17,My Girl,1991,69.0,comedy,US
+18,A River Runs Through It,1992,72.0,drama,US
+19,Menace II Society,1993,75.0,drama,US
+20,Forrest Gump,1994,88.0,drama,US
+21,Desperado,1995,71.0,thriller,US
+22,Happy Gilmore,1996,70.0,comedy,US
+23,Neon Genesis Evangelion: The End of Evangelion,1997,80.0,scifi,JP
+24,Saving Private Ryan,1998,86.0,drama,US
+25,"Girl, Interrupted",1999,73.0,drama,US
+26,The Patriot,2000,72.0,drama,DE
+27,Lagaan: Once Upon a Time in India,2001,81.0,drama,IN
+28,Road to Perdition,2002,77.0,thriller,US
+29,Big Fish,2003,80.0,drama,US
+30,Swades,2004,81.0,drama,IN
+31,Memoirs of a Geisha,2005,73.0,drama,FR
+32,Rang De Basanti,2006,81.0,comedy,IN
+33,Like Stars on Earth,2007,83.0,drama,IN
+34,Ip Man,2008,80.0,drama,HK
+35,3 Idiots,2009,84.0,comedy,IN
+36,Inception,2010,88.0,scifi,GB
+37,Warrior,2011,82.0,drama,US
+38,Django Unchained,2012,84.0,western,US
+39,Rush,2013,81.0,drama,US
+40,Queen,2014,82.0,drama,IN
+41,Drishyam,2015,82.0,thriller,IN
+42,Dangal,2016,84.0,action,IN
+43,Bahubali 2: The Conclusion,2017,82.0,fantasy,IN
+44,Andhadhun,2018,82.0,thriller,IN
+45,Dave Chappelle: Sticks & Stones,2019,84.0,comedy,US
+46,David Attenborough: A Life on Our Planet,2020,90.0,documentary,GB
+47,Bo Burnham: Inside,2021,87.0,comedy,US
+48,The Tinder Swindler,2022,72.0,crime,GB
+index,TITLE,RELEASE_YEAR,SCORE,MAIN_GENRE,MAIN_PRODUCTION
+0,White Christmas,1954,75.0,romance,US
+1,The Guns of Navarone,1961,75.0,war,US
+2,My Fair Lady,1964,78.0,drama,US
+3,Bonnie and Clyde,1967,77.0,drama,US
+4,Dirty Harry,1971,77.0,thriller,US
+5,The Exorcist,1973,81.0,horror,US
+6,Monty Python and the Holy Grail,1975,82.0,comedy,GB
+7,Taxi Driver,1976,83.0,crime,US
+8,Life of Brian,1979,80.0,comedy,GB
+9,The Blue Lagoon,1980,58.0,romance,US
+10,Annie,1982,66.0,drama,US
+11,Christine,1983,67.0,horror,US
+12,Once Upon a Time in America,1984,83.0,drama,US
+13,Stand by Me,1986,81.0,drama,US
+14,Full Metal Jacket,1987,83.0,drama,GB
+15,When Harry Met Sally...,1989,77.0,romance,US
+16,Awakenings,1990,78.0,drama,US
+17,My Girl,1991,69.0,comedy,US
+18,A River Runs Through It,1992,72.0,drama,US
+19,Menace II Society,1993,75.0,drama,US
+20,Forrest Gump,1994,88.0,drama,US
+21,Desperado,1995,71.0,thriller,US
+22,Happy Gilmore,1996,70.0,comedy,US
+23,Neon Genesis Evangelion: The End of Evangelion,1997,80.0,scifi,JP
+24,Saving Private Ryan,1998,86.0,drama,US
+25,"Girl, Interrupted",1999,73.0,drama,US
+26,The Patriot,2000,72.0,drama,DE
+27,Lagaan: Once Upon a Time in India,2001,81.0,drama,IN
+28,Road to Perdition,2002,77.0,thriller,US
+29,Big Fish,2003,80.0,drama,US
+30,Swades,2004,81.0,drama,IN
+31,Memoirs of a Geisha,2005,73.0,drama,FR
+32,Rang De Basanti,2006,81.0,comedy,IN
+33,Like Stars on Earth,2007,83.0,drama,IN
+34,Ip Man,2008,80.0,drama,HK
+35,3 Idiots,2009,84.0,comedy,IN
+36,Inception,2010,88.0,scifi,GB
+37,Warrior,2011,82.0,drama,US
+38,Django Unchained,2012,84.0,western,US
+39,Rush,2013,81.0,drama,US
+40,Queen,2014,82.0,drama,IN
+41,Drishyam,2015,82.0,thriller,IN
+42,Dangal,2016,84.0,action,IN
+43,Bahubali 2: The Conclusion,2017,82.0,fantasy,IN
+44,Andhadhun,2018,82.0,thriller,IN
+45,Dave Chappelle: Sticks & Stones,2019,84.0,comedy,US
+46,David Attenborough: A Life on Our Planet,2020,90.0,documentary,GB
+47,Bo Burnham: Inside,2021,87.0,comedy,US
+48,The Tinder Swindler,2022,72.0,crime,GB
+index,TITLE,RELEASE_YEAR,SCORE,MAIN_GENRE,MAIN_PRODUCTION
+0,White Christmas,1954,75.0,romance,US
+1,The Guns of Navarone,1961,75.0,war,US
+2,My Fair Lady,1964,78.0,drama,US
+3,Bonnie and Clyde,1967,77.0,drama,US
+4,Dirty Harry,1971,77.0,thriller,US
+5,The Exorcist,1973,81.0,horror,US
+6,Monty Python and the Holy Grail,1975,82.0,comedy,GB
+7,Taxi Driver,1976,83.0,crime,US
+8,Life of Brian,1979,80.0,comedy,GB
+9,The Blue Lagoon,1980,58.0,romance,US
+10,Annie,1982,66.0,drama,US
+11,Christine,1983,67.0,horror,US
+12,Once Upon a Time in America,1984,83.0,drama,US
+13,Stand by Me,1986,81.0,drama,US
+14,Full Metal Jacket,1987,83.0,drama,GB
+15,When Harry Met Sally...,1989,77.0,romance,US
+16,Awakenings,1990,78.0,drama,US
+17,My Girl,1991,69.0,comedy,US
+18,A River Runs Through It,1992,72.0,drama,US
+19,Menace II Society,1993,75.0,drama,US
+20,Forrest Gump,1994,88.0,drama,US
+21,Desperado,1995,71.0,thriller,US
+22,Happy Gilmore,1996,70.0,comedy,US
+23,Neon Genesis Evangelion: The End of Evangelion,1997,80.0,scifi,JP
+24,Saving Private Ryan,1998,86.0,drama,US
+25,"Girl, Interrupted",1999,73.0,drama,US
+26,The Patriot,2000,72.0,drama,DE
+27,Lagaan: Once Upon a Time in India,2001,81.0,drama,IN
+28,Road to Perdition,2002,77.0,thriller,US
+29,Big Fish,2003,80.0,drama,US
+30,Swades,2004,81.0,drama,IN
+31,Memoirs of a Geisha,2005,73.0,drama,FR
+32,Rang De Basanti,2006,81.0,comedy,IN
+33,Like Stars on Earth,2007,83.0,drama,IN
+34,Ip Man,2008,80.0,drama,HK
+35,3 Idiots,2009,84.0,comedy,IN
+36,Inception,2010,88.0,scifi,GB
+37,Warrior,2011,82.0,drama,US
+38,Django Unchained,2012,84.0,western,US
+39,Rush,2013,81.0,drama,US
+40,Queen,2014,82.0,drama,IN
+41,Drishyam,2015,82.0,thriller,IN
+42,Dangal,2016,84.0,action,IN
+43,Bahubali 2: The Conclusion,2017,82.0,fantasy,IN
+44,Andhadhun,2018,82.0,thriller,IN
+45,Dave Chappelle: Sticks & Stones,2019,84.0,comedy,US
+46,David Attenborough: A Life on Our Planet,2020,90.0,documentary,GB
+47,Bo Burnham: Inside,2021,87.0,comedy,US
+48,The Tinder Swindler,2022,72.0,crime,GB
+index,TITLE,RELEASE_YEAR,SCORE,MAIN_GENRE,MAIN_PRODUCTION
+0,White Christmas,1954,75.0,romance,US
+1,The Guns of Navarone,1961,75.0,war,US
+2,My Fair Lady,1964,78.0,drama,US
+3,Bonnie and Clyde,1967,77.0,drama,US
+4,Dirty Harry,1971,77.0,thriller,US
+5,The Exorcist,1973,81.0,horror,US
+6,Monty Python and the Holy Grail,1975,82.0,comedy,GB
+7,Taxi Driver,1976,83.0,crime,US
+8,Life of Brian,1979,80.0,comedy,GB
+9,The Blue Lagoon,1980,58.0,romance,US
+10,Annie,1982,66.0,drama,US
+11,Christine,1983,67.0,horror,US
+12,Once Upon a Time in America,1984,83.0,drama,US
+13,Stand by Me,1986,81.0,drama,US
+14,Full Metal Jacket,1987,83.0,drama,GB
+15,When Harry Met Sally...,1989,77.0,romance,US
+16,Awakenings,1990,78.0,drama,US
+17,My Girl,1991,69.0,comedy,US
+18,A River Runs Through It,1992,72.0,drama,US
+19,Menace II Society,1993,75.0,drama,US
+20,Forrest Gump,1994,88.0,drama,US
+21,Desperado,1995,71.0,thriller,US
+22,Happy Gilmore,1996,70.0,comedy,US
+23,Neon Genesis Evangelion: The End of Evangelion,1997,80.0,scifi,JP
+24,Saving Private Ryan,1998,86.0,drama,US
+25,"Girl, Interrupted",1999,73.0,drama,US
+26,The Patriot,2000,72.0,drama,DE
+27,Lagaan: Once Upon a Time in India,2001,81.0,drama,IN
+28,Road to Perdition,2002,77.0,thriller,US
+29,Big Fish,2003,80.0,drama,US
+30,Swades,2004,81.0,drama,IN
+31,Memoirs of a Geisha,2005,73.0,drama,FR
+32,Rang De Basanti,2006,81.0,comedy,IN
+33,Like Stars on Earth,2007,83.0,drama,IN
+34,Ip Man,2008,80.0,drama,HK
+35,3 Idiots,2009,84.0,comedy,IN
+36,Inception,2010,88.0,scifi,GB
+37,Warrior,2011,82.0,drama,US
+38,Django Unchained,2012,84.0,western,US
+39,Rush,2013,81.0,drama,US
+40,Queen,2014,82.0,drama,IN
+41,Drishyam,2015,82.0,thriller,IN
+42,Dangal,2016,84.0,action,IN
+43,Bahubali 2: The Conclusion,2017,82.0,fantasy,IN
+44,Andhadhun,2018,82.0,thriller,IN
+45,Dave Chappelle: Sticks & Stones,2019,84.0,comedy,US
+46,David Attenborough: A Life on Our Planet,2020,90.0,documentary,GB
+47,Bo Burnham: Inside,2021,87.0,comedy,US
+48,The Tinder Swindler,2022,72.0,crime,GB
+index,TITLE,RELEASE_YEAR,SCORE,MAIN_GENRE,MAIN_PRODUCTION
+0,White Christmas,1954,75.0,romance,US
+1,The Guns of Navarone,1961,75.0,war,US
+2,My Fair Lady,1964,78.0,drama,US
+3,Bonnie and Clyde,1967,77.0,drama,US
+4,Dirty Harry,1971,77.0,thriller,US
+5,The Exorcist,1973,81.0,horror,US
+6,Monty Python and the Holy Grail,1975,82.0,comedy,GB
+7,Taxi Driver,1976,83.0,crime,US
+8,Life of Brian,1979,80.0,comedy,GB
+9,The Blue Lagoon,1980,58.0,romance,US
+10,Annie,1982,66.0,drama,US
+11,Christine,1983,67.0,horror,US
+12,Once Upon a Time in America,1984,83.0,drama,US
+13,Stand by Me,1986,81.0,drama,US
+14,Full Metal Jacket,1987,83.0,drama,GB
+15,When Harry Met Sally...,1989,77.0,romance,US
+16,Awakenings,1990,78.0,drama,US
+17,My Girl,1991,69.0,comedy,US
+18,A River Runs Through It,1992,72.0,drama,US
+19,Menace II Society,1993,75.0,drama,US
+20,Forrest Gump,1994,88.0,drama,US
+21,Desperado,1995,71.0,thriller,US
+22,Happy Gilmore,1996,70.0,comedy,US
+23,Neon Genesis Evangelion: The End of Evangelion,1997,80.0,scifi,JP
+24,Saving Private Ryan,1998,86.0,drama,US
+25,"Girl, Interrupted",1999,73.0,drama,US
+26,The Patriot,2000,72.0,drama,DE
+27,Lagaan: Once Upon a Time in India,2001,81.0,drama,IN
+28,Road to Perdition,2002,77.0,thriller,US
+29,Big Fish,2003,80.0,drama,US
+30,Swades,2004,81.0,drama,IN
+31,Memoirs of a Geisha,2005,73.0,drama,FR
+32,Rang De Basanti,2006,81.0,comedy,IN
+33,Like Stars on Earth,2007,83.0,drama,IN
+34,Ip Man,2008,80.0,drama,HK
+35,3 Idiots,2009,84.0,comedy,IN
+36,Inception,2010,88.0,scifi,GB
+37,Warrior,2011,82.0,drama,US
+38,Django Unchained,2012,84.0,western,US
+39,Rush,2013,81.0,drama,US
+40,Queen,2014,82.0,drama,IN
+41,Drishyam,2015,82.0,thriller,IN
+42,Dangal,2016,84.0,action,IN
+43,Bahubali 2: The Conclusion,2017,82.0,fantasy,IN
+44,Andhadhun,2018,82.0,thriller,IN
+45,Dave Chappelle: Sticks & Stones,2019,84.0,comedy,US
+46,David Attenborough: A Life on Our Planet,2020,90.0,documentary,GB
+47,Bo Burnham: Inside,2021,87.0,comedy,US
+48,The Tinder Swindler,2022,72.0,crime,GB
+index,TITLE,RELEASE_YEAR,SCORE,MAIN_GENRE,MAIN_PRODUCTION
+0,White Christmas,1954,75.0,romance,US
+1,The Guns of Navarone,1961,75.0,war,US
+2,My Fair Lady,1964,78.0,drama,US
+3,Bonnie and Clyde,1967,77.0,drama,US
+4,Dirty Harry,1971,77.0,thriller,US
+5,The Exorcist,1973,81.0,horror,US
+6,Monty Python and the Holy Grail,1975,82.0,comedy,GB
+7,Taxi Driver,1976,83.0,crime,US
+8,Life of Brian,1979,80.0,comedy,GB
+9,The Blue Lagoon,1980,58.0,romance,US
+10,Annie,1982,66.0,drama,US
+11,Christine,1983,67.0,horror,US
+12,Once Upon a Time in America,1984,83.0,drama,US
+13,Stand by Me,1986,81.0,drama,US
+14,Full Metal Jacket,1987,83.0,drama,GB
+15,When Harry Met Sally...,1989,77.0,romance,US
+16,Awakenings,1990,78.0,drama,US
+17,My Girl,1991,69.0,comedy,US
+18,A River Runs Through It,1992,72.0,drama,US
+19,Menace II Society,1993,75.0,drama,US
+20,Forrest Gump,1994,88.0,drama,US
+21,Desperado,1995,71.0,thriller,US
+22,Happy Gilmore,1996,70.0,comedy,US
+23,Neon Genesis Evangelion: The End of Evangelion,1997,80.0,scifi,JP
+24,Saving Private Ryan,1998,86.0,drama,US
+25,"Girl, Interrupted",1999,73.0,drama,US
+26,The Patriot,2000,72.0,drama,DE
+27,Lagaan: Once Upon a Time in India,2001,81.0,drama,IN
+28,Road to Perdition,2002,77.0,thriller,US
+29,Big Fish,2003,80.0,drama,US
+30,Swades,2004,81.0,drama,IN
+31,Memoirs of a Geisha,2005,73.0,drama,FR
+32,Rang De Basanti,2006,81.0,comedy,IN
+33,Like Stars on Earth,2007,83.0,drama,IN
+34,Ip Man,2008,80.0,drama,HK
+35,3 Idiots,2009,84.0,comedy,IN
+36,Inception,2010,88.0,scifi,GB
+37,Warrior,2011,82.0,drama,US
+38,Django Unchained,2012,84.0,western,US
+39,Rush,2013,81.0,drama,US
+40,Queen,2014,82.0,drama,IN
+41,Drishyam,2015,82.0,thriller,IN
+42,Dangal,2016,84.0,action,IN
+43,Bahubali 2: The Conclusion,2017,82.0,fantasy,IN
+44,Andhadhun,2018,82.0,thriller,IN
+45,Dave Chappelle: Sticks & Stones,2019,84.0,comedy,US
+46,David Attenborough: A Life on Our Planet,2020,90.0,documentary,GB
+47,Bo Burnham: Inside,2021,87.0,comedy,US
+48,The Tinder Swindler,2022,72.0,crime,GB
+index,TITLE,RELEASE_YEAR,SCORE,MAIN_GENRE,MAIN_PRODUCTION
+0,White Christmas,1954,75.0,romance,US
+1,The Guns of Navarone,1961,75.0,war,US
+2,My Fair Lady,1964,78.0,drama,US
+3,Bonnie and Clyde,1967,77.0,drama,US
+4,Dirty Harry,1971,77.0,thriller,US
+5,The Exorcist,1973,81.0,horror,US
+6,Monty Python and the Holy Grail,1975,82.0,comedy,GB
+7,Taxi Driver,1976,83.0,crime,US
+8,Life of Brian,1979,80.0,comedy,GB
+9,The Blue Lagoon,1980,58.0,romance,US
+10,Annie,1982,66.0,drama,US
+11,Christine,1983,67.0,horror,US
+12,Once Upon a Time in America,1984,83.0,drama,US
+13,Stand by Me,1986,81.0,drama,US
+14,Full Metal Jacket,1987,83.0,drama,GB
+15,When Harry Met Sally...,1989,77.0,romance,US
+16,Awakenings,1990,78.0,drama,US
+17,My Girl,1991,69.0,comedy,US
+18,A River Runs Through It,1992,72.0,drama,US
+19,Menace II Society,1993,75.0,drama,US
+20,Forrest Gump,1994,88.0,drama,US
+21,Desperado,1995,71.0,thriller,US
+22,Happy Gilmore,1996,70.0,comedy,US
+23,Neon Genesis Evangelion: The End of Evangelion,1997,80.0,scifi,JP
+24,Saving Private Ryan,1998,86.0,drama,US
+25,"Girl, Interrupted",1999,73.0,drama,US
+26,The Patriot,2000,72.0,drama,DE
+27,Lagaan: Once Upon a Time in India,2001,81.0,drama,IN
+28,Road to Perdition,2002,77.0,thriller,US
+29,Big Fish,2003,80.0,drama,US
+30,Swades,2004,81.0,drama,IN
+31,Memoirs of a Geisha,2005,73.0,drama,FR
+32,Rang De Basanti,2006,81.0,comedy,IN
+33,Like Stars on Earth,2007,83.0,drama,IN
+34,Ip Man,2008,80.0,drama,HK
+35,3 Idiots,2009,84.0,comedy,IN
+36,Inception,2010,88.0,scifi,GB
+37,Warrior,2011,82.0,drama,US
+38,Django Unchained,2012,84.0,western,US
+39,Rush,2013,81.0,drama,US
+40,Queen,2014,82.0,drama,IN
+41,Drishyam,2015,82.0,thriller,IN
+42,Dangal,2016,84.0,action,IN
+43,Bahubali 2: The Conclusion,2017,82.0,fantasy,IN
+44,Andhadhun,2018,82.0,thriller,IN
+45,Dave Chappelle: Sticks & Stones,2019,84.0,comedy,US
+46,David Attenborough: A Life on Our Planet,2020,90.0,documentary,GB
+47,Bo Burnham: Inside,2021,87.0,comedy,US
+48,The Tinder Swindler,2022,72.0,crime,GB
+index,TITLE,RELEASE_YEAR,SCORE,MAIN_GENRE,MAIN_PRODUCTION
+0,White Christmas,1954,75.0,romance,US
+1,The Guns of Navarone,1961,75.0,war,US
+2,My Fair Lady,1964,78.0,drama,US
+3,Bonnie and Clyde,1967,77.0,drama,US
+4,Dirty Harry,1971,77.0,thriller,US
+5,The Exorcist,1973,81.0,horror,US
+6,Monty Python and the Holy Grail,1975,82.0,comedy,GB
+7,Taxi Driver,1976,83.0,crime,US
+8,Life of Brian,1979,80.0,comedy,GB
+9,The Blue Lagoon,1980,58.0,romance,US
+10,Annie,1982,66.0,drama,US
+11,Christine,1983,67.0,horror,US
+12,Once Upon a Time in America,1984,83.0,drama,US
+13,Stand by Me,1986,81.0,drama,US
+14,Full Metal Jacket,1987,83.0,drama,GB
+15,When Harry Met Sally...,1989,77.0,romance,US
+16,Awakenings,1990,78.0,drama,US
+17,My Girl,1991,69.0,comedy,US
+18,A River Runs Through It,1992,72.0,drama,US
+19,Menace II Society,1993,75.0,drama,US
+20,Forrest Gump,1994,88.0,drama,US
+21,Desperado,1995,71.0,thriller,US
+22,Happy Gilmore,1996,70.0,comedy,US
+23,Neon Genesis Evangelion: The End of Evangelion,1997,80.0,scifi,JP
+24,Saving Private Ryan,1998,86.0,drama,US
+25,"Girl, Interrupted",1999,73.0,drama,US
+26,The Patriot,2000,72.0,drama,DE
+27,Lagaan: Once Upon a Time in India,2001,81.0,drama,IN
+28,Road to Perdition,2002,77.0,thriller,US
+29,Big Fish,2003,80.0,drama,US
+30,Swades,2004,81.0,drama,IN
+31,Memoirs of a Geisha,2005,73.0,drama,FR
+32,Rang De Basanti,2006,81.0,comedy,IN
+33,Like Stars on Earth,2007,83.0,drama,IN
+34,Ip Man,2008,80.0,drama,HK
+35,3 Idiots,2009,84.0,comedy,IN
+36,Inception,2010,88.0,scifi,GB
+37,Warrior,2011,82.0,drama,US
+38,Django Unchained,2012,84.0,western,US
+39,Rush,2013,81.0,drama,US
+40,Queen,2014,82.0,drama,IN
+41,Drishyam,2015,82.0,thriller,IN
+42,Dangal,2016,84.0,action,IN
+43,Bahubali 2: The Conclusion,2017,82.0,fantasy,IN
+44,Andhadhun,2018,82.0,thriller,IN
+45,Dave Chappelle: Sticks & Stones,2019,84.0,comedy,US
+46,David Attenborough: A Life on Our Planet,2020,90.0,documentary,GB
+47,Bo Burnham: Inside,2021,87.0,comedy,US
+48,The Tinder Swindler,2022,72.0,crime,GB
+index,TITLE,RELEASE_YEAR,SCORE,MAIN_GENRE,MAIN_PRODUCTION
+0,White Christmas,1954,75.0,romance,US
+1,The Guns of Navarone,1961,75.0,war,US
+2,My Fair Lady,1964,78.0,drama,US
+3,Bonnie and Clyde,1967,77.0,drama,US
+4,Dirty Harry,1971,77.0,thriller,US
+5,The Exorcist,1973,81.0,horror,US
+6,Monty Python and the Holy Grail,1975,82.0,comedy,GB
+7,Taxi Driver,1976,83.0,crime,US
+8,Life of Brian,1979,80.0,comedy,GB
+9,The Blue Lagoon,1980,58.0,romance,US
+10,Annie,1982,66.0,drama,US
+11,Christine,1983,67.0,horror,US
+12,Once Upon a Time in America,1984,83.0,drama,US
+13,Stand by Me,1986,81.0,drama,US
+14,Full Metal Jacket,1987,83.0,drama,GB
+15,When Harry Met Sally...,1989,77.0,romance,US
+16,Awakenings,1990,78.0,drama,US
+17,My Girl,1991,69.0,comedy,US
+18,A River Runs Through It,1992,72.0,drama,US
+19,Menace II Society,1993,75.0,drama,US
+20,Forrest Gump,1994,88.0,drama,US
+21,Desperado,1995,71.0,thriller,US
+22,Happy Gilmore,1996,70.0,comedy,US
+23,Neon Genesis Evangelion: The End of Evangelion,1997,80.0,scifi,JP
+24,Saving Private Ryan,1998,86.0,drama,US
+25,"Girl, Interrupted",1999,73.0,drama,US
+26,The Patriot,2000,72.0,drama,DE
+27,Lagaan: Once Upon a Time in India,2001,81.0,drama,IN
+28,Road to Perdition,2002,77.0,thriller,US
+29,Big Fish,2003,80.0,drama,US
+30,Swades,2004,81.0,drama,IN
+31,Memoirs of a Geisha,2005,73.0,drama,FR
+32,Rang De Basanti,2006,81.0,comedy,IN
+33,Like Stars on Earth,2007,83.0,drama,IN
+34,Ip Man,2008,80.0,drama,HK
+35,3 Idiots,2009,84.0,comedy,IN
+36,Inception,2010,88.0,scifi,GB
+37,Warrior,2011,82.0,drama,US
+38,Django Unchained,2012,84.0,western,US
+39,Rush,2013,81.0,drama,US
+40,Queen,2014,82.0,drama,IN
+41,Drishyam,2015,82.0,thriller,IN
+42,Dangal,2016,84.0,action,IN
+43,Bahubali 2: The Conclusion,2017,82.0,fantasy,IN
+44,Andhadhun,2018,82.0,thriller,IN
+45,Dave Chappelle: Sticks & Stones,2019,84.0,comedy,US
+46,David Attenborough: A Life on Our Planet,2020,90.0,documentary,GB
+47,Bo Burnham: Inside,2021,87.0,comedy,US
+48,The Tinder Swindler,2022,72.0,crime,GB
+index,TITLE,RELEASE_YEAR,SCORE,MAIN_GENRE,MAIN_PRODUCTION
+0,White Christmas,1954,75.0,romance,US
+1,The Guns of Navarone,1961,75.0,war,US
+2,My Fair Lady,1964,78.0,drama,US
+3,Bonnie and Clyde,1967,77.0,drama,US
+4,Dirty Harry,1971,77.0,thriller,US
+5,The Exorcist,1973,81.0,horror,US
+6,Monty Python and the Holy Grail,1975,82.0,comedy,GB
+7,Taxi Driver,1976,83.0,crime,US
+8,Life of Brian,1979,80.0,comedy,GB
+9,The Blue Lagoon,1980,58.0,romance,US
+10,Annie,1982,66.0,drama,US
+11,Christine,1983,67.0,horror,US
+12,Once Upon a Time in America,1984,83.0,drama,US
+13,Stand by Me,1986,81.0,drama,US
+14,Full Metal Jacket,1987,83.0,drama,GB
+15,When Harry Met Sally...,1989,77.0,romance,US
+16,Awakenings,1990,78.0,drama,US
+17,My Girl,1991,69.0,comedy,US
+18,A River Runs Through It,1992,72.0,drama,US
+19,Menace II Society,1993,75.0,drama,US
+20,Forrest Gump,1994,88.0,drama,US
+21,Desperado,1995,71.0,thriller,US
+22,Happy Gilmore,1996,70.0,comedy,US
+23,Neon Genesis Evangelion: The End of Evangelion,1997,80.0,scifi,JP
+24,Saving Private Ryan,1998,86.0,drama,US
+25,"Girl, Interrupted",1999,73.0,drama,US
+26,The Patriot,2000,72.0,drama,DE
+27,Lagaan: Once Upon a Time in India,2001,81.0,drama,IN
+28,Road to Perdition,2002,77.0,thriller,US
+29,Big Fish,2003,80.0,drama,US
+30,Swades,2004,81.0,drama,IN
+31,Memoirs of a Geisha,2005,73.0,drama,FR
+32,Rang De Basanti,2006,81.0,comedy,IN
+33,Like Stars on Earth,2007,83.0,drama,IN
+34,Ip Man,2008,80.0,drama,HK
+35,3 Idiots,2009,84.0,comedy,IN
+36,Inception,2010,88.0,scifi,GB
+37,Warrior,2011,82.0,drama,US
+38,Django Unchained,2012,84.0,western,US
+39,Rush,2013,81.0,drama,US
+40,Queen,2014,82.0,drama,IN
+41,Drishyam,2015,82.0,thriller,IN
+42,Dangal,2016,84.0,action,IN
+43,Bahubali 2: The Conclusion,2017,82.0,fantasy,IN
+44,Andhadhun,2018,82.0,thriller,IN
+45,Dave Chappelle: Sticks & Stones,2019,84.0,comedy,US
+46,David Attenborough: A Life on Our Planet,2020,90.0,documentary,GB
+47,Bo Burnham: Inside,2021,87.0,comedy,US
+48,The Tinder Swindler,2022,72.0,crime,GB
+index,TITLE,RELEASE_YEAR,SCORE,MAIN_GENRE,MAIN_PRODUCTION
+0,White Christmas,1954,75.0,romance,US
+1,The Guns of Navarone,1961,75.0,war,US
+2,My Fair Lady,1964,78.0,drama,US
+3,Bonnie and Clyde,1967,77.0,drama,US
+4,Dirty Harry,1971,77.0,thriller,US
+5,The Exorcist,1973,81.0,horror,US
+6,Monty Python and the Holy Grail,1975,82.0,comedy,GB
+7,Taxi Driver,1976,83.0,crime,US
+8,Life of Brian,1979,80.0,comedy,GB
+9,The Blue Lagoon,1980,58.0,romance,US
+10,Annie,1982,66.0,drama,US
+11,Christine,1983,67.0,horror,US
+12,Once Upon a Time in America,1984,83.0,drama,US
+13,Stand by Me,1986,81.0,drama,US
+14,Full Metal Jacket,1987,83.0,drama,GB
+15,When Harry Met Sally...,1989,77.0,romance,US
+16,Awakenings,1990,78.0,drama,US
+17,My Girl,1991,69.0,comedy,US
+18,A River Runs Through It,1992,72.0,drama,US
+19,Menace II Society,1993,75.0,drama,US
+20,Forrest Gump,1994,88.0,drama,US
+21,Desperado,1995,71.0,thriller,US
+22,Happy Gilmore,1996,70.0,comedy,US
+23,Neon Genesis Evangelion: The End of Evangelion,1997,80.0,scifi,JP
+24,Saving Private Ryan,1998,86.0,drama,US
+25,"Girl, Interrupted",1999,73.0,drama,US
+26,The Patriot,2000,72.0,drama,DE
+27,Lagaan: Once Upon a Time in India,2001,81.0,drama,IN
+28,Road to Perdition,2002,77.0,thriller,US
+29,Big Fish,2003,80.0,drama,US
+30,Swades,2004,81.0,drama,IN
+31,Memoirs of a Geisha,2005,73.0,drama,FR
+32,Rang De Basanti,2006,81.0,comedy,IN
+33,Like Stars on Earth,2007,83.0,drama,IN
+34,Ip Man,2008,80.0,drama,HK
+35,3 Idiots,2009,84.0,comedy,IN
+36,Inception,2010,88.0,scifi,GB
+37,Warrior,2011,82.0,drama,US
+38,Django Unchained,2012,84.0,western,US
+39,Rush,2013,81.0,drama,US
+40,Queen,2014,82.0,drama,IN
+41,Drishyam,2015,82.0,thriller,IN
+42,Dangal,2016,84.0,action,IN
+43,Bahubali 2: The Conclusion,2017,82.0,fantasy,IN
+44,Andhadhun,2018,82.0,thriller,IN
+45,Dave Chappelle: Sticks & Stones,2019,84.0,comedy,US
+46,David Attenborough: A Life on Our Planet,2020,90.0,documentary,GB
+47,Bo Burnham: Inside,2021,87.0,comedy,US
+48,The Tinder Swindler,2022,72.0,crime,GB
+index,TITLE,RELEASE_YEAR,SCORE,MAIN_GENRE,MAIN_PRODUCTION
+0,White Christmas,1954,75.0,romance,US
+1,The Guns of Navarone,1961,75.0,war,US
+2,My Fair Lady,1964,78.0,drama,US
+3,Bonnie and Clyde,1967,77.0,drama,US
+4,Dirty Harry,1971,77.0,thriller,US
+5,The Exorcist,1973,81.0,horror,US
+6,Monty Python and the Holy Grail,1975,82.0,comedy,GB
+7,Taxi Driver,1976,83.0,crime,US
+8,Life of Brian,1979,80.0,comedy,GB
+9,The Blue Lagoon,1980,58.0,romance,US
+10,Annie,1982,66.0,drama,US
+11,Christine,1983,67.0,horror,US
+12,Once Upon a Time in America,1984,83.0,drama,US
+13,Stand by Me,1986,81.0,drama,US
+14,Full Metal Jacket,1987,83.0,drama,GB
+15,When Harry Met Sally...,1989,77.0,romance,US
+16,Awakenings,1990,78.0,drama,US
+17,My Girl,1991,69.0,comedy,US
+18,A River Runs Through It,1992,72.0,drama,US
+19,Menace II Society,1993,75.0,drama,US
+20,Forrest Gump,1994,88.0,drama,US
+21,Desperado,1995,71.0,thriller,US
+22,Happy Gilmore,1996,70.0,comedy,US
+23,Neon Genesis Evangelion: The End of Evangelion,1997,80.0,scifi,JP
+24,Saving Private Ryan,1998,86.0,drama,US
+25,"Girl, Interrupted",1999,73.0,drama,US
+26,The Patriot,2000,72.0,drama,DE
+27,Lagaan: Once Upon a Time in India,2001,81.0,drama,IN
+28,Road to Perdition,2002,77.0,thriller,US
+29,Big Fish,2003,80.0,drama,US
+30,Swades,2004,81.0,drama,IN
+31,Memoirs of a Geisha,2005,73.0,drama,FR
+32,Rang De Basanti,2006,81.0,comedy,IN
+33,Like Stars on Earth,2007,83.0,drama,IN
+34,Ip Man,2008,80.0,drama,HK
+35,3 Idiots,2009,84.0,comedy,IN
+36,Inception,2010,88.0,scifi,GB
+37,Warrior,2011,82.0,drama,US
+38,Django Unchained,2012,84.0,western,US
+39,Rush,2013,81.0,drama,US
+40,Queen,2014,82.0,drama,IN
+41,Drishyam,2015,82.0,thriller,IN
+42,Dangal,2016,84.0,action,IN
+43,Bahubali 2: The Conclusion,2017,82.0,fantasy,IN
+44,Andhadhun,2018,82.0,thriller,IN
+45,Dave Chappelle: Sticks & Stones,2019,84.0,comedy,US
+46,David Attenborough: A Life on Our Planet,2020,90.0,documentary,GB
+47,Bo Burnham: Inside,2021,87.0,comedy,US
+48,The Tinder Swindler,2022,72.0,crime,GB
+index,TITLE,RELEASE_YEAR,SCORE,MAIN_GENRE,MAIN_PRODUCTION
+0,White Christmas,1954,75.0,romance,US
+1,The Guns of Navarone,1961,75.0,war,US
+2,My Fair Lady,1964,78.0,drama,US
+3,Bonnie and Clyde,1967,77.0,drama,US
+4,Dirty Harry,1971,77.0,thriller,US
+5,The Exorcist,1973,81.0,horror,US
+6,Monty Python and the Holy Grail,1975,82.0,comedy,GB
+7,Taxi Driver,1976,83.0,crime,US
+8,Life of Brian,1979,80.0,comedy,GB
+9,The Blue Lagoon,1980,58.0,romance,US
+10,Annie,1982,66.0,drama,US
+11,Christine,1983,67.0,horror,US
+12,Once Upon a Time in America,1984,83.0,drama,US
+13,Stand by Me,1986,81.0,drama,US
+14,Full Metal Jacket,1987,83.0,drama,GB
+15,When Harry Met Sally...,1989,77.0,romance,US
+16,Awakenings,1990,78.0,drama,US
+17,My Girl,1991,69.0,comedy,US
+18,A River Runs Through It,1992,72.0,drama,US
+19,Menace II Society,1993,75.0,drama,US
+20,Forrest Gump,1994,88.0,drama,US
+21,Desperado,1995,71.0,thriller,US
+22,Happy Gilmore,1996,70.0,comedy,US
+23,Neon Genesis Evangelion: The End of Evangelion,1997,80.0,scifi,JP
+24,Saving Private Ryan,1998,86.0,drama,US
+25,"Girl, Interrupted",1999,73.0,drama,US
+26,The Patriot,2000,72.0,drama,DE
+27,Lagaan: Once Upon a Time in India,2001,81.0,drama,IN
+28,Road to Perdition,2002,77.0,thriller,US
+29,Big Fish,2003,80.0,drama,US
+30,Swades,2004,81.0,drama,IN
+31,Memoirs of a Geisha,2005,73.0,drama,FR
+32,Rang De Basanti,2006,81.0,comedy,IN
+33,Like Stars on Earth,2007,83.0,drama,IN
+34,Ip Man,2008,80.0,drama,HK
+35,3 Idiots,2009,84.0,comedy,IN
+36,Inception,2010,88.0,scifi,GB
+37,Warrior,2011,82.0,drama,US
+38,Django Unchained,2012,84.0,western,US
+39,Rush,2013,81.0,drama,US
+40,Queen,2014,82.0,drama,IN
+41,Drishyam,2015,82.0,thriller,IN
+42,Dangal,2016,84.0,action,IN
+43,Bahubali 2: The Conclusion,2017,82.0,fantasy,IN
+44,Andhadhun,2018,82.0,thriller,IN
+45,Dave Chappelle: Sticks & Stones,2019,84.0,comedy,US
+46,David Attenborough: A Life on Our Planet,2020,90.0,documentary,GB
+47,Bo Burnham: Inside,2021,87.0,comedy,US
+48,The Tinder Swindler,2022,72.0,crime,GB
+index,TITLE,RELEASE_YEAR,SCORE,MAIN_GENRE,MAIN_PRODUCTION
+0,White Christmas,1954,75.0,romance,US
+1,The Guns of Navarone,1961,75.0,war,US
+2,My Fair Lady,1964,78.0,drama,US
+3,Bonnie and Clyde,1967,77.0,drama,US
+4,Dirty Harry,1971,77.0,thriller,US
+5,The Exorcist,1973,81.0,horror,US
+6,Monty Python and the Holy Grail,1975,82.0,comedy,GB
+7,Taxi Driver,1976,83.0,crime,US
+8,Life of Brian,1979,80.0,comedy,GB
+9,The Blue Lagoon,1980,58.0,romance,US
+10,Annie,1982,66.0,drama,US
+11,Christine,1983,67.0,horror,US
+12,Once Upon a Time in America,1984,83.0,drama,US
+13,Stand by Me,1986,81.0,drama,US
+14,Full Metal Jacket,1987,83.0,drama,GB
+15,When Harry Met Sally...,1989,77.0,romance,US
+16,Awakenings,1990,78.0,drama,US
+17,My Girl,1991,69.0,comedy,US
+18,A River Runs Through It,1992,72.0,drama,US
+19,Menace II Society,1993,75.0,drama,US
+20,Forrest Gump,1994,88.0,drama,US
+21,Desperado,1995,71.0,thriller,US
+22,Happy Gilmore,1996,70.0,comedy,US
+23,Neon Genesis Evangelion: The End of Evangelion,1997,80.0,scifi,JP
+24,Saving Private Ryan,1998,86.0,drama,US
+25,"Girl, Interrupted",1999,73.0,drama,US
+26,The Patriot,2000,72.0,drama,DE
+27,Lagaan: Once Upon a Time in India,2001,81.0,drama,IN
+28,Road to Perdition,2002,77.0,thriller,US
+29,Big Fish,2003,80.0,drama,US
+30,Swades,2004,81.0,drama,IN
+31,Memoirs of a Geisha,2005,73.0,drama,FR
+32,Rang De Basanti,2006,81.0,comedy,IN
+33,Like Stars on Earth,2007,83.0,drama,IN
+34,Ip Man,2008,80.0,drama,HK
+35,3 Idiots,2009,84.0,comedy,IN
+36,Inception,2010,88.0,scifi,GB
+37,Warrior,2011,82.0,drama,US
+38,Django Unchained,2012,84.0,western,US
+39,Rush,2013,81.0,drama,US
+40,Queen,2014,82.0,drama,IN
+41,Drishyam,2015,82.0,thriller,IN
+42,Dangal,2016,84.0,action,IN
+43,Bahubali 2: The Conclusion,2017,82.0,fantasy,IN
+44,Andhadhun,2018,82.0,thriller,IN
+45,Dave Chappelle: Sticks & Stones,2019,84.0,comedy,US
+46,David Attenborough: A Life on Our Planet,2020,90.0,documentary,GB
+47,Bo Burnham: Inside,2021,87.0,comedy,US
+48,The Tinder Swindler,2022,72.0,crime,GB
+index,TITLE,RELEASE_YEAR,SCORE,MAIN_GENRE,MAIN_PRODUCTION
+0,White Christmas,1954,75.0,romance,US
+1,The Guns of Navarone,1961,75.0,war,US
+2,My Fair Lady,1964,78.0,drama,US
+3,Bonnie and Clyde,1967,77.0,drama,US
+4,Dirty Harry,1971,77.0,thriller,US
+5,The Exorcist,1973,81.0,horror,US
+6,Monty Python and the Holy Grail,1975,82.0,comedy,GB
+7,Taxi Driver,1976,83.0,crime,US
+8,Life of Brian,1979,80.0,comedy,GB
+9,The Blue Lagoon,1980,58.0,romance,US
+10,Annie,1982,66.0,drama,US
+11,Christine,1983,67.0,horror,US
+12,Once Upon a Time in America,1984,83.0,drama,US
+13,Stand by Me,1986,81.0,drama,US
+14,Full Metal Jacket,1987,83.0,drama,GB
+15,When Harry Met Sally...,1989,77.0,romance,US
+16,Awakenings,1990,78.0,drama,US
+17,My Girl,1991,69.0,comedy,US
+18,A River Runs Through It,1992,72.0,drama,US
+19,Menace II Society,1993,75.0,drama,US
+20,Forrest Gump,1994,88.0,drama,US
+21,Desperado,1995,71.0,thriller,US
+22,Happy Gilmore,1996,70.0,comedy,US
+23,Neon Genesis Evangelion: The End of Evangelion,1997,80.0,scifi,JP
+24,Saving Private Ryan,1998,86.0,drama,US
+25,"Girl, Interrupted",1999,73.0,drama,US
+26,The Patriot,2000,72.0,drama,DE
+27,Lagaan: Once Upon a Time in India,2001,81.0,drama,IN
+28,Road to Perdition,2002,77.0,thriller,US
+29,Big Fish,2003,80.0,drama,US
+30,Swades,2004,81.0,drama,IN
+31,Memoirs of a Geisha,2005,73.0,drama,FR
+32,Rang De Basanti,2006,81.0,comedy,IN
+33,Like Stars on Earth,2007,83.0,drama,IN
+34,Ip Man,2008,80.0,drama,HK
+35,3 Idiots,2009,84.0,comedy,IN
+36,Inception,2010,88.0,scifi,GB
+37,Warrior,2011,82.0,drama,US
+38,Django Unchained,2012,84.0,western,US
+39,Rush,2013,81.0,drama,US
+40,Queen,2014,82.0,drama,IN
+41,Drishyam,2015,82.0,thriller,IN
+42,Dangal,2016,84.0,action,IN
+43,Bahubali 2: The Conclusion,2017,82.0,fantasy,IN
+44,Andhadhun,2018,82.0,thriller,IN
+45,Dave Chappelle: Sticks & Stones,2019,84.0,comedy,US
+46,David Attenborough: A Life on Our Planet,2020,90.0,documentary,GB
+47,Bo Burnham: Inside,2021,87.0,comedy,US
+48,The Tinder Swindler,2022,72.0,crime,GB
+index,TITLE,RELEASE_YEAR,SCORE,MAIN_GENRE,MAIN_PRODUCTION
+0,White Christmas,1954,75.0,romance,US
+1,The Guns of Navarone,1961,75.0,war,US
+2,My Fair Lady,1964,78.0,drama,US
+3,Bonnie and Clyde,1967,77.0,drama,US
+4,Dirty Harry,1971,77.0,thriller,US
+5,The Exorcist,1973,81.0,horror,US
+6,Monty Python and the Holy Grail,1975,82.0,comedy,GB
+7,Taxi Driver,1976,83.0,crime,US
+8,Life of Brian,1979,80.0,comedy,GB
+9,The Blue Lagoon,1980,58.0,romance,US
+10,Annie,1982,66.0,drama,US
+11,Christine,1983,67.0,horror,US
+12,Once Upon a Time in America,1984,83.0,drama,US
+13,Stand by Me,1986,81.0,drama,US
+14,Full Metal Jacket,1987,83.0,drama,GB
+15,When Harry Met Sally...,1989,77.0,romance,US
+16,Awakenings,1990,78.0,drama,US
+17,My Girl,1991,69.0,comedy,US
+18,A River Runs Through It,1992,72.0,drama,US
+19,Menace II Society,1993,75.0,drama,US
+20,Forrest Gump,1994,88.0,drama,US
+21,Desperado,1995,71.0,thriller,US
+22,Happy Gilmore,1996,70.0,comedy,US
+23,Neon Genesis Evangelion: The End of Evangelion,1997,80.0,scifi,JP
+24,Saving Private Ryan,1998,86.0,drama,US
+25,"Girl, Interrupted",1999,73.0,drama,US
+26,The Patriot,2000,72.0,drama,DE
+27,Lagaan: Once Upon a Time in India,2001,81.0,drama,IN
+28,Road to Perdition,2002,77.0,thriller,US
+29,Big Fish,2003,80.0,drama,US
+30,Swades,2004,81.0,drama,IN
+31,Memoirs of a Geisha,2005,73.0,drama,FR
+32,Rang De Basanti,2006,81.0,comedy,IN
+33,Like Stars on Earth,2007,83.0,drama,IN
+34,Ip Man,2008,80.0,drama,HK
+35,3 Idiots,2009,84.0,comedy,IN
+36,Inception,2010,88.0,scifi,GB
+37,Warrior,2011,82.0,drama,US
+38,Django Unchained,2012,84.0,western,US
+39,Rush,2013,81.0,drama,US
+40,Queen,2014,82.0,drama,IN
+41,Drishyam,2015,82.0,thriller,IN
+42,Dangal,2016,84.0,action,IN
+43,Bahubali 2: The Conclusion,2017,82.0,fantasy,IN
+44,Andhadhun,2018,82.0,thriller,IN
+45,Dave Chappelle: Sticks & Stones,2019,84.0,comedy,US
+46,David Attenborough: A Life on Our Planet,2020,90.0,documentary,GB
+47,Bo Burnham: Inside,2021,87.0,comedy,US
+48,The Tinder Swindler,2022,72.0,crime,GB
+index,TITLE,RELEASE_YEAR,SCORE,MAIN_GENRE,MAIN_PRODUCTION
+0,White Christmas,1954,75.0,romance,US
+1,The Guns of Navarone,1961,75.0,war,US
+2,My Fair Lady,1964,78.0,drama,US
+3,Bonnie and Clyde,1967,77.0,drama,US
+4,Dirty Harry,1971,77.0,thriller,US
+5,The Exorcist,1973,81.0,horror,US
+6,Monty Python and the Holy Grail,1975,82.0,comedy,GB
+7,Taxi Driver,1976,83.0,crime,US
+8,Life of Brian,1979,80.0,comedy,GB
+9,The Blue Lagoon,1980,58.0,romance,US
+10,Annie,1982,66.0,drama,US
+11,Christine,1983,67.0,horror,US
+12,Once Upon a Time in America,1984,83.0,drama,US
+13,Stand by Me,1986,81.0,drama,US
+14,Full Metal Jacket,1987,83.0,drama,GB
+15,When Harry Met Sally...,1989,77.0,romance,US
+16,Awakenings,1990,78.0,drama,US
+17,My Girl,1991,69.0,comedy,US
+18,A River Runs Through It,1992,72.0,drama,US
+19,Menace II Society,1993,75.0,drama,US
+20,Forrest Gump,1994,88.0,drama,US
+21,Desperado,1995,71.0,thriller,US
+22,Happy Gilmore,1996,70.0,comedy,US
+23,Neon Genesis Evangelion: The End of Evangelion,1997,80.0,scifi,JP
+24,Saving Private Ryan,1998,86.0,drama,US
+25,"Girl, Interrupted",1999,73.0,drama,US
+26,The Patriot,2000,72.0,drama,DE
+27,Lagaan: Once Upon a Time in India,2001,81.0,drama,IN
+28,Road to Perdition,2002,77.0,thriller,US
+29,Big Fish,2003,80.0,drama,US
+30,Swades,2004,81.0,drama,IN
+31,Memoirs of a Geisha,2005,73.0,drama,FR
+32,Rang De Basanti,2006,81.0,comedy,IN
+33,Like Stars on Earth,2007,83.0,drama,IN
+34,Ip Man,2008,80.0,drama,HK
+35,3 Idiots,2009,84.0,comedy,IN
+36,Inception,2010,88.0,scifi,GB
+37,Warrior,2011,82.0,drama,US
+38,Django Unchained,2012,84.0,western,US
+39,Rush,2013,81.0,drama,US
+40,Queen,2014,82.0,drama,IN
+41,Drishyam,2015,82.0,thriller,IN
+42,Dangal,2016,84.0,action,IN
+43,Bahubali 2: The Conclusion,2017,82.0,fantasy,IN
+44,Andhadhun,2018,82.0,thriller,IN
+45,Dave Chappelle: Sticks & Stones,2019,84.0,comedy,US
+46,David Attenborough: A Life on Our Planet,2020,90.0,documentary,GB
+47,Bo Burnham: Inside,2021,87.0,comedy,US
+48,The Tinder Swindler,2022,72.0,crime,GB
+index,TITLE,RELEASE_YEAR,SCORE,MAIN_GENRE,MAIN_PRODUCTION
+0,White Christmas,1954,75.0,romance,US
+1,The Guns of Navarone,1961,75.0,war,US
+2,My Fair Lady,1964,78.0,drama,US
+3,Bonnie and Clyde,1967,77.0,drama,US
+4,Dirty Harry,1971,77.0,thriller,US
+5,The Exorcist,1973,81.0,horror,US
+6,Monty Python and the Holy Grail,1975,82.0,comedy,GB
+7,Taxi Driver,1976,83.0,crime,US
+8,Life of Brian,1979,80.0,comedy,GB
+9,The Blue Lagoon,1980,58.0,romance,US
+10,Annie,1982,66.0,drama,US
+11,Christine,1983,67.0,horror,US
+12,Once Upon a Time in America,1984,83.0,drama,US
+13,Stand by Me,1986,81.0,drama,US
+14,Full Metal Jacket,1987,83.0,drama,GB
+15,When Harry Met Sally...,1989,77.0,romance,US
+16,Awakenings,1990,78.0,drama,US
+17,My Girl,1991,69.0,comedy,US
+18,A River Runs Through It,1992,72.0,drama,US
+19,Menace II Society,1993,75.0,drama,US
+20,Forrest Gump,1994,88.0,drama,US
+21,Desperado,1995,71.0,thriller,US
+22,Happy Gilmore,1996,70.0,comedy,US
+23,Neon Genesis Evangelion: The End of Evangelion,1997,80.0,scifi,JP
+24,Saving Private Ryan,1998,86.0,drama,US
+25,"Girl, Interrupted",1999,73.0,drama,US
+26,The Patriot,2000,72.0,drama,DE
+27,Lagaan: Once Upon a Time in India,2001,81.0,drama,IN
+28,Road to Perdition,2002,77.0,thriller,US
+29,Big Fish,2003,80.0,drama,US
+30,Swades,2004,81.0,drama,IN
+31,Memoirs of a Geisha,2005,73.0,drama,FR
+32,Rang De Basanti,2006,81.0,comedy,IN
+33,Like Stars on Earth,2007,83.0,drama,IN
+34,Ip Man,2008,80.0,drama,HK
+35,3 Idiots,2009,84.0,comedy,IN
+36,Inception,2010,88.0,scifi,GB
+37,Warrior,2011,82.0,drama,US
+38,Django Unchained,2012,84.0,western,US
+39,Rush,2013,81.0,drama,US
+40,Queen,2014,82.0,drama,IN
+41,Drishyam,2015,82.0,thriller,IN
+42,Dangal,2016,84.0,action,IN
+43,Bahubali 2: The Conclusion,2017,82.0,fantasy,IN
+44,Andhadhun,2018,82.0,thriller,IN
+45,Dave Chappelle: Sticks & Stones,2019,84.0,comedy,US
+46,David Attenborough: A Life on Our Planet,2020,90.0,documentary,GB
+47,Bo Burnham: Inside,2021,87.0,comedy,US
+48,The Tinder Swindler,2022,72.0,crime,GB
+index,TITLE,RELEASE_YEAR,SCORE,MAIN_GENRE,MAIN_PRODUCTION
+0,White Christmas,1954,75.0,romance,US
+1,The Guns of Navarone,1961,75.0,war,US
+2,My Fair Lady,1964,78.0,drama,US
+3,Bonnie and Clyde,1967,77.0,drama,US
+4,Dirty Harry,1971,77.0,thriller,US
+5,The Exorcist,1973,81.0,horror,US
+6,Monty Python and the Holy Grail,1975,82.0,comedy,GB
+7,Taxi Driver,1976,83.0,crime,US
+8,Life of Brian,1979,80.0,comedy,GB
+9,The Blue Lagoon,1980,58.0,romance,US
+10,Annie,1982,66.0,drama,US
+11,Christine,1983,67.0,horror,US
+12,Once Upon a Time in America,1984,83.0,drama,US
+13,Stand by Me,1986,81.0,drama,US
+14,Full Metal Jacket,1987,83.0,drama,GB
+15,When Harry Met Sally...,1989,77.0,romance,US
+16,Awakenings,1990,78.0,drama,US
+17,My Girl,1991,69.0,comedy,US
+18,A River Runs Through It,1992,72.0,drama,US
+19,Menace II Society,1993,75.0,drama,US
+20,Forrest Gump,1994,88.0,drama,US
+21,Desperado,1995,71.0,thriller,US
+22,Happy Gilmore,1996,70.0,comedy,US
+23,Neon Genesis Evangelion: The End of Evangelion,1997,80.0,scifi,JP
+24,Saving Private Ryan,1998,86.0,drama,US
+25,"Girl, Interrupted",1999,73.0,drama,US
+26,The Patriot,2000,72.0,drama,DE
+27,Lagaan: Once Upon a Time in India,2001,81.0,drama,IN
+28,Road to Perdition,2002,77.0,thriller,US
+29,Big Fish,2003,80.0,drama,US
+30,Swades,2004,81.0,drama,IN
+31,Memoirs of a Geisha,2005,73.0,drama,FR
+32,Rang De Basanti,2006,81.0,comedy,IN
+33,Like Stars on Earth,2007,83.0,drama,IN
+34,Ip Man,2008,80.0,drama,HK
+35,3 Idiots,2009,84.0,comedy,IN
+36,Inception,2010,88.0,scifi,GB
+37,Warrior,2011,82.0,drama,US
+38,Django Unchained,2012,84.0,western,US
+39,Rush,2013,81.0,drama,US
+40,Queen,2014,82.0,drama,IN
+41,Drishyam,2015,82.0,thriller,IN
+42,Dangal,2016,84.0,action,IN
+43,Bahubali 2: The Conclusion,2017,82.0,fantasy,IN
+44,Andhadhun,2018,82.0,thriller,IN
+45,Dave Chappelle: Sticks & Stones,2019,84.0,comedy,US
+46,David Attenborough: A Life on Our Planet,2020,90.0,documentary,GB
+47,Bo Burnham: Inside,2021,87.0,comedy,US
+48,The Tinder Swindler,2022,72.0,crime,GB
+index,TITLE,RELEASE_YEAR,SCORE,MAIN_GENRE,MAIN_PRODUCTION
+0,White Christmas,1954,75.0,romance,US
+1,The Guns of Navarone,1961,75.0,war,US
+2,My Fair Lady,1964,78.0,drama,US
+3,Bonnie and Clyde,1967,77.0,drama,US
+4,Dirty Harry,1971,77.0,thriller,US
+5,The Exorcist,1973,81.0,horror,US
+6,Monty Python and the Holy Grail,1975,82.0,comedy,GB
+7,Taxi Driver,1976,83.0,crime,US
+8,Life of Brian,1979,80.0,comedy,GB
+9,The Blue Lagoon,1980,58.0,romance,US
+10,Annie,1982,66.0,drama,US
+11,Christine,1983,67.0,horror,US
+12,Once Upon a Time in America,1984,83.0,drama,US
+13,Stand by Me,1986,81.0,drama,US
+14,Full Metal Jacket,1987,83.0,drama,GB
+15,When Harry Met Sally...,1989,77.0,romance,US
+16,Awakenings,1990,78.0,drama,US
+17,My Girl,1991,69.0,comedy,US
+18,A River Runs Through It,1992,72.0,drama,US
+19,Menace II Society,1993,75.0,drama,US
+20,Forrest Gump,1994,88.0,drama,US
+21,Desperado,1995,71.0,thriller,US
+22,Happy Gilmore,1996,70.0,comedy,US
+23,Neon Genesis Evangelion: The End of Evangelion,1997,80.0,scifi,JP
+24,Saving Private Ryan,1998,86.0,drama,US
+25,"Girl, Interrupted",1999,73.0,drama,US
+26,The Patriot,2000,72.0,drama,DE
+27,Lagaan: Once Upon a Time in India,2001,81.0,drama,IN
+28,Road to Perdition,2002,77.0,thriller,US
+29,Big Fish,2003,80.0,drama,US
+30,Swades,2004,81.0,drama,IN
+31,Memoirs of a Geisha,2005,73.0,drama,FR
+32,Rang De Basanti,2006,81.0,comedy,IN
+33,Like Stars on Earth,2007,83.0,drama,IN
+34,Ip Man,2008,80.0,drama,HK
+35,3 Idiots,2009,84.0,comedy,IN
+36,Inception,2010,88.0,scifi,GB
+37,Warrior,2011,82.0,drama,US
+38,Django Unchained,2012,84.0,western,US
+39,Rush,2013,81.0,drama,US
+40,Queen,2014,82.0,drama,IN
+41,Drishyam,2015,82.0,thriller,IN
+42,Dangal,2016,84.0,action,IN
+43,Bahubali 2: The Conclusion,2017,82.0,fantasy,IN
+44,Andhadhun,2018,82.0,thriller,IN
+45,Dave Chappelle: Sticks & Stones,2019,84.0,comedy,US
+46,David Attenborough: A Life on Our Planet,2020,90.0,documentary,GB
+47,Bo Burnham: Inside,2021,87.0,comedy,US
+48,The Tinder Swindler,2022,72.0,crime,GB
+index,TITLE,RELEASE_YEAR,SCORE,MAIN_GENRE,MAIN_PRODUCTION
+0,White Christmas,1954,75.0,romance,US
+1,The Guns of Navarone,1961,75.0,war,US
+2,My Fair Lady,1964,78.0,drama,US
+3,Bonnie and Clyde,1967,77.0,drama,US
+4,Dirty Harry,1971,77.0,thriller,US
+5,The Exorcist,1973,81.0,horror,US
+6,Monty Python and the Holy Grail,1975,82.0,comedy,GB
+7,Taxi Driver,1976,83.0,crime,US
+8,Life of Brian,1979,80.0,comedy,GB
+9,The Blue Lagoon,1980,58.0,romance,US
+10,Annie,1982,66.0,drama,US
+11,Christine,1983,67.0,horror,US
+12,Once Upon a Time in America,1984,83.0,drama,US
+13,Stand by Me,1986,81.0,drama,US
+14,Full Metal Jacket,1987,83.0,drama,GB
+15,When Harry Met Sally...,1989,77.0,romance,US
+16,Awakenings,1990,78.0,drama,US
+17,My Girl,1991,69.0,comedy,US
+18,A River Runs Through It,1992,72.0,drama,US
+19,Menace II Society,1993,75.0,drama,US
+20,Forrest Gump,1994,88.0,drama,US
+21,Desperado,1995,71.0,thriller,US
+22,Happy Gilmore,1996,70.0,comedy,US
+23,Neon Genesis Evangelion: The End of Evangelion,1997,80.0,scifi,JP
+24,Saving Private Ryan,1998,86.0,drama,US
+25,"Girl, Interrupted",1999,73.0,drama,US
+26,The Patriot,2000,72.0,drama,DE
+27,Lagaan: Once Upon a Time in India,2001,81.0,drama,IN
+28,Road to Perdition,2002,77.0,thriller,US
+29,Big Fish,2003,80.0,drama,US
+30,Swades,2004,81.0,drama,IN
+31,Memoirs of a Geisha,2005,73.0,drama,FR
+32,Rang De Basanti,2006,81.0,comedy,IN
+33,Like Stars on Earth,2007,83.0,drama,IN
+34,Ip Man,2008,80.0,drama,HK
+35,3 Idiots,2009,84.0,comedy,IN
+36,Inception,2010,88.0,scifi,GB
+37,Warrior,2011,82.0,drama,US
+38,Django Unchained,2012,84.0,western,US
+39,Rush,2013,81.0,drama,US
+40,Queen,2014,82.0,drama,IN
+41,Drishyam,2015,82.0,thriller,IN
+42,Dangal,2016,84.0,action,IN
+43,Bahubali 2: The Conclusion,2017,82.0,fantasy,IN
+44,Andhadhun,2018,82.0,thriller,IN
+45,Dave Chappelle: Sticks & Stones,2019,84.0,comedy,US
+46,David Attenborough: A Life on Our Planet,2020,90.0,documentary,GB
+47,Bo Burnham: Inside,2021,87.0,comedy,US
+48,The Tinder Swindler,2022,72.0,crime,GB
+index,TITLE,RELEASE_YEAR,SCORE,MAIN_GENRE,MAIN_PRODUCTION
+0,White Christmas,1954,75.0,romance,US
+1,The Guns of Navarone,1961,75.0,war,US
+2,My Fair Lady,1964,78.0,drama,US
+3,Bonnie and Clyde,1967,77.0,drama,US
+4,Dirty Harry,1971,77.0,thriller,US
+5,The Exorcist,1973,81.0,horror,US
+6,Monty Python and the Holy Grail,1975,82.0,comedy,GB
+7,Taxi Driver,1976,83.0,crime,US
+8,Life of Brian,1979,80.0,comedy,GB
+9,The Blue Lagoon,1980,58.0,romance,US
+10,Annie,1982,66.0,drama,US
+11,Christine,1983,67.0,horror,US
+12,Once Upon a Time in America,1984,83.0,drama,US
+13,Stand by Me,1986,81.0,drama,US
+14,Full Metal Jacket,1987,83.0,drama,GB
+15,When Harry Met Sally...,1989,77.0,romance,US
+16,Awakenings,1990,78.0,drama,US
+17,My Girl,1991,69.0,comedy,US
+18,A River Runs Through It,1992,72.0,drama,US
+19,Menace II Society,1993,75.0,drama,US
+20,Forrest Gump,1994,88.0,drama,US
+21,Desperado,1995,71.0,thriller,US
+22,Happy Gilmore,1996,70.0,comedy,US
+23,Neon Genesis Evangelion: The End of Evangelion,1997,80.0,scifi,JP
+24,Saving Private Ryan,1998,86.0,drama,US
+25,"Girl, Interrupted",1999,73.0,drama,US
+26,The Patriot,2000,72.0,drama,DE
+27,Lagaan: Once Upon a Time in India,2001,81.0,drama,IN
+28,Road to Perdition,2002,77.0,thriller,US
+29,Big Fish,2003,80.0,drama,US
+30,Swades,2004,81.0,drama,IN
+31,Memoirs of a Geisha,2005,73.0,drama,FR
+32,Rang De Basanti,2006,81.0,comedy,IN
+33,Like Stars on Earth,2007,83.0,drama,IN
+34,Ip Man,2008,80.0,drama,HK
+35,3 Idiots,2009,84.0,comedy,IN
+36,Inception,2010,88.0,scifi,GB
+37,Warrior,2011,82.0,drama,US
+38,Django Unchained,2012,84.0,western,US
+39,Rush,2013,81.0,drama,US
+40,Queen,2014,82.0,drama,IN
+41,Drishyam,2015,82.0,thriller,IN
+42,Dangal,2016,84.0,action,IN
+43,Bahubali 2: The Conclusion,2017,82.0,fantasy,IN
+44,Andhadhun,2018,82.0,thriller,IN
+45,Dave Chappelle: Sticks & Stones,2019,84.0,comedy,US
+46,David Attenborough: A Life on Our Planet,2020,90.0,documentary,GB
+47,Bo Burnham: Inside,2021,87.0,comedy,US
+48,The Tinder Swindler,2022,72.0,crime,GB
+index,TITLE,RELEASE_YEAR,SCORE,MAIN_GENRE,MAIN_PRODUCTION
+0,White Christmas,1954,75.0,romance,US
+1,The Guns of Navarone,1961,75.0,war,US
+2,My Fair Lady,1964,78.0,drama,US
+3,Bonnie and Clyde,1967,77.0,drama,US
+4,Dirty Harry,1971,77.0,thriller,US
+5,The Exorcist,1973,81.0,horror,US
+6,Monty Python and the Holy Grail,1975,82.0,comedy,GB
+7,Taxi Driver,1976,83.0,crime,US
+8,Life of Brian,1979,80.0,comedy,GB
+9,The Blue Lagoon,1980,58.0,romance,US
+10,Annie,1982,66.0,drama,US
+11,Christine,1983,67.0,horror,US
+12,Once Upon a Time in America,1984,83.0,drama,US
+13,Stand by Me,1986,81.0,drama,US
+14,Full Metal Jacket,1987,83.0,drama,GB
+15,When Harry Met Sally...,1989,77.0,romance,US
+16,Awakenings,1990,78.0,drama,US
+17,My Girl,1991,69.0,comedy,US
+18,A River Runs Through It,1992,72.0,drama,US
+19,Menace II Society,1993,75.0,drama,US
+20,Forrest Gump,1994,88.0,drama,US
+21,Desperado,1995,71.0,thriller,US
+22,Happy Gilmore,1996,70.0,comedy,US
+23,Neon Genesis Evangelion: The End of Evangelion,1997,80.0,scifi,JP
+24,Saving Private Ryan,1998,86.0,drama,US
+25,"Girl, Interrupted",1999,73.0,drama,US
+26,The Patriot,2000,72.0,drama,DE
+27,Lagaan: Once Upon a Time in India,2001,81.0,drama,IN
+28,Road to Perdition,2002,77.0,thriller,US
+29,Big Fish,2003,80.0,drama,US
+30,Swades,2004,81.0,drama,IN
+31,Memoirs of a Geisha,2005,73.0,drama,FR
+32,Rang De Basanti,2006,81.0,comedy,IN
+33,Like Stars on Earth,2007,83.0,drama,IN
+34,Ip Man,2008,80.0,drama,HK
+35,3 Idiots,2009,84.0,comedy,IN
+36,Inception,2010,88.0,scifi,GB
+37,Warrior,2011,82.0,drama,US
+38,Django Unchained,2012,84.0,western,US
+39,Rush,2013,81.0,drama,US
+40,Queen,2014,82.0,drama,IN
+41,Drishyam,2015,82.0,thriller,IN
+42,Dangal,2016,84.0,action,IN
+43,Bahubali 2: The Conclusion,2017,82.0,fantasy,IN
+44,Andhadhun,2018,82.0,thriller,IN
+45,Dave Chappelle: Sticks & Stones,2019,84.0,comedy,US
+46,David Attenborough: A Life on Our Planet,2020,90.0,documentary,GB
+47,Bo Burnham: Inside,2021,87.0,comedy,US
+48,The Tinder Swindler,2022,72.0,crime,GB
+index,TITLE,RELEASE_YEAR,SCORE,MAIN_GENRE,MAIN_PRODUCTION
+0,White Christmas,1954,75.0,romance,US
+1,The Guns of Navarone,1961,75.0,war,US
+2,My Fair Lady,1964,78.0,drama,US
+3,Bonnie and Clyde,1967,77.0,drama,US
+4,Dirty Harry,1971,77.0,thriller,US
+5,The Exorcist,1973,81.0,horror,US
+6,Monty Python and the Holy Grail,1975,82.0,comedy,GB
+7,Taxi Driver,1976,83.0,crime,US
+8,Life of Brian,1979,80.0,comedy,GB
+9,The Blue Lagoon,1980,58.0,romance,US
+10,Annie,1982,66.0,drama,US
+11,Christine,1983,67.0,horror,US
+12,Once Upon a Time in America,1984,83.0,drama,US
+13,Stand by Me,1986,81.0,drama,US
+14,Full Metal Jacket,1987,83.0,drama,GB
+15,When Harry Met Sally...,1989,77.0,romance,US
+16,Awakenings,1990,78.0,drama,US
+17,My Girl,1991,69.0,comedy,US
+18,A River Runs Through It,1992,72.0,drama,US
+19,Menace II Society,1993,75.0,drama,US
+20,Forrest Gump,1994,88.0,drama,US
+21,Desperado,1995,71.0,thriller,US
+22,Happy Gilmore,1996,70.0,comedy,US
+23,Neon Genesis Evangelion: The End of Evangelion,1997,80.0,scifi,JP
+24,Saving Private Ryan,1998,86.0,drama,US
+25,"Girl, Interrupted",1999,73.0,drama,US
+26,The Patriot,2000,72.0,drama,DE
+27,Lagaan: Once Upon a Time in India,2001,81.0,drama,IN
+28,Road to Perdition,2002,77.0,thriller,US
+29,Big Fish,2003,80.0,drama,US
+30,Swades,2004,81.0,drama,IN
+31,Memoirs of a Geisha,2005,73.0,drama,FR
+32,Rang De Basanti,2006,81.0,comedy,IN
+33,Like Stars on Earth,2007,83.0,drama,IN
+34,Ip Man,2008,80.0,drama,HK
+35,3 Idiots,2009,84.0,comedy,IN
+36,Inception,2010,88.0,scifi,GB
+37,Warrior,2011,82.0,drama,US
+38,Django Unchained,2012,84.0,western,US
+39,Rush,2013,81.0,drama,US
+40,Queen,2014,82.0,drama,IN
+41,Drishyam,2015,82.0,thriller,IN
+42,Dangal,2016,84.0,action,IN
+43,Bahubali 2: The Conclusion,2017,82.0,fantasy,IN
+44,Andhadhun,2018,82.0,thriller,IN
+45,Dave Chappelle: Sticks & Stones,2019,84.0,comedy,US
+46,David Attenborough: A Life on Our Planet,2020,90.0,documentary,GB
+47,Bo Burnham: Inside,2021,87.0,comedy,US
+48,The Tinder Swindler,2022,72.0,crime,GB
+index,TITLE,RELEASE_YEAR,SCORE,MAIN_GENRE,MAIN_PRODUCTION
+0,White Christmas,1954,75.0,romance,US
+1,The Guns of Navarone,1961,75.0,war,US
+2,My Fair Lady,1964,78.0,drama,US
+3,Bonnie and Clyde,1967,77.0,drama,US
+4,Dirty Harry,1971,77.0,thriller,US
+5,The Exorcist,1973,81.0,horror,US
+6,Monty Python and the Holy Grail,1975,82.0,comedy,GB
+7,Taxi Driver,1976,83.0,crime,US
+8,Life of Brian,1979,80.0,comedy,GB
+9,The Blue Lagoon,1980,58.0,romance,US
+10,Annie,1982,66.0,drama,US
+11,Christine,1983,67.0,horror,US
+12,Once Upon a Time in America,1984,83.0,drama,US
+13,Stand by Me,1986,81.0,drama,US
+14,Full Metal Jacket,1987,83.0,drama,GB
+15,When Harry Met Sally...,1989,77.0,romance,US
+16,Awakenings,1990,78.0,drama,US
+17,My Girl,1991,69.0,comedy,US
+18,A River Runs Through It,1992,72.0,drama,US
+19,Menace II Society,1993,75.0,drama,US
+20,Forrest Gump,1994,88.0,drama,US
+21,Desperado,1995,71.0,thriller,US
+22,Happy Gilmore,1996,70.0,comedy,US
+23,Neon Genesis Evangelion: The End of Evangelion,1997,80.0,scifi,JP
+24,Saving Private Ryan,1998,86.0,drama,US
+25,"Girl, Interrupted",1999,73.0,drama,US
+26,The Patriot,2000,72.0,drama,DE
+27,Lagaan: Once Upon a Time in India,2001,81.0,drama,IN
+28,Road to Perdition,2002,77.0,thriller,US
+29,Big Fish,2003,80.0,drama,US
+30,Swades,2004,81.0,drama,IN
+31,Memoirs of a Geisha,2005,73.0,drama,FR
+32,Rang De Basanti,2006,81.0,comedy,IN
+33,Like Stars on Earth,2007,83.0,drama,IN
+34,Ip Man,2008,80.0,drama,HK
+35,3 Idiots,2009,84.0,comedy,IN
+36,Inception,2010,88.0,scifi,GB
+37,Warrior,2011,82.0,drama,US
+38,Django Unchained,2012,84.0,western,US
+39,Rush,2013,81.0,drama,US
+40,Queen,2014,82.0,drama,IN
+41,Drishyam,2015,82.0,thriller,IN
+42,Dangal,2016,84.0,action,IN
+43,Bahubali 2: The Conclusion,2017,82.0,fantasy,IN
+44,Andhadhun,2018,82.0,thriller,IN
+45,Dave Chappelle: Sticks & Stones,2019,84.0,comedy,US
+46,David Attenborough: A Life on Our Planet,2020,90.0,documentary,GB
+47,Bo Burnham: Inside,2021,87.0,comedy,US
+48,The Tinder Swindler,2022,72.0,crime,GB
+index,TITLE,RELEASE_YEAR,SCORE,MAIN_GENRE,MAIN_PRODUCTION
+0,White Christmas,1954,75.0,romance,US
+1,The Guns of Navarone,1961,75.0,war,US
+2,My Fair Lady,1964,78.0,drama,US
+3,Bonnie and Clyde,1967,77.0,drama,US
+4,Dirty Harry,1971,77.0,thriller,US
+5,The Exorcist,1973,81.0,horror,US
+6,Monty Python and the Holy Grail,1975,82.0,comedy,GB
+7,Taxi Driver,1976,83.0,crime,US
+8,Life of Brian,1979,80.0,comedy,GB
+9,The Blue Lagoon,1980,58.0,romance,US
+10,Annie,1982,66.0,drama,US
+11,Christine,1983,67.0,horror,US
+12,Once Upon a Time in America,1984,83.0,drama,US
+13,Stand by Me,1986,81.0,drama,US
+14,Full Metal Jacket,1987,83.0,drama,GB
+15,When Harry Met Sally...,1989,77.0,romance,US
+16,Awakenings,1990,78.0,drama,US
+17,My Girl,1991,69.0,comedy,US
+18,A River Runs Through It,1992,72.0,drama,US
+19,Menace II Society,1993,75.0,drama,US
+20,Forrest Gump,1994,88.0,drama,US
+21,Desperado,1995,71.0,thriller,US
+22,Happy Gilmore,1996,70.0,comedy,US
+23,Neon Genesis Evangelion: The End of Evangelion,1997,80.0,scifi,JP
+24,Saving Private Ryan,1998,86.0,drama,US
+25,"Girl, Interrupted",1999,73.0,drama,US
+26,The Patriot,2000,72.0,drama,DE
+27,Lagaan: Once Upon a Time in India,2001,81.0,drama,IN
+28,Road to Perdition,2002,77.0,thriller,US
+29,Big Fish,2003,80.0,drama,US
+30,Swades,2004,81.0,drama,IN
+31,Memoirs of a Geisha,2005,73.0,drama,FR
+32,Rang De Basanti,2006,81.0,comedy,IN
+33,Like Stars on Earth,2007,83.0,drama,IN
+34,Ip Man,2008,80.0,drama,HK
+35,3 Idiots,2009,84.0,comedy,IN
+36,Inception,2010,88.0,scifi,GB
+37,Warrior,2011,82.0,drama,US
+38,Django Unchained,2012,84.0,western,US
+39,Rush,2013,81.0,drama,US
+40,Queen,2014,82.0,drama,IN
+41,Drishyam,2015,82.0,thriller,IN
+42,Dangal,2016,84.0,action,IN
+43,Bahubali 2: The Conclusion,2017,82.0,fantasy,IN
+44,Andhadhun,2018,82.0,thriller,IN
+45,Dave Chappelle: Sticks & Stones,2019,84.0,comedy,US
+46,David Attenborough: A Life on Our Planet,2020,90.0,documentary,GB
+47,Bo Burnham: Inside,2021,87.0,comedy,US
+48,The Tinder Swindler,2022,72.0,crime,GB
+index,TITLE,RELEASE_YEAR,SCORE,MAIN_GENRE,MAIN_PRODUCTION
+0,White Christmas,1954,75.0,romance,US
+1,The Guns of Navarone,1961,75.0,war,US
+2,My Fair Lady,1964,78.0,drama,US
+3,Bonnie and Clyde,1967,77.0,drama,US
+4,Dirty Harry,1971,77.0,thriller,US
+5,The Exorcist,1973,81.0,horror,US
+6,Monty Python and the Holy Grail,1975,82.0,comedy,GB
+7,Taxi Driver,1976,83.0,crime,US
+8,Life of Brian,1979,80.0,comedy,GB
+9,The Blue Lagoon,1980,58.0,romance,US
+10,Annie,1982,66.0,drama,US
+11,Christine,1983,67.0,horror,US
+12,Once Upon a Time in America,1984,83.0,drama,US
+13,Stand by Me,1986,81.0,drama,US
+14,Full Metal Jacket,1987,83.0,drama,GB
+15,When Harry Met Sally...,1989,77.0,romance,US
+16,Awakenings,1990,78.0,drama,US
+17,My Girl,1991,69.0,comedy,US
+18,A River Runs Through It,1992,72.0,drama,US
+19,Menace II Society,1993,75.0,drama,US
+20,Forrest Gump,1994,88.0,drama,US
+21,Desperado,1995,71.0,thriller,US
+22,Happy Gilmore,1996,70.0,comedy,US
+23,Neon Genesis Evangelion: The End of Evangelion,1997,80.0,scifi,JP
+24,Saving Private Ryan,1998,86.0,drama,US
+25,"Girl, Interrupted",1999,73.0,drama,US
+26,The Patriot,2000,72.0,drama,DE
+27,Lagaan: Once Upon a Time in India,2001,81.0,drama,IN
+28,Road to Perdition,2002,77.0,thriller,US
+29,Big Fish,2003,80.0,drama,US
+30,Swades,2004,81.0,drama,IN
+31,Memoirs of a Geisha,2005,73.0,drama,FR
+32,Rang De Basanti,2006,81.0,comedy,IN
+33,Like Stars on Earth,2007,83.0,drama,IN
+34,Ip Man,2008,80.0,drama,HK
+35,3 Idiots,2009,84.0,comedy,IN
+36,Inception,2010,88.0,scifi,GB
+37,Warrior,2011,82.0,drama,US
+38,Django Unchained,2012,84.0,western,US
+39,Rush,2013,81.0,drama,US
+40,Queen,2014,82.0,drama,IN
+41,Drishyam,2015,82.0,thriller,IN
+42,Dangal,2016,84.0,action,IN
+43,Bahubali 2: The Conclusion,2017,82.0,fantasy,IN
+44,Andhadhun,2018,82.0,thriller,IN
+45,Dave Chappelle: Sticks & Stones,2019,84.0,comedy,US
+46,David Attenborough: A Life on Our Planet,2020,90.0,documentary,GB
+47,Bo Burnham: Inside,2021,87.0,comedy,US
+48,The Tinder Swindler,2022,72.0,crime,GB
+index,TITLE,RELEASE_YEAR,SCORE,MAIN_GENRE,MAIN_PRODUCTION
+0,White Christmas,1954,75.0,romance,US
+1,The Guns of Navarone,1961,75.0,war,US
+2,My Fair Lady,1964,78.0,drama,US
+3,Bonnie and Clyde,1967,77.0,drama,US
+4,Dirty Harry,1971,77.0,thriller,US
+5,The Exorcist,1973,81.0,horror,US
+6,Monty Python and the Holy Grail,1975,82.0,comedy,GB
+7,Taxi Driver,1976,83.0,crime,US
+8,Life of Brian,1979,80.0,comedy,GB
+9,The Blue Lagoon,1980,58.0,romance,US
+10,Annie,1982,66.0,drama,US
+11,Christine,1983,67.0,horror,US
+12,Once Upon a Time in America,1984,83.0,drama,US
+13,Stand by Me,1986,81.0,drama,US
+14,Full Metal Jacket,1987,83.0,drama,GB
+15,When Harry Met Sally...,1989,77.0,romance,US
+16,Awakenings,1990,78.0,drama,US
+17,My Girl,1991,69.0,comedy,US
+18,A River Runs Through It,1992,72.0,drama,US
+19,Menace II Society,1993,75.0,drama,US
+20,Forrest Gump,1994,88.0,drama,US
+21,Desperado,1995,71.0,thriller,US
+22,Happy Gilmore,1996,70.0,comedy,US
+23,Neon Genesis Evangelion: The End of Evangelion,1997,80.0,scifi,JP
+24,Saving Private Ryan,1998,86.0,drama,US
+25,"Girl, Interrupted",1999,73.0,drama,US
+26,The Patriot,2000,72.0,drama,DE
+27,Lagaan: Once Upon a Time in India,2001,81.0,drama,IN
+28,Road to Perdition,2002,77.0,thriller,US
+29,Big Fish,2003,80.0,drama,US
+30,Swades,2004,81.0,drama,IN
+31,Memoirs of a Geisha,2005,73.0,drama,FR
+32,Rang De Basanti,2006,81.0,comedy,IN
+33,Like Stars on Earth,2007,83.0,drama,IN
+34,Ip Man,2008,80.0,drama,HK
+35,3 Idiots,2009,84.0,comedy,IN
+36,Inception,2010,88.0,scifi,GB
+37,Warrior,2011,82.0,drama,US
+38,Django Unchained,2012,84.0,western,US
+39,Rush,2013,81.0,drama,US
+40,Queen,2014,82.0,drama,IN
+41,Drishyam,2015,82.0,thriller,IN
+42,Dangal,2016,84.0,action,IN
+43,Bahubali 2: The Conclusion,2017,82.0,fantasy,IN
+44,Andhadhun,2018,82.0,thriller,IN
+45,Dave Chappelle: Sticks & Stones,2019,84.0,comedy,US
+46,David Attenborough: A Life on Our Planet,2020,90.0,documentary,GB
+47,Bo Burnham: Inside,2021,87.0,comedy,US
+48,The Tinder Swindler,2022,72.0,crime,GB
+index,TITLE,RELEASE_YEAR,SCORE,MAIN_GENRE,MAIN_PRODUCTION
+0,White Christmas,1954,75.0,romance,US
+1,The Guns of Navarone,1961,75.0,war,US
+2,My Fair Lady,1964,78.0,drama,US
+3,Bonnie and Clyde,1967,77.0,drama,US
+4,Dirty Harry,1971,77.0,thriller,US
+5,The Exorcist,1973,81.0,horror,US
+6,Monty Python and the Holy Grail,1975,82.0,comedy,GB
+7,Taxi Driver,1976,83.0,crime,US
+8,Life of Brian,1979,80.0,comedy,GB
+9,The Blue Lagoon,1980,58.0,romance,US
+10,Annie,1982,66.0,drama,US
+11,Christine,1983,67.0,horror,US
+12,Once Upon a Time in America,1984,83.0,drama,US
+13,Stand by Me,1986,81.0,drama,US
+14,Full Metal Jacket,1987,83.0,drama,GB
+15,When Harry Met Sally...,1989,77.0,romance,US
+16,Awakenings,1990,78.0,drama,US
+17,My Girl,1991,69.0,comedy,US
+18,A River Runs Through It,1992,72.0,drama,US
+19,Menace II Society,1993,75.0,drama,US
+20,Forrest Gump,1994,88.0,drama,US
+21,Desperado,1995,71.0,thriller,US
+22,Happy Gilmore,1996,70.0,comedy,US
+23,Neon Genesis Evangelion: The End of Evangelion,1997,80.0,scifi,JP
+24,Saving Private Ryan,1998,86.0,drama,US
+25,"Girl, Interrupted",1999,73.0,drama,US
+26,The Patriot,2000,72.0,drama,DE
+27,Lagaan: Once Upon a Time in India,2001,81.0,drama,IN
+28,Road to Perdition,2002,77.0,thriller,US
+29,Big Fish,2003,80.0,drama,US
+30,Swades,2004,81.0,drama,IN
+31,Memoirs of a Geisha,2005,73.0,drama,FR
+32,Rang De Basanti,2006,81.0,comedy,IN
+33,Like Stars on Earth,2007,83.0,drama,IN
+34,Ip Man,2008,80.0,drama,HK
+35,3 Idiots,2009,84.0,comedy,IN
+36,Inception,2010,88.0,scifi,GB
+37,Warrior,2011,82.0,drama,US
+38,Django Unchained,2012,84.0,western,US
+39,Rush,2013,81.0,drama,US
+40,Queen,2014,82.0,drama,IN
+41,Drishyam,2015,82.0,thriller,IN
+42,Dangal,2016,84.0,action,IN
+43,Bahubali 2: The Conclusion,2017,82.0,fantasy,IN
+44,Andhadhun,2018,82.0,thriller,IN
+45,Dave Chappelle: Sticks & Stones,2019,84.0,comedy,US
+46,David Attenborough: A Life on Our Planet,2020,90.0,documentary,GB
+47,Bo Burnham: Inside,2021,87.0,comedy,US
+48,The Tinder Swindler,2022,72.0,crime,GB
+index,TITLE,RELEASE_YEAR,SCORE,MAIN_GENRE,MAIN_PRODUCTION
+0,White Christmas,1954,75.0,romance,US
+1,The Guns of Navarone,1961,75.0,war,US
+2,My Fair Lady,1964,78.0,drama,US
+3,Bonnie and Clyde,1967,77.0,drama,US
+4,Dirty Harry,1971,77.0,thriller,US
+5,The Exorcist,1973,81.0,horror,US
+6,Monty Python and the Holy Grail,1975,82.0,comedy,GB
+7,Taxi Driver,1976,83.0,crime,US
+8,Life of Brian,1979,80.0,comedy,GB
+9,The Blue Lagoon,1980,58.0,romance,US
+10,Annie,1982,66.0,drama,US
+11,Christine,1983,67.0,horror,US
+12,Once Upon a Time in America,1984,83.0,drama,US
+13,Stand by Me,1986,81.0,drama,US
+14,Full Metal Jacket,1987,83.0,drama,GB
+15,When Harry Met Sally...,1989,77.0,romance,US
+16,Awakenings,1990,78.0,drama,US
+17,My Girl,1991,69.0,comedy,US
+18,A River Runs Through It,1992,72.0,drama,US
+19,Menace II Society,1993,75.0,drama,US
+20,Forrest Gump,1994,88.0,drama,US
+21,Desperado,1995,71.0,thriller,US
+22,Happy Gilmore,1996,70.0,comedy,US
+23,Neon Genesis Evangelion: The End of Evangelion,1997,80.0,scifi,JP
+24,Saving Private Ryan,1998,86.0,drama,US
+25,"Girl, Interrupted",1999,73.0,drama,US
+26,The Patriot,2000,72.0,drama,DE
+27,Lagaan: Once Upon a Time in India,2001,81.0,drama,IN
+28,Road to Perdition,2002,77.0,thriller,US
+29,Big Fish,2003,80.0,drama,US
+30,Swades,2004,81.0,drama,IN
+31,Memoirs of a Geisha,2005,73.0,drama,FR
+32,Rang De Basanti,2006,81.0,comedy,IN
+33,Like Stars on Earth,2007,83.0,drama,IN
+34,Ip Man,2008,80.0,drama,HK
+35,3 Idiots,2009,84.0,comedy,IN
+36,Inception,2010,88.0,scifi,GB
+37,Warrior,2011,82.0,drama,US
+38,Django Unchained,2012,84.0,western,US
+39,Rush,2013,81.0,drama,US
+40,Queen,2014,82.0,drama,IN
+41,Drishyam,2015,82.0,thriller,IN
+42,Dangal,2016,84.0,action,IN
+43,Bahubali 2: The Conclusion,2017,82.0,fantasy,IN
+44,Andhadhun,2018,82.0,thriller,IN
+45,Dave Chappelle: Sticks & Stones,2019,84.0,comedy,US
+46,David Attenborough: A Life on Our Planet,2020,90.0,documentary,GB
+47,Bo Burnham: Inside,2021,87.0,comedy,US
+48,The Tinder Swindler,2022,72.0,crime,GB
+index,TITLE,RELEASE_YEAR,SCORE,MAIN_GENRE,MAIN_PRODUCTION
+0,White Christmas,1954,75.0,romance,US
+1,The Guns of Navarone,1961,75.0,war,US
+2,My Fair Lady,1964,78.0,drama,US
+3,Bonnie and Clyde,1967,77.0,drama,US
+4,Dirty Harry,1971,77.0,thriller,US
+5,The Exorcist,1973,81.0,horror,US
+6,Monty Python and the Holy Grail,1975,82.0,comedy,GB
+7,Taxi Driver,1976,83.0,crime,US
+8,Life of Brian,1979,80.0,comedy,GB
+9,The Blue Lagoon,1980,58.0,romance,US
+10,Annie,1982,66.0,drama,US
+11,Christine,1983,67.0,horror,US
+12,Once Upon a Time in America,1984,83.0,drama,US
+13,Stand by Me,1986,81.0,drama,US
+14,Full Metal Jacket,1987,83.0,drama,GB
+15,When Harry Met Sally...,1989,77.0,romance,US
+16,Awakenings,1990,78.0,drama,US
+17,My Girl,1991,69.0,comedy,US
+18,A River Runs Through It,1992,72.0,drama,US
+19,Menace II Society,1993,75.0,drama,US
+20,Forrest Gump,1994,88.0,drama,US
+21,Desperado,1995,71.0,thriller,US
+22,Happy Gilmore,1996,70.0,comedy,US
+23,Neon Genesis Evangelion: The End of Evangelion,1997,80.0,scifi,JP
+24,Saving Private Ryan,1998,86.0,drama,US
+25,"Girl, Interrupted",1999,73.0,drama,US
+26,The Patriot,2000,72.0,drama,DE
+27,Lagaan: Once Upon a Time in India,2001,81.0,drama,IN
+28,Road to Perdition,2002,77.0,thriller,US
+29,Big Fish,2003,80.0,drama,US
+30,Swades,2004,81.0,drama,IN
+31,Memoirs of a Geisha,2005,73.0,drama,FR
+32,Rang De Basanti,2006,81.0,comedy,IN
+33,Like Stars on Earth,2007,83.0,drama,IN
+34,Ip Man,2008,80.0,drama,HK
+35,3 Idiots,2009,84.0,comedy,IN
+36,Inception,2010,88.0,scifi,GB
+37,Warrior,2011,82.0,drama,US
+38,Django Unchained,2012,84.0,western,US
+39,Rush,2013,81.0,drama,US
+40,Queen,2014,82.0,drama,IN
+41,Drishyam,2015,82.0,thriller,IN
+42,Dangal,2016,84.0,action,IN
+43,Bahubali 2: The Conclusion,2017,82.0,fantasy,IN
+44,Andhadhun,2018,82.0,thriller,IN
+45,Dave Chappelle: Sticks & Stones,2019,84.0,comedy,US
+46,David Attenborough: A Life on Our Planet,2020,90.0,documentary,GB
+47,Bo Burnham: Inside,2021,87.0,comedy,US
+48,The Tinder Swindler,2022,72.0,crime,GB
+index,TITLE,RELEASE_YEAR,SCORE,MAIN_GENRE,MAIN_PRODUCTION
+0,White Christmas,1954,75.0,romance,US
+1,The Guns of Navarone,1961,75.0,war,US
+2,My Fair Lady,1964,78.0,drama,US
+3,Bonnie and Clyde,1967,77.0,drama,US
+4,Dirty Harry,1971,77.0,thriller,US
+5,The Exorcist,1973,81.0,horror,US
+6,Monty Python and the Holy Grail,1975,82.0,comedy,GB
+7,Taxi Driver,1976,83.0,crime,US
+8,Life of Brian,1979,80.0,comedy,GB
+9,The Blue Lagoon,1980,58.0,romance,US
+10,Annie,1982,66.0,drama,US
+11,Christine,1983,67.0,horror,US
+12,Once Upon a Time in America,1984,83.0,drama,US
+13,Stand by Me,1986,81.0,drama,US
+14,Full Metal Jacket,1987,83.0,drama,GB
+15,When Harry Met Sally...,1989,77.0,romance,US
+16,Awakenings,1990,78.0,drama,US
+17,My Girl,1991,69.0,comedy,US
+18,A River Runs Through It,1992,72.0,drama,US
+19,Menace II Society,1993,75.0,drama,US
+20,Forrest Gump,1994,88.0,drama,US
+21,Desperado,1995,71.0,thriller,US
+22,Happy Gilmore,1996,70.0,comedy,US
+23,Neon Genesis Evangelion: The End of Evangelion,1997,80.0,scifi,JP
+24,Saving Private Ryan,1998,86.0,drama,US
+25,"Girl, Interrupted",1999,73.0,drama,US
+26,The Patriot,2000,72.0,drama,DE
+27,Lagaan: Once Upon a Time in India,2001,81.0,drama,IN
+28,Road to Perdition,2002,77.0,thriller,US
+29,Big Fish,2003,80.0,drama,US
+30,Swades,2004,81.0,drama,IN
+31,Memoirs of a Geisha,2005,73.0,drama,FR
+32,Rang De Basanti,2006,81.0,comedy,IN
+33,Like Stars on Earth,2007,83.0,drama,IN
+34,Ip Man,2008,80.0,drama,HK
+35,3 Idiots,2009,84.0,comedy,IN
+36,Inception,2010,88.0,scifi,GB
+37,Warrior,2011,82.0,drama,US
+38,Django Unchained,2012,84.0,western,US
+39,Rush,2013,81.0,drama,US
+40,Queen,2014,82.0,drama,IN
+41,Drishyam,2015,82.0,thriller,IN
+42,Dangal,2016,84.0,action,IN
+43,Bahubali 2: The Conclusion,2017,82.0,fantasy,IN
+44,Andhadhun,2018,82.0,thriller,IN
+45,Dave Chappelle: Sticks & Stones,2019,84.0,comedy,US
+46,David Attenborough: A Life on Our Planet,2020,90.0,documentary,GB
+47,Bo Burnham: Inside,2021,87.0,comedy,US
+48,The Tinder Swindler,2022,72.0,crime,GB
+index,TITLE,RELEASE_YEAR,SCORE,MAIN_GENRE,MAIN_PRODUCTION
+0,White Christmas,1954,75.0,romance,US
+1,The Guns of Navarone,1961,75.0,war,US
+2,My Fair Lady,1964,78.0,drama,US
+3,Bonnie and Clyde,1967,77.0,drama,US
+4,Dirty Harry,1971,77.0,thriller,US
+5,The Exorcist,1973,81.0,horror,US
+6,Monty Python and the Holy Grail,1975,82.0,comedy,GB
+7,Taxi Driver,1976,83.0,crime,US
+8,Life of Brian,1979,80.0,comedy,GB
+9,The Blue Lagoon,1980,58.0,romance,US
+10,Annie,1982,66.0,drama,US
+11,Christine,1983,67.0,horror,US
+12,Once Upon a Time in America,1984,83.0,drama,US
+13,Stand by Me,1986,81.0,drama,US
+14,Full Metal Jacket,1987,83.0,drama,GB
+15,When Harry Met Sally...,1989,77.0,romance,US
+16,Awakenings,1990,78.0,drama,US
+17,My Girl,1991,69.0,comedy,US
+18,A River Runs Through It,1992,72.0,drama,US
+19,Menace II Society,1993,75.0,drama,US
+20,Forrest Gump,1994,88.0,drama,US
+21,Desperado,1995,71.0,thriller,US
+22,Happy Gilmore,1996,70.0,comedy,US
+23,Neon Genesis Evangelion: The End of Evangelion,1997,80.0,scifi,JP
+24,Saving Private Ryan,1998,86.0,drama,US
+25,"Girl, Interrupted",1999,73.0,drama,US
+26,The Patriot,2000,72.0,drama,DE
+27,Lagaan: Once Upon a Time in India,2001,81.0,drama,IN
+28,Road to Perdition,2002,77.0,thriller,US
+29,Big Fish,2003,80.0,drama,US
+30,Swades,2004,81.0,drama,IN
+31,Memoirs of a Geisha,2005,73.0,drama,FR
+32,Rang De Basanti,2006,81.0,comedy,IN
+33,Like Stars on Earth,2007,83.0,drama,IN
+34,Ip Man,2008,80.0,drama,HK
+35,3 Idiots,2009,84.0,comedy,IN
+36,Inception,2010,88.0,scifi,GB
+37,Warrior,2011,82.0,drama,US
+38,Django Unchained,2012,84.0,western,US
+39,Rush,2013,81.0,drama,US
+40,Queen,2014,82.0,drama,IN
+41,Drishyam,2015,82.0,thriller,IN
+42,Dangal,2016,84.0,action,IN
+43,Bahubali 2: The Conclusion,2017,82.0,fantasy,IN
+44,Andhadhun,2018,82.0,thriller,IN
+45,Dave Chappelle: Sticks & Stones,2019,84.0,comedy,US
+46,David Attenborough: A Life on Our Planet,2020,90.0,documentary,GB
+47,Bo Burnham: Inside,2021,87.0,comedy,US
+48,The Tinder Swindler,2022,72.0,crime,GB
+index,TITLE,RELEASE_YEAR,SCORE,MAIN_GENRE,MAIN_PRODUCTION
+0,White Christmas,1954,75.0,romance,US
+1,The Guns of Navarone,1961,75.0,war,US
+2,My Fair Lady,1964,78.0,drama,US
+3,Bonnie and Clyde,1967,77.0,drama,US
+4,Dirty Harry,1971,77.0,thriller,US
+5,The Exorcist,1973,81.0,horror,US
+6,Monty Python and the Holy Grail,1975,82.0,comedy,GB
+7,Taxi Driver,1976,83.0,crime,US
+8,Life of Brian,1979,80.0,comedy,GB
+9,The Blue Lagoon,1980,58.0,romance,US
+10,Annie,1982,66.0,drama,US
+11,Christine,1983,67.0,horror,US
+12,Once Upon a Time in America,1984,83.0,drama,US
+13,Stand by Me,1986,81.0,drama,US
+14,Full Metal Jacket,1987,83.0,drama,GB
+15,When Harry Met Sally...,1989,77.0,romance,US
+16,Awakenings,1990,78.0,drama,US
+17,My Girl,1991,69.0,comedy,US
+18,A River Runs Through It,1992,72.0,drama,US
+19,Menace II Society,1993,75.0,drama,US
+20,Forrest Gump,1994,88.0,drama,US
+21,Desperado,1995,71.0,thriller,US
+22,Happy Gilmore,1996,70.0,comedy,US
+23,Neon Genesis Evangelion: The End of Evangelion,1997,80.0,scifi,JP
+24,Saving Private Ryan,1998,86.0,drama,US
+25,"Girl, Interrupted",1999,73.0,drama,US
+26,The Patriot,2000,72.0,drama,DE
+27,Lagaan: Once Upon a Time in India,2001,81.0,drama,IN
+28,Road to Perdition,2002,77.0,thriller,US
+29,Big Fish,2003,80.0,drama,US
+30,Swades,2004,81.0,drama,IN
+31,Memoirs of a Geisha,2005,73.0,drama,FR
+32,Rang De Basanti,2006,81.0,comedy,IN
+33,Like Stars on Earth,2007,83.0,drama,IN
+34,Ip Man,2008,80.0,drama,HK
+35,3 Idiots,2009,84.0,comedy,IN
+36,Inception,2010,88.0,scifi,GB
+37,Warrior,2011,82.0,drama,US
+38,Django Unchained,2012,84.0,western,US
+39,Rush,2013,81.0,drama,US
+40,Queen,2014,82.0,drama,IN
+41,Drishyam,2015,82.0,thriller,IN
+42,Dangal,2016,84.0,action,IN
+43,Bahubali 2: The Conclusion,2017,82.0,fantasy,IN
+44,Andhadhun,2018,82.0,thriller,IN
+45,Dave Chappelle: Sticks & Stones,2019,84.0,comedy,US
+46,David Attenborough: A Life on Our Planet,2020,90.0,documentary,GB
+47,Bo Burnham: Inside,2021,87.0,comedy,US
+48,The Tinder Swindler,2022,72.0,crime,GB
+index,TITLE,RELEASE_YEAR,SCORE,MAIN_GENRE,MAIN_PRODUCTION
+0,White Christmas,1954,75.0,romance,US
+1,The Guns of Navarone,1961,75.0,war,US
+2,My Fair Lady,1964,78.0,drama,US
+3,Bonnie and Clyde,1967,77.0,drama,US
+4,Dirty Harry,1971,77.0,thriller,US
+5,The Exorcist,1973,81.0,horror,US
+6,Monty Python and the Holy Grail,1975,82.0,comedy,GB
+7,Taxi Driver,1976,83.0,crime,US
+8,Life of Brian,1979,80.0,comedy,GB
+9,The Blue Lagoon,1980,58.0,romance,US
+10,Annie,1982,66.0,drama,US
+11,Christine,1983,67.0,horror,US
+12,Once Upon a Time in America,1984,83.0,drama,US
+13,Stand by Me,1986,81.0,drama,US
+14,Full Metal Jacket,1987,83.0,drama,GB
+15,When Harry Met Sally...,1989,77.0,romance,US
+16,Awakenings,1990,78.0,drama,US
+17,My Girl,1991,69.0,comedy,US
+18,A River Runs Through It,1992,72.0,drama,US
+19,Menace II Society,1993,75.0,drama,US
+20,Forrest Gump,1994,88.0,drama,US
+21,Desperado,1995,71.0,thriller,US
+22,Happy Gilmore,1996,70.0,comedy,US
+23,Neon Genesis Evangelion: The End of Evangelion,1997,80.0,scifi,JP
+24,Saving Private Ryan,1998,86.0,drama,US
+25,"Girl, Interrupted",1999,73.0,drama,US
+26,The Patriot,2000,72.0,drama,DE
+27,Lagaan: Once Upon a Time in India,2001,81.0,drama,IN
+28,Road to Perdition,2002,77.0,thriller,US
+29,Big Fish,2003,80.0,drama,US
+30,Swades,2004,81.0,drama,IN
+31,Memoirs of a Geisha,2005,73.0,drama,FR
+32,Rang De Basanti,2006,81.0,comedy,IN
+33,Like Stars on Earth,2007,83.0,drama,IN
+34,Ip Man,2008,80.0,drama,HK
+35,3 Idiots,2009,84.0,comedy,IN
+36,Inception,2010,88.0,scifi,GB
+37,Warrior,2011,82.0,drama,US
+38,Django Unchained,2012,84.0,western,US
+39,Rush,2013,81.0,drama,US
+40,Queen,2014,82.0,drama,IN
+41,Drishyam,2015,82.0,thriller,IN
+42,Dangal,2016,84.0,action,IN
+43,Bahubali 2: The Conclusion,2017,82.0,fantasy,IN
+44,Andhadhun,2018,82.0,thriller,IN
+45,Dave Chappelle: Sticks & Stones,2019,84.0,comedy,US
+46,David Attenborough: A Life on Our Planet,2020,90.0,documentary,GB
+47,Bo Burnham: Inside,2021,87.0,comedy,US
+48,The Tinder Swindler,2022,72.0,crime,GB

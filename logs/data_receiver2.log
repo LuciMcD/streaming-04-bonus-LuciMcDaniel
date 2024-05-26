@@ -1,0 +1,158 @@
+2024-05-25 22:24:06,410.data_receiver2.INFO ==================================================
+2024-05-25 22:24:06,410.data_receiver2.INFO Today is 2024-05-25 at 10:24 PM
+2024-05-25 22:24:06,410.data_receiver2.INFO Running on: nt Windows 10
+2024-05-25 22:24:06,410.data_receiver2.INFO Python version:  3.11.7
+2024-05-25 22:24:06,410.data_receiver2.INFO Python path: C:\Users\lucim\anaconda3
+2024-05-25 22:24:06,411.data_receiver2.INFO Working dir: C:\Users\lucim\Streaming Data\streaming-04-bonus-LuciMcDaniel
+2024-05-25 22:24:06,411.data_receiver2.INFO ==================================================
+2024-05-25 22:24:06,429.data_receiver2.INFO  [*] Ready for work. To exit press CTRL+C
+2024-05-25 22:24:06,429.data_receiver2.INFO  [x] Received index,TITLE,RELEASE_YEAR,SCORE,MAIN_GENRE,MAIN_PRODUCTION
+2024-05-25 22:24:06,430.data_receiver2.INFO [x] New Rates:72.0
+2024-05-25 22:24:06,431.data_receiver2.INFO  [x] Done.
+2024-05-25 22:24:06,431.data_receiver2.INFO  [x] Received 0,White Christmas,1954,7.5,romance,US
+2024-05-25 22:24:06,432.data_receiver2.INFO [x] New Rates:72.0
+2024-05-25 22:24:07,434.data_receiver2.INFO  [x] Done.
+2024-05-25 22:24:07,436.data_receiver2.INFO  [x] Received 1,The Guns of Navarone,1961,7.5,war,US
+2024-05-25 22:24:07,438.data_receiver2.INFO [x] New Rates:72.0
+2024-05-25 22:24:08,439.data_receiver2.INFO  [x] Done.
+2024-05-25 22:24:08,441.data_receiver2.INFO  [x] Received 2,My Fair Lady,1964,7.8,drama,US
+2024-05-25 22:24:08,442.data_receiver2.INFO [x] New Rates:72.0
+2024-05-25 22:24:09,444.data_receiver2.INFO  [x] Done.
+2024-05-25 22:24:09,447.data_receiver2.INFO  [x] Received 3,Bonnie and Clyde,1967,7.7,drama,US
+2024-05-25 22:24:09,449.data_receiver2.INFO [x] New Rates:72.0
+2024-05-25 22:24:10,451.data_receiver2.INFO  [x] Done.
+2024-05-25 22:24:10,452.data_receiver2.INFO  [x] Received 4,Dirty Harry,1971,7.7,thriller,US
+2024-05-25 22:24:10,454.data_receiver2.INFO [x] New Rates:72.0
+2024-05-25 22:24:11,455.data_receiver2.INFO  [x] Done.
+2024-05-25 22:24:11,458.data_receiver2.INFO  [x] Received 5,The Exorcist,1973,8.1,horror,US
+2024-05-25 22:24:11,460.data_receiver2.INFO [x] New Rates:72.0
+2024-05-25 22:24:12,461.data_receiver2.INFO  [x] Done.
+2024-05-25 22:24:12,462.data_receiver2.INFO  [x] Received 6,Monty Python and the Holy Grail,1975,8.2,comedy,GB
+2024-05-25 22:24:12,464.data_receiver2.INFO [x] New Rates:72.0
+2024-05-25 22:24:13,466.data_receiver2.INFO  [x] Done.
+2024-05-25 22:24:13,469.data_receiver2.INFO  [x] Received 7,Taxi Driver,1976,8.3,crime,US
+2024-05-25 22:24:13,471.data_receiver2.INFO [x] New Rates:72.0
+2024-05-25 22:24:14,472.data_receiver2.INFO  [x] Done.
+2024-05-25 22:24:14,475.data_receiver2.INFO  [x] Received 8,Life of Brian,1979,8,comedy,GB
+2024-05-25 22:24:14,478.data_receiver2.INFO [x] New Rates:72.0
+2024-05-25 22:24:14,478.data_receiver2.INFO  [x] Done.
+2024-05-25 22:24:14,481.data_receiver2.INFO  [x] Received 9,The Blue Lagoon,1980,5.8,romance,US
+2024-05-25 22:24:14,483.data_receiver2.INFO [x] New Rates:72.0
+2024-05-25 22:24:15,485.data_receiver2.INFO  [x] Done.
+2024-05-25 22:24:15,487.data_receiver2.INFO  [x] Received 10,Annie,1982,6.6,drama,US
+2024-05-25 22:24:15,488.data_receiver2.INFO [x] New Rates:72.0
+2024-05-25 22:24:16,489.data_receiver2.INFO  [x] Done.
+2024-05-25 22:24:16,491.data_receiver2.INFO  [x] Received 11,Christine,1983,6.7,horror,US
+2024-05-25 22:24:16,494.data_receiver2.INFO [x] New Rates:72.0
+2024-05-25 22:24:17,495.data_receiver2.INFO  [x] Done.
+2024-05-25 22:24:17,497.data_receiver2.INFO  [x] Received 12,Once Upon a Time in America,1984,8.3,drama,US
+2024-05-25 22:24:17,499.data_receiver2.INFO [x] New Rates:72.0
+2024-05-25 22:24:18,500.data_receiver2.INFO  [x] Done.
+2024-05-25 22:24:18,503.data_receiver2.INFO  [x] Received 13,Stand by Me,1986,8.1,drama,US
+2024-05-25 22:24:18,506.data_receiver2.INFO [x] New Rates:72.0
+2024-05-25 22:24:19,507.data_receiver2.INFO  [x] Done.
+2024-05-25 22:24:19,509.data_receiver2.INFO  [x] Received 14,Full Metal Jacket,1987,8.3,drama,GB
+2024-05-25 22:24:19,511.data_receiver2.INFO [x] New Rates:72.0
+2024-05-25 22:24:20,512.data_receiver2.INFO  [x] Done.
+2024-05-25 22:24:20,515.data_receiver2.INFO  [x] Received 15,When Harry Met Sally...,1989,7.7,romance,US
+2024-05-25 22:24:20,517.data_receiver2.INFO [x] New Rates:72.0
+2024-05-25 22:24:24,518.data_receiver2.INFO  [x] Done.
+2024-05-25 22:24:24,521.data_receiver2.INFO  [x] Received 16,Awakenings,1990,7.8,drama,US
+2024-05-25 22:24:24,522.data_receiver2.INFO [x] New Rates:72.0
+2024-05-25 22:24:25,524.data_receiver2.INFO  [x] Done.
+2024-05-25 22:24:25,526.data_receiver2.INFO  [x] Received 17,My Girl,1991,6.9,comedy,US
+2024-05-25 22:24:25,529.data_receiver2.INFO [x] New Rates:72.0
+2024-05-25 22:24:26,532.data_receiver2.INFO  [x] Done.
+2024-05-25 22:24:26,534.data_receiver2.INFO  [x] Received 18,A River Runs Through It,1992,7.2,drama,US
+2024-05-25 22:24:26,536.data_receiver2.INFO [x] New Rates:72.0
+2024-05-25 22:24:27,537.data_receiver2.INFO  [x] Done.
+2024-05-25 22:24:27,539.data_receiver2.INFO  [x] Received 19,Menace II Society,1993,7.5,drama,US
+2024-05-25 22:24:27,541.data_receiver2.INFO [x] New Rates:72.0
+2024-05-25 22:24:28,542.data_receiver2.INFO  [x] Done.
+2024-05-25 22:24:28,544.data_receiver2.INFO  [x] Received 20,Forrest Gump,1994,8.8,drama,US
+2024-05-25 22:24:28,546.data_receiver2.INFO [x] New Rates:72.0
+2024-05-25 22:24:29,547.data_receiver2.INFO  [x] Done.
+2024-05-25 22:24:29,549.data_receiver2.INFO  [x] Received 21,Desperado,1995,7.1,thriller,US
+2024-05-25 22:24:29,551.data_receiver2.INFO [x] New Rates:72.0
+2024-05-25 22:24:30,553.data_receiver2.INFO  [x] Done.
+2024-05-25 22:24:30,555.data_receiver2.INFO  [x] Received 22,Happy Gilmore,1996,7,comedy,US
+2024-05-25 22:24:30,557.data_receiver2.INFO [x] New Rates:72.0
+2024-05-25 22:24:30,558.data_receiver2.INFO  [x] Done.
+2024-05-25 22:24:30,560.data_receiver2.INFO  [x] Received 23,Neon Genesis Evangelion: The End of Evangelion,1997,8,scifi,JP
+2024-05-25 22:24:30,562.data_receiver2.INFO [x] New Rates:72.0
+2024-05-25 22:24:30,564.data_receiver2.INFO  [x] Done.
+2024-05-25 22:24:30,567.data_receiver2.INFO  [x] Received 24,Saving Private Ryan,1998,8.6,drama,US
+2024-05-25 22:24:30,569.data_receiver2.INFO [x] New Rates:72.0
+2024-05-25 22:24:31,571.data_receiver2.INFO  [x] Done.
+2024-05-25 22:24:31,574.data_receiver2.INFO  [x] Received 25,Girl, Interrupted,1999,7.3,drama,US
+2024-05-25 22:24:31,576.data_receiver2.INFO [x] New Rates:72.0
+2024-05-25 22:24:32,577.data_receiver2.INFO  [x] Done.
+2024-05-25 22:24:32,580.data_receiver2.INFO  [x] Received 26,The Patriot,2000,7.2,drama,DE
+2024-05-25 22:24:32,582.data_receiver2.INFO [x] New Rates:72.0
+2024-05-25 22:24:33,582.data_receiver2.INFO  [x] Done.
+2024-05-25 22:24:33,585.data_receiver2.INFO  [x] Received 27,Lagaan: Once Upon a Time in India,2001,8.1,drama,IN
+2024-05-25 22:24:33,587.data_receiver2.INFO [x] New Rates:72.0
+2024-05-25 22:24:34,588.data_receiver2.INFO  [x] Done.
+2024-05-25 22:24:34,591.data_receiver2.INFO  [x] Received 28,Road to Perdition,2002,7.7,thriller,US
+2024-05-25 22:24:34,593.data_receiver2.INFO [x] New Rates:72.0
+2024-05-25 22:24:35,594.data_receiver2.INFO  [x] Done.
+2024-05-25 22:24:35,596.data_receiver2.INFO  [x] Received 29,Big Fish,2003,8,drama,US
+2024-05-25 22:24:35,598.data_receiver2.INFO [x] New Rates:72.0
+2024-05-25 22:24:35,599.data_receiver2.INFO  [x] Done.
+2024-05-25 22:24:35,602.data_receiver2.INFO  [x] Received 30,Swades,2004,8.1,drama,IN
+2024-05-25 22:24:35,604.data_receiver2.INFO [x] New Rates:72.0
+2024-05-25 22:24:36,605.data_receiver2.INFO  [x] Done.
+2024-05-25 22:24:36,607.data_receiver2.INFO  [x] Received 31,Memoirs of a Geisha,2005,7.3,drama,FR
+2024-05-25 22:24:36,609.data_receiver2.INFO [x] New Rates:72.0
+2024-05-25 22:24:37,610.data_receiver2.INFO  [x] Done.
+2024-05-25 22:24:37,613.data_receiver2.INFO  [x] Received 32,Rang De Basanti,2006,8.1,comedy,IN
+2024-05-25 22:24:37,615.data_receiver2.INFO [x] New Rates:72.0
+2024-05-25 22:24:38,616.data_receiver2.INFO  [x] Done.
+2024-05-25 22:24:38,618.data_receiver2.INFO  [x] Received 33,Like Stars on Earth,2007,8.3,drama,IN
+2024-05-25 22:24:38,620.data_receiver2.INFO [x] New Rates:72.0
+2024-05-25 22:24:39,621.data_receiver2.INFO  [x] Done.
+2024-05-25 22:24:39,624.data_receiver2.INFO  [x] Received 34,Ip Man,2008,8,drama,HK
+2024-05-25 22:24:39,625.data_receiver2.INFO [x] New Rates:72.0
+2024-05-25 22:24:39,626.data_receiver2.INFO  [x] Done.
+2024-05-25 22:24:39,629.data_receiver2.INFO  [x] Received 35,3 Idiots,2009,8.4,comedy,IN
+2024-05-25 22:24:39,631.data_receiver2.INFO [x] New Rates:72.0
+2024-05-25 22:24:40,633.data_receiver2.INFO  [x] Done.
+2024-05-25 22:24:40,635.data_receiver2.INFO  [x] Received 36,Inception,2010,8.8,scifi,GB
+2024-05-25 22:24:40,637.data_receiver2.INFO [x] New Rates:72.0
+2024-05-25 22:24:41,638.data_receiver2.INFO  [x] Done.
+2024-05-25 22:24:41,642.data_receiver2.INFO  [x] Received 37,Warrior,2011,8.2,drama,US
+2024-05-25 22:24:41,645.data_receiver2.INFO [x] New Rates:72.0
+2024-05-25 22:24:42,646.data_receiver2.INFO  [x] Done.
+2024-05-25 22:24:42,648.data_receiver2.INFO  [x] Received 38,Django Unchained,2012,8.4,western,US
+2024-05-25 22:24:42,650.data_receiver2.INFO [x] New Rates:72.0
+2024-05-25 22:24:43,651.data_receiver2.INFO  [x] Done.
+2024-05-25 22:24:43,653.data_receiver2.INFO  [x] Received 39,Rush,2013,8.1,drama,US
+2024-05-25 22:24:43,655.data_receiver2.INFO [x] New Rates:72.0
+2024-05-25 22:24:44,656.data_receiver2.INFO  [x] Done.
+2024-05-25 22:24:44,660.data_receiver2.INFO  [x] Received 40,Queen,2014,8.2,drama,IN
+2024-05-25 22:24:44,662.data_receiver2.INFO [x] New Rates:72.0
+2024-05-25 22:24:45,663.data_receiver2.INFO  [x] Done.
+2024-05-25 22:24:45,666.data_receiver2.INFO  [x] Received 41,Drishyam,2015,8.2,thriller,IN
+2024-05-25 22:24:45,669.data_receiver2.INFO [x] New Rates:72.0
+2024-05-25 22:24:46,671.data_receiver2.INFO  [x] Done.
+2024-05-25 22:24:46,673.data_receiver2.INFO  [x] Received 42,Dangal,2016,8.4,action,IN
+2024-05-25 22:24:46,675.data_receiver2.INFO [x] New Rates:72.0
+2024-05-25 22:24:47,677.data_receiver2.INFO  [x] Done.
+2024-05-25 22:24:47,679.data_receiver2.INFO  [x] Received 43,Bahubali 2: The Conclusion,2017,8.2,fantasy,IN
+2024-05-25 22:24:47,681.data_receiver2.INFO [x] New Rates:72.0
+2024-05-25 22:24:48,682.data_receiver2.INFO  [x] Done.
+2024-05-25 22:24:48,684.data_receiver2.INFO  [x] Received 44,Andhadhun,2018,8.2,thriller,IN
+2024-05-25 22:24:48,686.data_receiver2.INFO [x] New Rates:72.0
+2024-05-25 22:24:49,687.data_receiver2.INFO  [x] Done.
+2024-05-25 22:24:49,689.data_receiver2.INFO  [x] Received 45,Dave Chappelle: Sticks & Stones,2019,8.4,comedy,US
+2024-05-25 22:24:49,691.data_receiver2.INFO [x] New Rates:72.0
+2024-05-25 22:24:50,692.data_receiver2.INFO  [x] Done.
+2024-05-25 22:24:50,694.data_receiver2.INFO  [x] Received 46,David Attenborough: A Life on Our Planet,2020,9,documentary,GB
+2024-05-25 22:24:50,695.data_receiver2.INFO [x] New Rates:72.0
+2024-05-25 22:24:50,695.data_receiver2.INFO  [x] Done.
+2024-05-25 22:24:50,696.data_receiver2.INFO  [x] Received 47,Bo Burnham: Inside,2021,8.7,comedy,US
+2024-05-25 22:24:50,697.data_receiver2.INFO [x] New Rates:72.0
+2024-05-25 22:24:51,698.data_receiver2.INFO  [x] Done.
+2024-05-25 22:24:51,700.data_receiver2.INFO  [x] Received 48,The Tinder Swindler,2022,7.2,crime,GB
+2024-05-25 22:24:51,702.data_receiver2.INFO [x] New Rates:72.0
+2024-05-25 22:24:52,703.data_receiver2.INFO  [x] Done.

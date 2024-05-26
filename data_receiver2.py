@@ -11,15 +11,33 @@
 import pika
 import sys
 import time
+import csv
 
 from util_logger import setup_logger
 logger, logname = setup_logger(__file__)
+
+def score_to_rate(rate):
+    """Multiplying the score by 10 to get a percentage """
+    percentage = float(rate)*10
+    return percentage
 
 # define a callback function to be called when a message is received
 def callback(ch, method, properties, body):
     """ Define behavior on getting a message."""
     # decode the binary message body to a string
     logger.info(f" [x] Received {body.decode()}")
+    with open('data1.csv', 'r', encoding='utf-8') as f:
+        reader = csv.reader(f)
+        # write the filtered data into a new file
+        with open ('data3.csv', 'a', encoding='utf-8') as f_out:
+            writer = csv.writer(f_out)
+            writer.writerow(["index","TITLE","RELEASE_YEAR","SCORE","MAIN_GENRE","MAIN_PRODUCTION"])
+            next(reader)
+            for row in reader: 
+                index,TITLE,RELEASE_YEAR,SCORE,MAIN_GENRE,MAIN_PRODUCTION = row
+                RATE = score_to_rate(SCORE)
+                writer.writerow([index,TITLE,RELEASE_YEAR,RATE,MAIN_GENRE,MAIN_PRODUCTION])
+    logger.info(f"[x] New Rates:{RATE}")
     # simulate work by sleeping for the number of dots in the message
     time.sleep(body.count(b"."))
     # when done with task, tell the user
@@ -41,11 +59,9 @@ def main(hn: str = "localhost", qn: str = "movie_queue2"):
 
     # except, if there's an error, do this
     except Exception as e:
-        logger.info()
         logger.info("ERROR: connection to RabbitMQ server failed.")
         logger.info(f"Verify the server is running on host={hn}.")
         logger.info(f"The error says: {e}")
-        logger.info()
         sys.exit(1)
 
     try:
@@ -81,12 +97,10 @@ def main(hn: str = "localhost", qn: str = "movie_queue2"):
 
     # except, in the event of an error OR user stops the process, do this
     except Exception as e:
-        logger.info()
         logger.info("ERROR: something went wrong.")
         logger.info(f"The error says: {e}")
         sys.exit(1)
     except KeyboardInterrupt:
-        logger.info()
         logger.info(" User interrupted continuous listening process.")
         sys.exit(0)
     finally:

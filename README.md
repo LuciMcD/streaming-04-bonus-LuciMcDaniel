@@ -36,4 +36,8 @@
 - [link to csv dataset] https://www.kaggle.com/datasets/thedevastator/the-ultimate-netflix-tv-shows-and-movies-dataset
 
 ## Screenshots
+Screenshot running 2 terminals with the first consumer.
 ![alt text](image.png)
+
+Screenshot running 2 terminals with the second consumer.
+![alt text](image-1.png)
