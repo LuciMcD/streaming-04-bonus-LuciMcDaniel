@@ -4,6 +4,10 @@
 ### Date: May 25, 2024
 
 
+## Overview
+This repo contains a data sender script and 2 data receivers. The original dataset (data1.csv) contains data on the "best" Netflix movies. The data_sender.py sends all of the data from data1.csv. The first consumer data_receiver1.py receives the data from the sender and filters/highlights only the romance movies. Then saves that edited data to data2.csv. The second consumer data_receiver2.py received the data from the sender and converts the scores to percentages out of 100. Then saves that data to data3.csv. 
+
+
 ## Before You Begin
 
 1. Fork this starter repo into your GitHub.
@@ -12,22 +16,9 @@
 4. Select your conda environment. 
 
 
-## Execute the Producer
-
-
-
-## Execute a Consumer / Worker
-
- 
-
-## Ready for Work
-
-
-
-## Start Another Listening Worker 
-
-
-
+## Before running data_sender.py
+Make sure the queue matches on the sender and the receiver.
+Also be sure to install pika on your machine to run the python scripts.
 
 
 ## Reference
