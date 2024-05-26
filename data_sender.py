@@ -1,6 +1,6 @@
 """
-    This is my version v3 of the tasks emitter. Based and mostly copied from v2_emitter_tasks.py. Authored by Dr. Case.
-    This program pulls a message from tasks.csv and sends to a queue on the RabbitMQ server.
+    This is reading data from data1.csv and sending it out to receivers. Based and mostly copied from v2_emitter_tasks.py. Authored by Dr. Case.
+    This program is also sending this data to a queue on the RabbitMQ server.
     Make tasks harder/longer-running by adding dots at the end of the message.
 
     Author: Luci McDaniel

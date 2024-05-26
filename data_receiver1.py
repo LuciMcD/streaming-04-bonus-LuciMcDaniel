@@ -1,11 +1,13 @@
 """
-    This program listens for work messages contiously. 
+    This program listens for work messages contiously. It takes data from the sender, and filters out the romance genre. 
+    Then saves the filtered data to data2.csv.
     Start multiple versions to add more workers.  
     This was copied from v2_listening_worker.py.
-    Author: Denise Case
+    Orignal Author: Denise Case
     Date: January 15, 2023
     edited by: Luci McDaniel
     Date: May 25, 2024
+    
 """
 
 import pika

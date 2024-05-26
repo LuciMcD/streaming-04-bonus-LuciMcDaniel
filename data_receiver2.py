@@ -1,8 +1,9 @@
 """
-    This program listens for work messages contiously. 
+    This program listens for work messages contiously. It takes data from the sender, and converts the scores to rates out of 100. 
+    Then saves this converted data to data3.csv.
     Start multiple versions to add more workers.  
     This was copied from v2_listening_worker.py.
-    Author: Denise Case
+    Original Author: Denise Case
     Date: January 15, 2023
     edited by: Luci McDaniel
     Date: May 25, 2024
