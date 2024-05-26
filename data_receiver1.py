@@ -11,15 +11,30 @@
 import pika
 import sys
 import time
+import csv
 
 from util_logger import setup_logger
 logger, logname = setup_logger(__file__)
+
+def only_romance_genre(genre):
+    lines = genre.split('\n')
+    header = lines[0]
+    filtered_lines = [line for line in lines if 'romance' in [genre.strip() for genre in line.split(',')]]
+    filtered_genre = '\n'.join([header]+ filtered_lines)
+    return filtered_genre
 
 # define a callback function to be called when a message is received
 def callback(ch, method, properties, body):
     """ Define behavior on getting a message."""
     # decode the binary message body to a string
     logger.info(f" [x] Received {body.decode()}")
+    #filter the data
+    filtered_genre = only_romance_genre(body.decode())
+    #write the filtered data into a new file
+    with open ('data2.csv', 'a', encoding='utf-8') as f:
+        writer = csv.writer(f)
+        writer.writerow([filtered_genre])
+    logger.info(f"[x] Filtered genre: {filtered_genre}")
     # simulate work by sleeping for the number of dots in the message
     time.sleep(body.count(b"."))
     # when done with task, tell the user
@@ -30,7 +45,7 @@ def callback(ch, method, properties, body):
 
 
 # define a main function to run the program
-def main(hn: str = "localhost", qn: str = "task_queue3"):
+def main(hn: str = "localhost", qn: str = "movie_queue1"):
     """ Continuously listen for task messages on a named queue."""
 
     # when a statement can go wrong, use a try-except block
@@ -100,4 +115,4 @@ def main(hn: str = "localhost", qn: str = "task_queue3"):
 # If this is the program being run, then execute the code below
 if __name__ == "__main__":
     # call the main function with the information needed
-    main("localhost", "task_queue3")
+    main("localhost", "movie_queue1")

@@ -36,3 +36,4 @@
 - [link to csv dataset] https://www.kaggle.com/datasets/thedevastator/the-ultimate-netflix-tv-shows-and-movies-dataset
 
 ## Screenshots
+![alt text](image.png)

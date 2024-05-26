@@ -27,6 +27,7 @@ def offer_rabbitmq_admin_site(show_offer=True):
             webbrowser.open_new("http://localhost:15672/#/queues")
             print()
 
+
 def send_message(host: str, queue_name: str):
     """
     Creates and sends a message to the queue each execution.
@@ -48,15 +49,18 @@ def send_message(host: str, queue_name: str):
         # messages will not be deleted until the consumer acknowledges
         ch.queue_declare(queue=queue_name, durable=True)
 
-        with open('NetflixBestMoviebyYear.csv', 'r') as file:
-            reader = csv.reader(file)
+        with open('data1.csv', 'r', encoding='utf-8') as file:
+            reader = csv.reader(file, delimiter=",")
+         
             for row in reader:
-                movie = ''.join(row)
-                # use the channel to publish a message to the queue
-                 # every message passes through an exchange
+                index,TITLE,RELEASE_YEAR,SCORE,MAIN_GENRE,MAIN_PRODUCTION = row
+                movie = ','.join(row)    
+                    # use the channel to publish a message to the queue
+                    # every message passes through an exchange
                 ch.basic_publish(exchange="", routing_key=queue_name, body=movie)
-                # print a message to the console for the user
+                    # print a message to the console for the user
                 logger.info(f" [x] Sent {movie}")
+
     except pika.exceptions.AMQPConnectionError as e:
         logger.info(f"Error: Connection to RabbitMQ server failed: {e}")
         sys.exit(1)
@@ -70,8 +74,8 @@ def send_message(host: str, queue_name: str):
 # If this is the program being run, then execute the code below
 if __name__ == "__main__":  
     # ask the user if they'd like to open the RabbitMQ Admin site
-    offer_rabbitmq_admin_site(show_offer=False)
+    offer_rabbitmq_admin_site()
 
     # send the message to the queue
-    send_message("localhost","task_queue3")
+    send_message("localhost","movie_queue1")
     time.sleep(3) 

@@ -1,0 +1,57 @@
+2024-05-25 21:10:19,432.data_sender.INFO ==================================================
+2024-05-25 21:10:19,432.data_sender.INFO Today is 2024-05-25 at 09:10 PM
+2024-05-25 21:10:19,433.data_sender.INFO Running on: nt Windows 10
+2024-05-25 21:10:19,433.data_sender.INFO Python version:  3.11.7
+2024-05-25 21:10:19,433.data_sender.INFO Python path: C:\Users\lucim\anaconda3
+2024-05-25 21:10:19,433.data_sender.INFO Working dir: C:\Users\lucim\Streaming Data\streaming-04-bonus-LuciMcDaniel
+2024-05-25 21:10:19,433.data_sender.INFO ==================================================
+2024-05-25 21:10:22,649.data_sender.INFO  [x] Sent index,TITLE,RELEASE_YEAR,SCORE,MAIN_GENRE,MAIN_PRODUCTION
+2024-05-25 21:10:22,649.data_sender.INFO  [x] Sent 0,White Christmas,1954,7.5,romance,US
+2024-05-25 21:10:22,649.data_sender.INFO  [x] Sent 1,The Guns of Navarone,1961,7.5,war,US
+2024-05-25 21:10:22,650.data_sender.INFO  [x] Sent 2,My Fair Lady,1964,7.8,drama,US
+2024-05-25 21:10:22,650.data_sender.INFO  [x] Sent 3,Bonnie and Clyde,1967,7.7,drama,US
+2024-05-25 21:10:22,651.data_sender.INFO  [x] Sent 4,Dirty Harry,1971,7.7,thriller,US
+2024-05-25 21:10:22,652.data_sender.INFO  [x] Sent 5,The Exorcist,1973,8.1,horror,US
+2024-05-25 21:10:22,652.data_sender.INFO  [x] Sent 6,Monty Python and the Holy Grail,1975,8.2,comedy,GB
+2024-05-25 21:10:22,653.data_sender.INFO  [x] Sent 7,Taxi Driver,1976,8.3,crime,US
+2024-05-25 21:10:22,653.data_sender.INFO  [x] Sent 8,Life of Brian,1979,8,comedy,GB
+2024-05-25 21:10:22,654.data_sender.INFO  [x] Sent 9,The Blue Lagoon,1980,5.8,romance,US
+2024-05-25 21:10:22,655.data_sender.INFO  [x] Sent 10,Annie,1982,6.6,drama,US
+2024-05-25 21:10:22,655.data_sender.INFO  [x] Sent 11,Christine,1983,6.7,horror,US
+2024-05-25 21:10:22,657.data_sender.INFO  [x] Sent 12,Once Upon a Time in America,1984,8.3,drama,US
+2024-05-25 21:10:22,657.data_sender.INFO  [x] Sent 13,Stand by Me,1986,8.1,drama,US
+2024-05-25 21:10:22,658.data_sender.INFO  [x] Sent 14,Full Metal Jacket,1987,8.3,drama,GB
+2024-05-25 21:10:22,658.data_sender.INFO  [x] Sent 15,When Harry Met Sally...,1989,7.7,romance,US
+2024-05-25 21:10:22,659.data_sender.INFO  [x] Sent 16,Awakenings,1990,7.8,drama,US
+2024-05-25 21:10:22,660.data_sender.INFO  [x] Sent 17,My Girl,1991,6.9,comedy,US
+2024-05-25 21:10:22,660.data_sender.INFO  [x] Sent 18,A River Runs Through It,1992,7.2,drama,US
+2024-05-25 21:10:22,661.data_sender.INFO  [x] Sent 19,Menace II Society,1993,7.5,drama,US
+2024-05-25 21:10:22,662.data_sender.INFO  [x] Sent 20,Forrest Gump,1994,8.8,drama,US
+2024-05-25 21:10:22,663.data_sender.INFO  [x] Sent 21,Desperado,1995,7.1,thriller,US
+2024-05-25 21:10:22,663.data_sender.INFO  [x] Sent 22,Happy Gilmore,1996,7,comedy,US
+2024-05-25 21:10:22,664.data_sender.INFO  [x] Sent 23,Neon Genesis Evangelion: The End of Evangelion,1997,8,scifi,JP
+2024-05-25 21:10:22,664.data_sender.INFO  [x] Sent 24,Saving Private Ryan,1998,8.6,drama,US
+2024-05-25 21:10:22,665.data_sender.INFO  [x] Sent 25,Girl, Interrupted,1999,7.3,drama,US
+2024-05-25 21:10:22,665.data_sender.INFO  [x] Sent 26,The Patriot,2000,7.2,drama,DE
+2024-05-25 21:10:22,666.data_sender.INFO  [x] Sent 27,Lagaan: Once Upon a Time in India,2001,8.1,drama,IN
+2024-05-25 21:10:22,667.data_sender.INFO  [x] Sent 28,Road to Perdition,2002,7.7,thriller,US
+2024-05-25 21:10:22,667.data_sender.INFO  [x] Sent 29,Big Fish,2003,8,drama,US
+2024-05-25 21:10:22,670.data_sender.INFO  [x] Sent 30,Swades,2004,8.1,drama,IN
+2024-05-25 21:10:22,671.data_sender.INFO  [x] Sent 31,Memoirs of a Geisha,2005,7.3,drama,FR
+2024-05-25 21:10:22,672.data_sender.INFO  [x] Sent 32,Rang De Basanti,2006,8.1,comedy,IN
+2024-05-25 21:10:22,673.data_sender.INFO  [x] Sent 33,Like Stars on Earth,2007,8.3,drama,IN
+2024-05-25 21:10:22,674.data_sender.INFO  [x] Sent 34,Ip Man,2008,8,drama,HK
+2024-05-25 21:10:22,675.data_sender.INFO  [x] Sent 35,3 Idiots,2009,8.4,comedy,IN
+2024-05-25 21:10:22,675.data_sender.INFO  [x] Sent 36,Inception,2010,8.8,scifi,GB
+2024-05-25 21:10:22,676.data_sender.INFO  [x] Sent 37,Warrior,2011,8.2,drama,US
+2024-05-25 21:10:22,676.data_sender.INFO  [x] Sent 38,Django Unchained,2012,8.4,western,US
+2024-05-25 21:10:22,711.data_sender.INFO  [x] Sent 39,Rush,2013,8.1,drama,US
+2024-05-25 21:10:22,713.data_sender.INFO  [x] Sent 40,Queen,2014,8.2,drama,IN
+2024-05-25 21:10:22,713.data_sender.INFO  [x] Sent 41,Drishyam,2015,8.2,thriller,IN
+2024-05-25 21:10:22,714.data_sender.INFO  [x] Sent 42,Dangal,2016,8.4,action,IN
+2024-05-25 21:10:22,714.data_sender.INFO  [x] Sent 43,Bahubali 2: The Conclusion,2017,8.2,fantasy,IN
+2024-05-25 21:10:22,715.data_sender.INFO  [x] Sent 44,Andhadhun,2018,8.2,thriller,IN
+2024-05-25 21:10:22,725.data_sender.INFO  [x] Sent 45,Dave Chappelle: Sticks & Stones,2019,8.4,comedy,US
+2024-05-25 21:10:22,727.data_sender.INFO  [x] Sent 46,David Attenborough: A Life on Our Planet,2020,9,documentary,GB
+2024-05-25 21:10:22,728.data_sender.INFO  [x] Sent 47,Bo Burnham: Inside,2021,8.7,comedy,US
+2024-05-25 21:10:22,730.data_sender.INFO  [x] Sent 48,The Tinder Swindler,2022,7.2,crime,GB

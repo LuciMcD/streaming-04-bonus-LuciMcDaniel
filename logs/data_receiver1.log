@@ -1,0 +1,637 @@
+2024-05-25 21:10:33,494.data_receiver1.INFO ==================================================
+2024-05-25 21:10:33,495.data_receiver1.INFO Today is 2024-05-25 at 09:10 PM
+2024-05-25 21:10:33,495.data_receiver1.INFO Running on: nt Windows 10
+2024-05-25 21:10:33,495.data_receiver1.INFO Python version:  3.11.7
+2024-05-25 21:10:33,495.data_receiver1.INFO Python path: C:\Users\lucim\anaconda3
+2024-05-25 21:10:33,495.data_receiver1.INFO Working dir: C:\Users\lucim\Streaming Data\streaming-04-bonus-LuciMcDaniel
+2024-05-25 21:10:33,496.data_receiver1.INFO ==================================================
+2024-05-25 21:10:33,515.data_receiver1.INFO  [*] Ready for work. To exit press CTRL+C
+2024-05-25 21:10:34,539.data_receiver1.INFO  [x] Done.
+2024-05-25 21:10:34,543.data_receiver1.INFO  [x] Received 44,Andhadhun,2018,8.2,thriller,IN
+2024-05-25 21:10:34,545.data_receiver1.INFO [x] Filtered genre: 44,Andhadhun,2018,8.2,thriller,IN
+2024-05-25 21:10:35,547.data_receiver1.INFO  [x] Done.
+2024-05-25 21:10:35,550.data_receiver1.INFO  [x] Received 45,Dave Chappelle: Sticks & Stones,2019,8.4,comedy,US
+2024-05-25 21:10:35,552.data_receiver1.INFO [x] Filtered genre: 45,Dave Chappelle: Sticks & Stones,2019,8.4,comedy,US
+2024-05-25 21:10:36,553.data_receiver1.INFO  [x] Done.
+2024-05-25 21:10:36,556.data_receiver1.INFO  [x] Received 46,David Attenborough: A Life on Our Planet,2020,9,documentary,GB
+2024-05-25 21:10:36,558.data_receiver1.INFO [x] Filtered genre: 46,David Attenborough: A Life on Our Planet,2020,9,documentary,GB
+2024-05-25 21:10:36,560.data_receiver1.INFO  [x] Done.
+2024-05-25 21:10:36,564.data_receiver1.INFO  [x] Received 47,Bo Burnham: Inside,2021,8.7,comedy,US
+2024-05-25 21:10:36,566.data_receiver1.INFO [x] Filtered genre: 47,Bo Burnham: Inside,2021,8.7,comedy,US
+2024-05-25 21:10:37,567.data_receiver1.INFO  [x] Done.
+2024-05-25 21:10:37,574.data_receiver1.INFO  [x] Received 48,The Tinder Swindler,2022,7.2,crime,GB
+2024-05-25 21:10:37,576.data_receiver1.INFO [x] Filtered genre: 48,The Tinder Swindler,2022,7.2,crime,GB
+2024-05-25 21:10:38,577.data_receiver1.INFO  [x] Done.
+2024-05-25 21:10:38,579.data_receiver1.INFO  [x] Received index,TITLE,RELEASE_YEAR,SCORE,MAIN_GENRE,MAIN_PRODUCTION
+2024-05-25 21:10:38,581.data_receiver1.INFO [x] Filtered genre: index,TITLE,RELEASE_YEAR,SCORE,MAIN_GENRE,MAIN_PRODUCTION
+2024-05-25 21:10:38,582.data_receiver1.INFO  [x] Done.
+2024-05-25 21:10:38,583.data_receiver1.INFO  [x] Received 0,White Christmas,1954,7.5,romance,US
+2024-05-25 21:10:38,585.data_receiver1.INFO [x] Filtered genre: 0,White Christmas,1954,7.5,romance,US
+0,White Christmas,1954,7.5,romance,US
+2024-05-25 21:10:39,586.data_receiver1.INFO  [x] Done.
+2024-05-25 21:10:39,588.data_receiver1.INFO  [x] Received 1,The Guns of Navarone,1961,7.5,war,US
+2024-05-25 21:10:39,589.data_receiver1.INFO [x] Filtered genre: 1,The Guns of Navarone,1961,7.5,war,US
+2024-05-25 21:10:40,591.data_receiver1.INFO  [x] Done.
+2024-05-25 21:10:40,593.data_receiver1.INFO  [x] Received 2,My Fair Lady,1964,7.8,drama,US
+2024-05-25 21:10:40,594.data_receiver1.INFO [x] Filtered genre: 2,My Fair Lady,1964,7.8,drama,US
+2024-05-25 21:10:41,597.data_receiver1.INFO  [x] Done.
+2024-05-25 21:10:41,600.data_receiver1.INFO  [x] Received 3,Bonnie and Clyde,1967,7.7,drama,US
+2024-05-25 21:10:41,602.data_receiver1.INFO [x] Filtered genre: 3,Bonnie and Clyde,1967,7.7,drama,US
+2024-05-25 21:10:42,603.data_receiver1.INFO  [x] Done.
+2024-05-25 21:10:42,605.data_receiver1.INFO  [x] Received 4,Dirty Harry,1971,7.7,thriller,US
+2024-05-25 21:10:42,606.data_receiver1.INFO [x] Filtered genre: 4,Dirty Harry,1971,7.7,thriller,US
+2024-05-25 21:10:43,608.data_receiver1.INFO  [x] Done.
+2024-05-25 21:10:43,611.data_receiver1.INFO  [x] Received 5,The Exorcist,1973,8.1,horror,US
+2024-05-25 21:10:43,612.data_receiver1.INFO [x] Filtered genre: 5,The Exorcist,1973,8.1,horror,US
+2024-05-25 21:10:44,614.data_receiver1.INFO  [x] Done.
+2024-05-25 21:10:44,616.data_receiver1.INFO  [x] Received 6,Monty Python and the Holy Grail,1975,8.2,comedy,GB
+2024-05-25 21:10:44,617.data_receiver1.INFO [x] Filtered genre: 6,Monty Python and the Holy Grail,1975,8.2,comedy,GB
+2024-05-25 21:10:45,618.data_receiver1.INFO  [x] Done.
+2024-05-25 21:10:45,622.data_receiver1.INFO  [x] Received 7,Taxi Driver,1976,8.3,crime,US
+2024-05-25 21:10:45,633.data_receiver1.INFO [x] Filtered genre: 7,Taxi Driver,1976,8.3,crime,US
+2024-05-25 21:10:46,636.data_receiver1.INFO  [x] Done.
+2024-05-25 21:10:46,638.data_receiver1.INFO  [x] Received 8,Life of Brian,1979,8,comedy,GB
+2024-05-25 21:10:46,639.data_receiver1.INFO [x] Filtered genre: 8,Life of Brian,1979,8,comedy,GB
+2024-05-25 21:10:46,640.data_receiver1.INFO  [x] Done.
+2024-05-25 21:10:46,642.data_receiver1.INFO  [x] Received 9,The Blue Lagoon,1980,5.8,romance,US
+2024-05-25 21:10:46,643.data_receiver1.INFO [x] Filtered genre: 9,The Blue Lagoon,1980,5.8,romance,US
+9,The Blue Lagoon,1980,5.8,romance,US
+2024-05-25 21:10:47,644.data_receiver1.INFO  [x] Done.
+2024-05-25 21:10:47,647.data_receiver1.INFO  [x] Received 10,Annie,1982,6.6,drama,US
+2024-05-25 21:10:47,648.data_receiver1.INFO [x] Filtered genre: 10,Annie,1982,6.6,drama,US
+2024-05-25 21:10:48,650.data_receiver1.INFO  [x] Done.
+2024-05-25 21:10:48,652.data_receiver1.INFO  [x] Received 11,Christine,1983,6.7,horror,US
+2024-05-25 21:10:48,654.data_receiver1.INFO [x] Filtered genre: 11,Christine,1983,6.7,horror,US
+2024-05-25 21:10:49,655.data_receiver1.INFO  [x] Done.
+2024-05-25 21:10:49,658.data_receiver1.INFO  [x] Received 12,Once Upon a Time in America,1984,8.3,drama,US
+2024-05-25 21:10:49,660.data_receiver1.INFO [x] Filtered genre: 12,Once Upon a Time in America,1984,8.3,drama,US
+2024-05-25 21:10:50,661.data_receiver1.INFO  [x] Done.
+2024-05-25 21:10:50,663.data_receiver1.INFO  [x] Received 13,Stand by Me,1986,8.1,drama,US
+2024-05-25 21:10:50,665.data_receiver1.INFO [x] Filtered genre: 13,Stand by Me,1986,8.1,drama,US
+2024-05-25 21:10:51,666.data_receiver1.INFO  [x] Done.
+2024-05-25 21:10:51,669.data_receiver1.INFO  [x] Received 14,Full Metal Jacket,1987,8.3,drama,GB
+2024-05-25 21:10:51,670.data_receiver1.INFO [x] Filtered genre: 14,Full Metal Jacket,1987,8.3,drama,GB
+2024-05-25 21:10:52,672.data_receiver1.INFO  [x] Done.
+2024-05-25 21:10:52,674.data_receiver1.INFO  [x] Received 15,When Harry Met Sally...,1989,7.7,romance,US
+2024-05-25 21:10:52,675.data_receiver1.INFO [x] Filtered genre: 15,When Harry Met Sally...,1989,7.7,romance,US
+15,When Harry Met Sally...,1989,7.7,romance,US
+2024-05-25 21:10:56,677.data_receiver1.INFO  [x] Done.
+2024-05-25 21:10:56,679.data_receiver1.INFO  [x] Received 16,Awakenings,1990,7.8,drama,US
+2024-05-25 21:10:56,680.data_receiver1.INFO [x] Filtered genre: 16,Awakenings,1990,7.8,drama,US
+2024-05-25 21:10:57,682.data_receiver1.INFO  [x] Done.
+2024-05-25 21:10:57,684.data_receiver1.INFO  [x] Received 17,My Girl,1991,6.9,comedy,US
+2024-05-25 21:10:57,686.data_receiver1.INFO [x] Filtered genre: 17,My Girl,1991,6.9,comedy,US
+2024-05-25 21:10:58,687.data_receiver1.INFO  [x] Done.
+2024-05-25 21:10:58,690.data_receiver1.INFO  [x] Received 18,A River Runs Through It,1992,7.2,drama,US
+2024-05-25 21:10:58,692.data_receiver1.INFO [x] Filtered genre: 18,A River Runs Through It,1992,7.2,drama,US
+2024-05-25 21:10:59,693.data_receiver1.INFO  [x] Done.
+2024-05-25 21:10:59,697.data_receiver1.INFO  [x] Received 19,Menace II Society,1993,7.5,drama,US
+2024-05-25 21:10:59,698.data_receiver1.INFO [x] Filtered genre: 19,Menace II Society,1993,7.5,drama,US
+2024-05-25 21:11:00,699.data_receiver1.INFO  [x] Done.
+2024-05-25 21:11:00,702.data_receiver1.INFO  [x] Received 20,Forrest Gump,1994,8.8,drama,US
+2024-05-25 21:11:00,704.data_receiver1.INFO [x] Filtered genre: 20,Forrest Gump,1994,8.8,drama,US
+2024-05-25 21:11:01,705.data_receiver1.INFO  [x] Done.
+2024-05-25 21:11:01,707.data_receiver1.INFO  [x] Received 21,Desperado,1995,7.1,thriller,US
+2024-05-25 21:11:01,709.data_receiver1.INFO [x] Filtered genre: 21,Desperado,1995,7.1,thriller,US
+2024-05-25 21:11:02,710.data_receiver1.INFO  [x] Done.
+2024-05-25 21:11:02,715.data_receiver1.INFO  [x] Received 22,Happy Gilmore,1996,7,comedy,US
+2024-05-25 21:11:02,718.data_receiver1.INFO [x] Filtered genre: 22,Happy Gilmore,1996,7,comedy,US
+2024-05-25 21:11:02,719.data_receiver1.INFO  [x] Done.
+2024-05-25 21:11:02,720.data_receiver1.INFO  [x] Received 23,Neon Genesis Evangelion: The End of Evangelion,1997,8,scifi,JP
+2024-05-25 21:11:02,722.data_receiver1.INFO [x] Filtered genre: 23,Neon Genesis Evangelion: The End of Evangelion,1997,8,scifi,JP
+2024-05-25 21:11:02,722.data_receiver1.INFO  [x] Done.
+2024-05-25 21:11:02,724.data_receiver1.INFO  [x] Received 24,Saving Private Ryan,1998,8.6,drama,US
+2024-05-25 21:11:02,726.data_receiver1.INFO [x] Filtered genre: 24,Saving Private Ryan,1998,8.6,drama,US
+2024-05-25 21:11:03,728.data_receiver1.INFO  [x] Done.
+2024-05-25 21:11:03,730.data_receiver1.INFO  [x] Received 25,Girl, Interrupted,1999,7.3,drama,US
+2024-05-25 21:11:03,732.data_receiver1.INFO [x] Filtered genre: 25,Girl, Interrupted,1999,7.3,drama,US
+2024-05-25 21:11:04,733.data_receiver1.INFO  [x] Done.
+2024-05-25 21:11:04,735.data_receiver1.INFO  [x] Received 26,The Patriot,2000,7.2,drama,DE
+2024-05-25 21:11:04,736.data_receiver1.INFO [x] Filtered genre: 26,The Patriot,2000,7.2,drama,DE
+2024-05-25 21:11:05,739.data_receiver1.INFO  [x] Done.
+2024-05-25 21:11:05,741.data_receiver1.INFO  [x] Received 27,Lagaan: Once Upon a Time in India,2001,8.1,drama,IN
+2024-05-25 21:11:05,742.data_receiver1.INFO [x] Filtered genre: 27,Lagaan: Once Upon a Time in India,2001,8.1,drama,IN
+2024-05-25 21:11:06,744.data_receiver1.INFO  [x] Done.
+2024-05-25 21:11:06,746.data_receiver1.INFO  [x] Received 28,Road to Perdition,2002,7.7,thriller,US
+2024-05-25 21:11:06,747.data_receiver1.INFO [x] Filtered genre: 28,Road to Perdition,2002,7.7,thriller,US
+2024-05-25 21:11:07,749.data_receiver1.INFO  [x] Done.
+2024-05-25 21:11:07,752.data_receiver1.INFO  [x] Received 29,Big Fish,2003,8,drama,US
+2024-05-25 21:11:07,754.data_receiver1.INFO [x] Filtered genre: 29,Big Fish,2003,8,drama,US
+2024-05-25 21:11:07,754.data_receiver1.INFO  [x] Done.
+2024-05-25 21:11:07,756.data_receiver1.INFO  [x] Received 30,Swades,2004,8.1,drama,IN
+2024-05-25 21:11:07,757.data_receiver1.INFO [x] Filtered genre: 30,Swades,2004,8.1,drama,IN
+2024-05-25 21:11:08,758.data_receiver1.INFO  [x] Done.
+2024-05-25 21:11:08,761.data_receiver1.INFO  [x] Received 31,Memoirs of a Geisha,2005,7.3,drama,FR
+2024-05-25 21:11:08,763.data_receiver1.INFO [x] Filtered genre: 31,Memoirs of a Geisha,2005,7.3,drama,FR
+2024-05-25 21:11:09,765.data_receiver1.INFO  [x] Done.
+2024-05-25 21:11:09,768.data_receiver1.INFO  [x] Received 32,Rang De Basanti,2006,8.1,comedy,IN
+2024-05-25 21:11:09,769.data_receiver1.INFO [x] Filtered genre: 32,Rang De Basanti,2006,8.1,comedy,IN
+2024-05-25 21:11:10,770.data_receiver1.INFO  [x] Done.
+2024-05-25 21:11:10,773.data_receiver1.INFO  [x] Received 33,Like Stars on Earth,2007,8.3,drama,IN
+2024-05-25 21:11:10,775.data_receiver1.INFO [x] Filtered genre: 33,Like Stars on Earth,2007,8.3,drama,IN
+2024-05-25 21:11:11,778.data_receiver1.INFO  [x] Done.
+2024-05-25 21:11:11,781.data_receiver1.INFO  [x] Received 34,Ip Man,2008,8,drama,HK
+2024-05-25 21:11:11,783.data_receiver1.INFO [x] Filtered genre: 34,Ip Man,2008,8,drama,HK
+2024-05-25 21:11:11,784.data_receiver1.INFO  [x] Done.
+2024-05-25 21:11:11,786.data_receiver1.INFO  [x] Received 35,3 Idiots,2009,8.4,comedy,IN
+2024-05-25 21:11:11,788.data_receiver1.INFO [x] Filtered genre: 35,3 Idiots,2009,8.4,comedy,IN
+2024-05-25 21:11:12,789.data_receiver1.INFO  [x] Done.
+2024-05-25 21:11:12,790.data_receiver1.INFO  [x] Received 36,Inception,2010,8.8,scifi,GB
+2024-05-25 21:11:12,791.data_receiver1.INFO [x] Filtered genre: 36,Inception,2010,8.8,scifi,GB
+2024-05-25 21:11:13,793.data_receiver1.INFO  [x] Done.
+2024-05-25 21:11:13,797.data_receiver1.INFO  [x] Received 37,Warrior,2011,8.2,drama,US
+2024-05-25 21:11:13,799.data_receiver1.INFO [x] Filtered genre: 37,Warrior,2011,8.2,drama,US
+2024-05-25 21:11:14,800.data_receiver1.INFO  [x] Done.
+2024-05-25 21:11:14,802.data_receiver1.INFO  [x] Received 38,Django Unchained,2012,8.4,western,US
+2024-05-25 21:11:14,804.data_receiver1.INFO [x] Filtered genre: 38,Django Unchained,2012,8.4,western,US
+2024-05-25 21:11:15,806.data_receiver1.INFO  [x] Done.
+2024-05-25 21:11:15,809.data_receiver1.INFO  [x] Received 39,Rush,2013,8.1,drama,US
+2024-05-25 21:11:15,811.data_receiver1.INFO [x] Filtered genre: 39,Rush,2013,8.1,drama,US
+2024-05-25 21:11:16,812.data_receiver1.INFO  [x] Done.
+2024-05-25 21:11:16,815.data_receiver1.INFO  [x] Received 40,Queen,2014,8.2,drama,IN
+2024-05-25 21:11:16,817.data_receiver1.INFO [x] Filtered genre: 40,Queen,2014,8.2,drama,IN
+2024-05-25 21:11:17,818.data_receiver1.INFO  [x] Done.
+2024-05-25 21:11:17,819.data_receiver1.INFO  [x] Received 41,Drishyam,2015,8.2,thriller,IN
+2024-05-25 21:11:17,820.data_receiver1.INFO [x] Filtered genre: 41,Drishyam,2015,8.2,thriller,IN
+2024-05-25 21:11:18,821.data_receiver1.INFO  [x] Done.
+2024-05-25 21:11:18,823.data_receiver1.INFO  [x] Received 42,Dangal,2016,8.4,action,IN
+2024-05-25 21:11:18,824.data_receiver1.INFO [x] Filtered genre: 42,Dangal,2016,8.4,action,IN
+2024-05-25 21:11:19,826.data_receiver1.INFO  [x] Done.
+2024-05-25 21:11:20,847.data_receiver1.INFO  [x] Done.
+2024-05-25 21:11:20,849.data_receiver1.INFO  [x] Received 44,Andhadhun,2018,8.2,thriller,IN
+2024-05-25 21:11:20,850.data_receiver1.INFO [x] Filtered genre: 44,Andhadhun,2018,8.2,thriller,IN
+2024-05-25 21:11:21,852.data_receiver1.INFO  [x] Done.
+2024-05-25 21:11:21,854.data_receiver1.INFO  [x] Received 45,Dave Chappelle: Sticks & Stones,2019,8.4,comedy,US
+2024-05-25 21:11:21,856.data_receiver1.INFO [x] Filtered genre: 45,Dave Chappelle: Sticks & Stones,2019,8.4,comedy,US
+2024-05-25 21:11:22,857.data_receiver1.INFO  [x] Done.
+2024-05-25 21:11:22,859.data_receiver1.INFO  [x] Received 46,David Attenborough: A Life on Our Planet,2020,9,documentary,GB
+2024-05-25 21:11:22,861.data_receiver1.INFO [x] Filtered genre: 46,David Attenborough: A Life on Our Planet,2020,9,documentary,GB
+2024-05-25 21:11:22,861.data_receiver1.INFO  [x] Done.
+2024-05-25 21:11:22,865.data_receiver1.INFO  [x] Received 47,Bo Burnham: Inside,2021,8.7,comedy,US
+2024-05-25 21:11:22,868.data_receiver1.INFO [x] Filtered genre: 47,Bo Burnham: Inside,2021,8.7,comedy,US
+2024-05-25 21:11:23,871.data_receiver1.INFO  [x] Done.
+2024-05-25 21:11:23,873.data_receiver1.INFO  [x] Received 48,The Tinder Swindler,2022,7.2,crime,GB
+2024-05-25 21:11:23,874.data_receiver1.INFO [x] Filtered genre: 48,The Tinder Swindler,2022,7.2,crime,GB
+2024-05-25 21:11:24,875.data_receiver1.INFO  [x] Done.
+2024-05-25 21:11:24,877.data_receiver1.INFO  [x] Received index,TITLE,RELEASE_YEAR,SCORE,MAIN_GENRE,MAIN_PRODUCTION
+2024-05-25 21:11:24,879.data_receiver1.INFO [x] Filtered genre: index,TITLE,RELEASE_YEAR,SCORE,MAIN_GENRE,MAIN_PRODUCTION
+2024-05-25 21:11:24,880.data_receiver1.INFO  [x] Done.
+2024-05-25 21:11:24,882.data_receiver1.INFO  [x] Received 0,White Christmas,1954,7.5,romance,US
+2024-05-25 21:11:24,883.data_receiver1.INFO [x] Filtered genre: 0,White Christmas,1954,7.5,romance,US
+0,White Christmas,1954,7.5,romance,US
+2024-05-25 21:11:25,885.data_receiver1.INFO  [x] Done.
+2024-05-25 21:11:25,887.data_receiver1.INFO  [x] Received 1,The Guns of Navarone,1961,7.5,war,US
+2024-05-25 21:11:25,888.data_receiver1.INFO [x] Filtered genre: 1,The Guns of Navarone,1961,7.5,war,US
+2024-05-25 21:11:26,891.data_receiver1.INFO  [x] Done.
+2024-05-25 21:11:26,893.data_receiver1.INFO  [x] Received 2,My Fair Lady,1964,7.8,drama,US
+2024-05-25 21:11:26,894.data_receiver1.INFO [x] Filtered genre: 2,My Fair Lady,1964,7.8,drama,US
+2024-05-25 21:11:27,895.data_receiver1.INFO  [x] Done.
+2024-05-25 21:11:27,897.data_receiver1.INFO  [x] Received 3,Bonnie and Clyde,1967,7.7,drama,US
+2024-05-25 21:11:27,899.data_receiver1.INFO [x] Filtered genre: 3,Bonnie and Clyde,1967,7.7,drama,US
+2024-05-25 21:11:28,900.data_receiver1.INFO  [x] Done.
+2024-05-25 21:11:28,902.data_receiver1.INFO  [x] Received 4,Dirty Harry,1971,7.7,thriller,US
+2024-05-25 21:11:28,903.data_receiver1.INFO [x] Filtered genre: 4,Dirty Harry,1971,7.7,thriller,US
+2024-05-25 21:11:29,905.data_receiver1.INFO  [x] Done.
+2024-05-25 21:11:29,908.data_receiver1.INFO  [x] Received 5,The Exorcist,1973,8.1,horror,US
+2024-05-25 21:11:29,909.data_receiver1.INFO [x] Filtered genre: 5,The Exorcist,1973,8.1,horror,US
+2024-05-25 21:11:30,910.data_receiver1.INFO  [x] Done.
+2024-05-25 21:11:30,912.data_receiver1.INFO  [x] Received 6,Monty Python and the Holy Grail,1975,8.2,comedy,GB
+2024-05-25 21:11:30,913.data_receiver1.INFO [x] Filtered genre: 6,Monty Python and the Holy Grail,1975,8.2,comedy,GB
+2024-05-25 21:11:31,915.data_receiver1.INFO  [x] Done.
+2024-05-25 21:11:31,917.data_receiver1.INFO  [x] Received 7,Taxi Driver,1976,8.3,crime,US
+2024-05-25 21:11:31,918.data_receiver1.INFO [x] Filtered genre: 7,Taxi Driver,1976,8.3,crime,US
+2024-05-25 21:11:32,920.data_receiver1.INFO  [x] Done.
+2024-05-25 21:11:32,922.data_receiver1.INFO  [x] Received 8,Life of Brian,1979,8,comedy,GB
+2024-05-25 21:11:32,923.data_receiver1.INFO [x] Filtered genre: 8,Life of Brian,1979,8,comedy,GB
+2024-05-25 21:11:32,924.data_receiver1.INFO  [x] Done.
+2024-05-25 21:11:32,925.data_receiver1.INFO  [x] Received 9,The Blue Lagoon,1980,5.8,romance,US
+2024-05-25 21:11:32,926.data_receiver1.INFO [x] Filtered genre: 9,The Blue Lagoon,1980,5.8,romance,US
+9,The Blue Lagoon,1980,5.8,romance,US
+2024-05-25 21:11:33,928.data_receiver1.INFO  [x] Done.
+2024-05-25 21:11:33,930.data_receiver1.INFO  [x] Received 10,Annie,1982,6.6,drama,US
+2024-05-25 21:11:33,931.data_receiver1.INFO [x] Filtered genre: 10,Annie,1982,6.6,drama,US
+2024-05-25 21:11:34,932.data_receiver1.INFO  [x] Done.
+2024-05-25 21:11:34,934.data_receiver1.INFO  [x] Received 11,Christine,1983,6.7,horror,US
+2024-05-25 21:11:34,935.data_receiver1.INFO [x] Filtered genre: 11,Christine,1983,6.7,horror,US
+2024-05-25 21:11:35,936.data_receiver1.INFO  [x] Done.
+2024-05-25 21:11:35,941.data_receiver1.INFO  [x] Received 12,Once Upon a Time in America,1984,8.3,drama,US
+2024-05-25 21:11:35,943.data_receiver1.INFO [x] Filtered genre: 12,Once Upon a Time in America,1984,8.3,drama,US
+2024-05-25 21:11:36,945.data_receiver1.INFO  [x] Done.
+2024-05-25 21:11:36,948.data_receiver1.INFO  [x] Received 13,Stand by Me,1986,8.1,drama,US
+2024-05-25 21:11:36,949.data_receiver1.INFO [x] Filtered genre: 13,Stand by Me,1986,8.1,drama,US
+2024-05-25 21:11:37,950.data_receiver1.INFO  [x] Done.
+2024-05-25 21:11:37,954.data_receiver1.INFO  [x] Received 14,Full Metal Jacket,1987,8.3,drama,GB
+2024-05-25 21:11:37,956.data_receiver1.INFO [x] Filtered genre: 14,Full Metal Jacket,1987,8.3,drama,GB
+2024-05-25 21:11:38,957.data_receiver1.INFO  [x] Done.
+2024-05-25 21:11:38,959.data_receiver1.INFO  [x] Received 15,When Harry Met Sally...,1989,7.7,romance,US
+2024-05-25 21:11:38,960.data_receiver1.INFO [x] Filtered genre: 15,When Harry Met Sally...,1989,7.7,romance,US
+15,When Harry Met Sally...,1989,7.7,romance,US
+2024-05-25 21:11:42,962.data_receiver1.INFO  [x] Done.
+2024-05-25 21:11:42,964.data_receiver1.INFO  [x] Received 16,Awakenings,1990,7.8,drama,US
+2024-05-25 21:11:42,965.data_receiver1.INFO [x] Filtered genre: 16,Awakenings,1990,7.8,drama,US
+2024-05-25 21:11:43,967.data_receiver1.INFO  [x] Done.
+2024-05-25 21:11:43,969.data_receiver1.INFO  [x] Received 17,My Girl,1991,6.9,comedy,US
+2024-05-25 21:11:43,970.data_receiver1.INFO [x] Filtered genre: 17,My Girl,1991,6.9,comedy,US
+2024-05-25 21:11:44,972.data_receiver1.INFO  [x] Done.
+2024-05-25 21:11:44,974.data_receiver1.INFO  [x] Received 18,A River Runs Through It,1992,7.2,drama,US
+2024-05-25 21:11:44,975.data_receiver1.INFO [x] Filtered genre: 18,A River Runs Through It,1992,7.2,drama,US
+2024-05-25 21:11:45,977.data_receiver1.INFO  [x] Done.
+2024-05-25 21:11:45,979.data_receiver1.INFO  [x] Received 19,Menace II Society,1993,7.5,drama,US
+2024-05-25 21:11:45,980.data_receiver1.INFO [x] Filtered genre: 19,Menace II Society,1993,7.5,drama,US
+2024-05-25 21:11:46,982.data_receiver1.INFO  [x] Done.
+2024-05-25 21:11:46,984.data_receiver1.INFO  [x] Received 20,Forrest Gump,1994,8.8,drama,US
+2024-05-25 21:11:46,986.data_receiver1.INFO [x] Filtered genre: 20,Forrest Gump,1994,8.8,drama,US
+2024-05-25 21:11:47,987.data_receiver1.INFO  [x] Done.
+2024-05-25 21:11:47,990.data_receiver1.INFO  [x] Received 21,Desperado,1995,7.1,thriller,US
+2024-05-25 21:11:47,991.data_receiver1.INFO [x] Filtered genre: 21,Desperado,1995,7.1,thriller,US
+2024-05-25 21:11:48,993.data_receiver1.INFO  [x] Done.
+2024-05-25 21:11:48,995.data_receiver1.INFO  [x] Received 22,Happy Gilmore,1996,7,comedy,US
+2024-05-25 21:11:48,997.data_receiver1.INFO [x] Filtered genre: 22,Happy Gilmore,1996,7,comedy,US
+2024-05-25 21:11:48,997.data_receiver1.INFO  [x] Done.
+2024-05-25 21:11:48,999.data_receiver1.INFO  [x] Received 23,Neon Genesis Evangelion: The End of Evangelion,1997,8,scifi,JP
+2024-05-25 21:11:49,000.data_receiver1.INFO [x] Filtered genre: 23,Neon Genesis Evangelion: The End of Evangelion,1997,8,scifi,JP
+2024-05-25 21:11:49,001.data_receiver1.INFO  [x] Done.
+2024-05-25 21:11:49,012.data_receiver1.INFO  [x] Received 24,Saving Private Ryan,1998,8.6,drama,US
+2024-05-25 21:11:49,014.data_receiver1.INFO [x] Filtered genre: 24,Saving Private Ryan,1998,8.6,drama,US
+2024-05-25 21:11:50,015.data_receiver1.INFO  [x] Done.
+2024-05-25 21:11:50,017.data_receiver1.INFO  [x] Received 25,Girl, Interrupted,1999,7.3,drama,US
+2024-05-25 21:11:50,018.data_receiver1.INFO [x] Filtered genre: 25,Girl, Interrupted,1999,7.3,drama,US
+2024-05-25 21:11:51,020.data_receiver1.INFO  [x] Done.
+2024-05-25 21:11:51,021.data_receiver1.INFO  [x] Received 26,The Patriot,2000,7.2,drama,DE
+2024-05-25 21:11:51,022.data_receiver1.INFO [x] Filtered genre: 26,The Patriot,2000,7.2,drama,DE
+2024-05-25 21:11:52,023.data_receiver1.INFO  [x] Done.
+2024-05-25 21:11:52,024.data_receiver1.INFO  [x] Received 27,Lagaan: Once Upon a Time in India,2001,8.1,drama,IN
+2024-05-25 21:11:52,025.data_receiver1.INFO [x] Filtered genre: 27,Lagaan: Once Upon a Time in India,2001,8.1,drama,IN
+2024-05-25 21:11:53,027.data_receiver1.INFO  [x] Done.
+2024-05-25 21:11:53,029.data_receiver1.INFO  [x] Received 28,Road to Perdition,2002,7.7,thriller,US
+2024-05-25 21:11:53,030.data_receiver1.INFO [x] Filtered genre: 28,Road to Perdition,2002,7.7,thriller,US
+2024-05-25 21:11:54,032.data_receiver1.INFO  [x] Done.
+2024-05-25 21:11:54,034.data_receiver1.INFO  [x] Received 29,Big Fish,2003,8,drama,US
+2024-05-25 21:11:54,035.data_receiver1.INFO [x] Filtered genre: 29,Big Fish,2003,8,drama,US
+2024-05-25 21:11:54,036.data_receiver1.INFO  [x] Done.
+2024-05-25 21:11:54,037.data_receiver1.INFO  [x] Received 30,Swades,2004,8.1,drama,IN
+2024-05-25 21:11:54,038.data_receiver1.INFO [x] Filtered genre: 30,Swades,2004,8.1,drama,IN
+2024-05-25 21:11:55,039.data_receiver1.INFO  [x] Done.
+2024-05-25 21:11:55,044.data_receiver1.INFO  [x] Received 31,Memoirs of a Geisha,2005,7.3,drama,FR
+2024-05-25 21:11:55,046.data_receiver1.INFO [x] Filtered genre: 31,Memoirs of a Geisha,2005,7.3,drama,FR
+2024-05-25 21:11:56,047.data_receiver1.INFO  [x] Done.
+2024-05-25 21:11:56,049.data_receiver1.INFO  [x] Received 32,Rang De Basanti,2006,8.1,comedy,IN
+2024-05-25 21:11:56,050.data_receiver1.INFO [x] Filtered genre: 32,Rang De Basanti,2006,8.1,comedy,IN
+2024-05-25 21:11:57,052.data_receiver1.INFO  [x] Done.
+2024-05-25 21:11:57,054.data_receiver1.INFO  [x] Received 33,Like Stars on Earth,2007,8.3,drama,IN
+2024-05-25 21:11:57,055.data_receiver1.INFO [x] Filtered genre: 33,Like Stars on Earth,2007,8.3,drama,IN
+2024-05-25 21:11:58,057.data_receiver1.INFO  [x] Done.
+2024-05-25 21:11:58,060.data_receiver1.INFO  [x] Received 34,Ip Man,2008,8,drama,HK
+2024-05-25 21:11:58,061.data_receiver1.INFO [x] Filtered genre: 34,Ip Man,2008,8,drama,HK
+2024-05-25 21:11:58,062.data_receiver1.INFO  [x] Done.
+2024-05-25 21:11:58,063.data_receiver1.INFO  [x] Received 35,3 Idiots,2009,8.4,comedy,IN
+2024-05-25 21:11:58,065.data_receiver1.INFO [x] Filtered genre: 35,3 Idiots,2009,8.4,comedy,IN
+2024-05-25 21:11:59,066.data_receiver1.INFO  [x] Done.
+2024-05-25 21:11:59,069.data_receiver1.INFO  [x] Received 36,Inception,2010,8.8,scifi,GB
+2024-05-25 21:11:59,071.data_receiver1.INFO [x] Filtered genre: 36,Inception,2010,8.8,scifi,GB
+2024-05-25 21:12:00,072.data_receiver1.INFO  [x] Done.
+2024-05-25 21:12:00,072.data_receiver1.INFO  [x] Received 37,Warrior,2011,8.2,drama,US
+2024-05-25 21:12:00,074.data_receiver1.INFO [x] Filtered genre: 37,Warrior,2011,8.2,drama,US
+2024-05-25 21:12:01,075.data_receiver1.INFO  [x] Done.
+2024-05-25 21:12:01,077.data_receiver1.INFO  [x] Received 38,Django Unchained,2012,8.4,western,US
+2024-05-25 21:12:01,079.data_receiver1.INFO [x] Filtered genre: 38,Django Unchained,2012,8.4,western,US
+2024-05-25 21:12:02,080.data_receiver1.INFO  [x] Done.
+2024-05-25 21:12:02,083.data_receiver1.INFO  [x] Received 39,Rush,2013,8.1,drama,US
+2024-05-25 21:12:02,084.data_receiver1.INFO [x] Filtered genre: 39,Rush,2013,8.1,drama,US
+2024-05-25 21:12:03,085.data_receiver1.INFO  [x] Done.
+2024-05-25 21:12:03,087.data_receiver1.INFO  [x] Received 40,Queen,2014,8.2,drama,IN
+2024-05-25 21:12:03,088.data_receiver1.INFO [x] Filtered genre: 40,Queen,2014,8.2,drama,IN
+2024-05-25 21:12:04,089.data_receiver1.INFO  [x] Done.
+2024-05-25 21:12:04,090.data_receiver1.INFO  [x] Received 41,Drishyam,2015,8.2,thriller,IN
+2024-05-25 21:12:04,091.data_receiver1.INFO [x] Filtered genre: 41,Drishyam,2015,8.2,thriller,IN
+2024-05-25 21:12:05,092.data_receiver1.INFO  [x] Done.
+2024-05-25 21:12:05,094.data_receiver1.INFO  [x] Received 42,Dangal,2016,8.4,action,IN
+2024-05-25 21:12:05,096.data_receiver1.INFO [x] Filtered genre: 42,Dangal,2016,8.4,action,IN
+2024-05-25 21:12:06,097.data_receiver1.INFO  [x] Done.
+2024-05-25 21:12:06,100.data_receiver1.INFO  [x] Received 43,Bahubali 2: The Conclusion,2017,8.2,fantasy,IN
+2024-05-25 21:12:06,102.data_receiver1.INFO [x] Filtered genre: 43,Bahubali 2: The Conclusion,2017,8.2,fantasy,IN
+2024-05-25 21:12:07,102.data_receiver1.INFO  [x] Done.
+2024-05-25 21:12:07,105.data_receiver1.INFO  [x] Received 44,Andhadhun,2018,8.2,thriller,IN
+2024-05-25 21:12:07,106.data_receiver1.INFO [x] Filtered genre: 44,Andhadhun,2018,8.2,thriller,IN
+2024-05-25 21:12:08,108.data_receiver1.INFO  [x] Done.
+2024-05-25 21:12:08,110.data_receiver1.INFO  [x] Received 45,Dave Chappelle: Sticks & Stones,2019,8.4,comedy,US
+2024-05-25 21:12:08,111.data_receiver1.INFO [x] Filtered genre: 45,Dave Chappelle: Sticks & Stones,2019,8.4,comedy,US
+2024-05-25 21:12:09,113.data_receiver1.INFO  [x] Done.
+2024-05-25 21:12:09,119.data_receiver1.INFO  [x] Received 46,David Attenborough: A Life on Our Planet,2020,9,documentary,GB
+2024-05-25 21:12:09,120.data_receiver1.INFO [x] Filtered genre: 46,David Attenborough: A Life on Our Planet,2020,9,documentary,GB
+2024-05-25 21:12:09,121.data_receiver1.INFO  [x] Done.
+2024-05-25 21:12:09,134.data_receiver1.INFO  [x] Received 47,Bo Burnham: Inside,2021,8.7,comedy,US
+2024-05-25 21:12:09,135.data_receiver1.INFO [x] Filtered genre: 47,Bo Burnham: Inside,2021,8.7,comedy,US
+2024-05-25 21:12:10,137.data_receiver1.INFO  [x] Done.
+2024-05-25 21:12:10,139.data_receiver1.INFO  [x] Received 48,The Tinder Swindler,2022,7.2,crime,GB
+2024-05-25 21:12:10,141.data_receiver1.INFO [x] Filtered genre: 48,The Tinder Swindler,2022,7.2,crime,GB
+2024-05-25 21:12:11,142.data_receiver1.INFO  [x] Done.
+2024-05-25 21:12:11,145.data_receiver1.INFO  [x] Received index,TITLE,RELEASE_YEAR,SCORE,MAIN_GENRE,MAIN_PRODUCTION
+2024-05-25 21:12:11,146.data_receiver1.INFO [x] Filtered genre: index,TITLE,RELEASE_YEAR,SCORE,MAIN_GENRE,MAIN_PRODUCTION
+2024-05-25 21:12:11,147.data_receiver1.INFO  [x] Done.
+2024-05-25 21:12:11,149.data_receiver1.INFO  [x] Received 0,White Christmas,1954,7.5,romance,US
+2024-05-25 21:12:11,150.data_receiver1.INFO [x] Filtered genre: 0,White Christmas,1954,7.5,romance,US
+0,White Christmas,1954,7.5,romance,US
+2024-05-25 21:12:12,152.data_receiver1.INFO  [x] Done.
+2024-05-25 21:12:12,153.data_receiver1.INFO  [x] Received 1,The Guns of Navarone,1961,7.5,war,US
+2024-05-25 21:12:12,154.data_receiver1.INFO [x] Filtered genre: 1,The Guns of Navarone,1961,7.5,war,US
+2024-05-25 21:12:13,155.data_receiver1.INFO  [x] Done.
+2024-05-25 21:12:13,157.data_receiver1.INFO  [x] Received 2,My Fair Lady,1964,7.8,drama,US
+2024-05-25 21:12:13,158.data_receiver1.INFO [x] Filtered genre: 2,My Fair Lady,1964,7.8,drama,US
+2024-05-25 21:12:14,159.data_receiver1.INFO  [x] Done.
+2024-05-25 21:12:14,164.data_receiver1.INFO  [x] Received 3,Bonnie and Clyde,1967,7.7,drama,US
+2024-05-25 21:12:14,167.data_receiver1.INFO [x] Filtered genre: 3,Bonnie and Clyde,1967,7.7,drama,US
+2024-05-25 21:12:15,168.data_receiver1.INFO  [x] Done.
+2024-05-25 21:12:15,172.data_receiver1.INFO  [x] Received 4,Dirty Harry,1971,7.7,thriller,US
+2024-05-25 21:12:15,174.data_receiver1.INFO [x] Filtered genre: 4,Dirty Harry,1971,7.7,thriller,US
+2024-05-25 21:12:16,176.data_receiver1.INFO  [x] Done.
+2024-05-25 21:12:16,178.data_receiver1.INFO  [x] Received 5,The Exorcist,1973,8.1,horror,US
+2024-05-25 21:12:16,179.data_receiver1.INFO [x] Filtered genre: 5,The Exorcist,1973,8.1,horror,US
+2024-05-25 21:12:17,181.data_receiver1.INFO  [x] Done.
+2024-05-25 21:12:17,184.data_receiver1.INFO  [x] Received 6,Monty Python and the Holy Grail,1975,8.2,comedy,GB
+2024-05-25 21:12:17,185.data_receiver1.INFO [x] Filtered genre: 6,Monty Python and the Holy Grail,1975,8.2,comedy,GB
+2024-05-25 21:12:18,186.data_receiver1.INFO  [x] Done.
+2024-05-25 21:12:18,189.data_receiver1.INFO  [x] Received 7,Taxi Driver,1976,8.3,crime,US
+2024-05-25 21:12:18,202.data_receiver1.INFO [x] Filtered genre: 7,Taxi Driver,1976,8.3,crime,US
+2024-05-25 21:12:19,204.data_receiver1.INFO  [x] Done.
+2024-05-25 21:12:19,207.data_receiver1.INFO  [x] Received 8,Life of Brian,1979,8,comedy,GB
+2024-05-25 21:12:19,208.data_receiver1.INFO [x] Filtered genre: 8,Life of Brian,1979,8,comedy,GB
+2024-05-25 21:12:19,209.data_receiver1.INFO  [x] Done.
+2024-05-25 21:12:19,213.data_receiver1.INFO  [x] Received 9,The Blue Lagoon,1980,5.8,romance,US
+2024-05-25 21:12:19,214.data_receiver1.INFO [x] Filtered genre: 9,The Blue Lagoon,1980,5.8,romance,US
+9,The Blue Lagoon,1980,5.8,romance,US
+2024-05-25 21:12:20,215.data_receiver1.INFO  [x] Done.
+2024-05-25 21:12:20,217.data_receiver1.INFO  [x] Received 10,Annie,1982,6.6,drama,US
+2024-05-25 21:12:20,219.data_receiver1.INFO [x] Filtered genre: 10,Annie,1982,6.6,drama,US
+2024-05-25 21:12:21,220.data_receiver1.INFO  [x] Done.
+2024-05-25 21:12:21,222.data_receiver1.INFO  [x] Received 11,Christine,1983,6.7,horror,US
+2024-05-25 21:12:21,224.data_receiver1.INFO [x] Filtered genre: 11,Christine,1983,6.7,horror,US
+2024-05-25 21:12:22,226.data_receiver1.INFO  [x] Done.
+2024-05-25 21:12:22,228.data_receiver1.INFO  [x] Received 12,Once Upon a Time in America,1984,8.3,drama,US
+2024-05-25 21:12:22,229.data_receiver1.INFO [x] Filtered genre: 12,Once Upon a Time in America,1984,8.3,drama,US
+2024-05-25 21:12:23,230.data_receiver1.INFO  [x] Done.
+2024-05-25 21:12:23,233.data_receiver1.INFO  [x] Received 13,Stand by Me,1986,8.1,drama,US
+2024-05-25 21:12:23,234.data_receiver1.INFO [x] Filtered genre: 13,Stand by Me,1986,8.1,drama,US
+2024-05-25 21:12:24,236.data_receiver1.INFO  [x] Done.
+2024-05-25 21:12:24,239.data_receiver1.INFO  [x] Received 14,Full Metal Jacket,1987,8.3,drama,GB
+2024-05-25 21:12:24,240.data_receiver1.INFO [x] Filtered genre: 14,Full Metal Jacket,1987,8.3,drama,GB
+2024-05-25 21:12:25,242.data_receiver1.INFO  [x] Done.
+2024-05-25 21:12:25,245.data_receiver1.INFO  [x] Received 15,When Harry Met Sally...,1989,7.7,romance,US
+2024-05-25 21:12:25,246.data_receiver1.INFO [x] Filtered genre: 15,When Harry Met Sally...,1989,7.7,romance,US
+15,When Harry Met Sally...,1989,7.7,romance,US
+2024-05-25 21:12:29,248.data_receiver1.INFO  [x] Done.
+2024-05-25 21:12:29,249.data_receiver1.INFO  [x] Received 16,Awakenings,1990,7.8,drama,US
+2024-05-25 21:12:29,251.data_receiver1.INFO [x] Filtered genre: 16,Awakenings,1990,7.8,drama,US
+2024-05-25 21:12:30,253.data_receiver1.INFO  [x] Done.
+2024-05-25 21:12:30,257.data_receiver1.INFO  [x] Received 17,My Girl,1991,6.9,comedy,US
+2024-05-25 21:12:30,259.data_receiver1.INFO [x] Filtered genre: 17,My Girl,1991,6.9,comedy,US
+2024-05-25 21:12:31,260.data_receiver1.INFO  [x] Done.
+2024-05-25 21:12:31,263.data_receiver1.INFO  [x] Received 18,A River Runs Through It,1992,7.2,drama,US
+2024-05-25 21:12:31,264.data_receiver1.INFO [x] Filtered genre: 18,A River Runs Through It,1992,7.2,drama,US
+2024-05-25 21:12:32,265.data_receiver1.INFO  [x] Done.
+2024-05-25 21:12:32,267.data_receiver1.INFO  [x] Received 19,Menace II Society,1993,7.5,drama,US
+2024-05-25 21:12:32,269.data_receiver1.INFO [x] Filtered genre: 19,Menace II Society,1993,7.5,drama,US
+2024-05-25 21:12:33,271.data_receiver1.INFO  [x] Done.
+2024-05-25 21:12:33,273.data_receiver1.INFO  [x] Received 20,Forrest Gump,1994,8.8,drama,US
+2024-05-25 21:12:33,275.data_receiver1.INFO [x] Filtered genre: 20,Forrest Gump,1994,8.8,drama,US
+2024-05-25 21:12:34,276.data_receiver1.INFO  [x] Done.
+2024-05-25 21:12:34,278.data_receiver1.INFO  [x] Received 21,Desperado,1995,7.1,thriller,US
+2024-05-25 21:12:34,279.data_receiver1.INFO [x] Filtered genre: 21,Desperado,1995,7.1,thriller,US
+2024-05-25 21:12:35,280.data_receiver1.INFO  [x] Done.
+2024-05-25 21:12:35,283.data_receiver1.INFO  [x] Received 22,Happy Gilmore,1996,7,comedy,US
+2024-05-25 21:12:35,284.data_receiver1.INFO [x] Filtered genre: 22,Happy Gilmore,1996,7,comedy,US
+2024-05-25 21:12:35,285.data_receiver1.INFO  [x] Done.
+2024-05-25 21:12:35,287.data_receiver1.INFO  [x] Received 23,Neon Genesis Evangelion: The End of Evangelion,1997,8,scifi,JP
+2024-05-25 21:12:35,288.data_receiver1.INFO [x] Filtered genre: 23,Neon Genesis Evangelion: The End of Evangelion,1997,8,scifi,JP
+2024-05-25 21:12:35,291.data_receiver1.INFO  [x] Done.
+2024-05-25 21:12:35,296.data_receiver1.INFO  [x] Received 24,Saving Private Ryan,1998,8.6,drama,US
+2024-05-25 21:12:35,297.data_receiver1.INFO [x] Filtered genre: 24,Saving Private Ryan,1998,8.6,drama,US
+2024-05-25 21:12:36,300.data_receiver1.INFO  [x] Done.
+2024-05-25 21:12:36,303.data_receiver1.INFO  [x] Received 25,Girl, Interrupted,1999,7.3,drama,US
+2024-05-25 21:12:36,305.data_receiver1.INFO [x] Filtered genre: 25,Girl, Interrupted,1999,7.3,drama,US
+2024-05-25 21:12:37,306.data_receiver1.INFO  [x] Done.
+2024-05-25 21:12:37,310.data_receiver1.INFO  [x] Received 26,The Patriot,2000,7.2,drama,DE
+2024-05-25 21:12:37,312.data_receiver1.INFO [x] Filtered genre: 26,The Patriot,2000,7.2,drama,DE
+2024-05-25 21:12:38,314.data_receiver1.INFO  [x] Done.
+2024-05-25 21:12:38,317.data_receiver1.INFO  [x] Received 27,Lagaan: Once Upon a Time in India,2001,8.1,drama,IN
+2024-05-25 21:12:38,319.data_receiver1.INFO [x] Filtered genre: 27,Lagaan: Once Upon a Time in India,2001,8.1,drama,IN
+2024-05-25 21:12:39,320.data_receiver1.INFO  [x] Done.
+2024-05-25 21:12:39,323.data_receiver1.INFO  [x] Received 28,Road to Perdition,2002,7.7,thriller,US
+2024-05-25 21:12:39,325.data_receiver1.INFO [x] Filtered genre: 28,Road to Perdition,2002,7.7,thriller,US
+2024-05-25 21:12:40,327.data_receiver1.INFO  [x] Done.
+2024-05-25 21:12:40,331.data_receiver1.INFO  [x] Received 29,Big Fish,2003,8,drama,US
+2024-05-25 21:12:40,333.data_receiver1.INFO [x] Filtered genre: 29,Big Fish,2003,8,drama,US
+2024-05-25 21:12:40,335.data_receiver1.INFO  [x] Done.
+2024-05-25 21:12:40,337.data_receiver1.INFO  [x] Received 30,Swades,2004,8.1,drama,IN
+2024-05-25 21:12:40,340.data_receiver1.INFO [x] Filtered genre: 30,Swades,2004,8.1,drama,IN
+2024-05-25 21:12:41,343.data_receiver1.INFO  [x] Done.
+2024-05-25 21:12:41,345.data_receiver1.INFO  [x] Received 31,Memoirs of a Geisha,2005,7.3,drama,FR
+2024-05-25 21:12:41,347.data_receiver1.INFO [x] Filtered genre: 31,Memoirs of a Geisha,2005,7.3,drama,FR
+2024-05-25 21:12:42,349.data_receiver1.INFO  [x] Done.
+2024-05-25 21:12:42,350.data_receiver1.INFO  [x] Received 32,Rang De Basanti,2006,8.1,comedy,IN
+2024-05-25 21:12:42,352.data_receiver1.INFO [x] Filtered genre: 32,Rang De Basanti,2006,8.1,comedy,IN
+2024-05-25 21:12:43,353.data_receiver1.INFO  [x] Done.
+2024-05-25 21:12:43,356.data_receiver1.INFO  [x] Received 33,Like Stars on Earth,2007,8.3,drama,IN
+2024-05-25 21:12:43,357.data_receiver1.INFO [x] Filtered genre: 33,Like Stars on Earth,2007,8.3,drama,IN
+2024-05-25 21:12:44,359.data_receiver1.INFO  [x] Done.
+2024-05-25 21:12:44,361.data_receiver1.INFO  [x] Received 34,Ip Man,2008,8,drama,HK
+2024-05-25 21:12:44,363.data_receiver1.INFO [x] Filtered genre: 34,Ip Man,2008,8,drama,HK
+2024-05-25 21:12:44,364.data_receiver1.INFO  [x] Done.
+2024-05-25 21:12:44,373.data_receiver1.INFO  [x] Received 35,3 Idiots,2009,8.4,comedy,IN
+2024-05-25 21:12:44,375.data_receiver1.INFO [x] Filtered genre: 35,3 Idiots,2009,8.4,comedy,IN
+2024-05-25 21:12:45,379.data_receiver1.INFO  [x] Done.
+2024-05-25 21:12:45,390.data_receiver1.INFO  [x] Received 36,Inception,2010,8.8,scifi,GB
+2024-05-25 21:12:45,391.data_receiver1.INFO [x] Filtered genre: 36,Inception,2010,8.8,scifi,GB
+2024-05-25 21:12:46,392.data_receiver1.INFO  [x] Done.
+2024-05-25 21:12:46,395.data_receiver1.INFO  [x] Received 37,Warrior,2011,8.2,drama,US
+2024-05-25 21:12:46,396.data_receiver1.INFO [x] Filtered genre: 37,Warrior,2011,8.2,drama,US
+2024-05-25 21:12:47,398.data_receiver1.INFO  [x] Done.
+2024-05-25 21:12:47,401.data_receiver1.INFO  [x] Received 38,Django Unchained,2012,8.4,western,US
+2024-05-25 21:12:47,402.data_receiver1.INFO [x] Filtered genre: 38,Django Unchained,2012,8.4,western,US
+2024-05-25 21:12:48,405.data_receiver1.INFO  [x] Done.
+2024-05-25 21:12:48,408.data_receiver1.INFO  [x] Received 39,Rush,2013,8.1,drama,US
+2024-05-25 21:12:48,410.data_receiver1.INFO [x] Filtered genre: 39,Rush,2013,8.1,drama,US
+2024-05-25 21:12:49,411.data_receiver1.INFO  [x] Done.
+2024-05-25 21:12:49,413.data_receiver1.INFO  [x] Received 40,Queen,2014,8.2,drama,IN
+2024-05-25 21:12:49,415.data_receiver1.INFO [x] Filtered genre: 40,Queen,2014,8.2,drama,IN
+2024-05-25 21:12:50,417.data_receiver1.INFO  [x] Done.
+2024-05-25 21:12:50,422.data_receiver1.INFO  [x] Received 41,Drishyam,2015,8.2,thriller,IN
+2024-05-25 21:12:50,424.data_receiver1.INFO [x] Filtered genre: 41,Drishyam,2015,8.2,thriller,IN
+2024-05-25 21:12:51,425.data_receiver1.INFO  [x] Done.
+2024-05-25 21:12:51,427.data_receiver1.INFO  [x] Received 42,Dangal,2016,8.4,action,IN
+2024-05-25 21:12:51,428.data_receiver1.INFO [x] Filtered genre: 42,Dangal,2016,8.4,action,IN
+2024-05-25 21:12:52,429.data_receiver1.INFO  [x] Done.
+2024-05-25 21:12:52,432.data_receiver1.INFO  [x] Received 43,Bahubali 2: The Conclusion,2017,8.2,fantasy,IN
+2024-05-25 21:12:52,434.data_receiver1.INFO [x] Filtered genre: 43,Bahubali 2: The Conclusion,2017,8.2,fantasy,IN
+2024-05-25 21:12:53,436.data_receiver1.INFO  [x] Done.
+2024-05-25 21:12:53,438.data_receiver1.INFO  [x] Received 44,Andhadhun,2018,8.2,thriller,IN
+2024-05-25 21:12:53,440.data_receiver1.INFO [x] Filtered genre: 44,Andhadhun,2018,8.2,thriller,IN
+2024-05-25 21:12:54,442.data_receiver1.INFO  [x] Done.
+2024-05-25 21:12:54,445.data_receiver1.INFO  [x] Received 45,Dave Chappelle: Sticks & Stones,2019,8.4,comedy,US
+2024-05-25 21:12:54,446.data_receiver1.INFO [x] Filtered genre: 45,Dave Chappelle: Sticks & Stones,2019,8.4,comedy,US
+2024-05-25 21:12:55,448.data_receiver1.INFO  [x] Done.
+2024-05-25 21:12:55,449.data_receiver1.INFO  [x] Received 46,David Attenborough: A Life on Our Planet,2020,9,documentary,GB
+2024-05-25 21:12:55,449.data_receiver1.INFO [x] Filtered genre: 46,David Attenborough: A Life on Our Planet,2020,9,documentary,GB
+2024-05-25 21:12:55,450.data_receiver1.INFO  [x] Done.
+2024-05-25 21:12:55,451.data_receiver1.INFO  [x] Received 47,Bo Burnham: Inside,2021,8.7,comedy,US
+2024-05-25 21:12:55,451.data_receiver1.INFO [x] Filtered genre: 47,Bo Burnham: Inside,2021,8.7,comedy,US
+2024-05-25 21:12:56,452.data_receiver1.INFO  [x] Done.
+2024-05-25 21:12:56,455.data_receiver1.INFO  [x] Received 48,The Tinder Swindler,2022,7.2,crime,GB
+2024-05-25 21:12:56,457.data_receiver1.INFO [x] Filtered genre: 48,The Tinder Swindler,2022,7.2,crime,GB
+2024-05-25 21:12:57,459.data_receiver1.INFO  [x] Done.
+2024-05-25 21:12:57,461.data_receiver1.INFO  [x] Received index,TITLE,RELEASE_YEAR,SCORE,MAIN_GENRE,MAIN_PRODUCTION
+2024-05-25 21:12:57,463.data_receiver1.INFO [x] Filtered genre: index,TITLE,RELEASE_YEAR,SCORE,MAIN_GENRE,MAIN_PRODUCTION
+2024-05-25 21:12:57,464.data_receiver1.INFO  [x] Done.
+2024-05-25 21:12:57,468.data_receiver1.INFO  [x] Received 0,White Christmas,1954,7.5,romance,US
+2024-05-25 21:12:57,470.data_receiver1.INFO [x] Filtered genre: 0,White Christmas,1954,7.5,romance,US
+0,White Christmas,1954,7.5,romance,US
+2024-05-25 21:12:58,472.data_receiver1.INFO  [x] Done.
+2024-05-25 21:12:58,475.data_receiver1.INFO  [x] Received 1,The Guns of Navarone,1961,7.5,war,US
+2024-05-25 21:12:58,476.data_receiver1.INFO [x] Filtered genre: 1,The Guns of Navarone,1961,7.5,war,US
+2024-05-25 21:12:59,477.data_receiver1.INFO  [x] Done.
+2024-05-25 21:12:59,478.data_receiver1.INFO  [x] Received 2,My Fair Lady,1964,7.8,drama,US
+2024-05-25 21:12:59,480.data_receiver1.INFO [x] Filtered genre: 2,My Fair Lady,1964,7.8,drama,US
+2024-05-25 21:13:00,481.data_receiver1.INFO  [x] Done.
+2024-05-25 21:13:00,482.data_receiver1.INFO  [x] Received 3,Bonnie and Clyde,1967,7.7,drama,US
+2024-05-25 21:13:00,483.data_receiver1.INFO [x] Filtered genre: 3,Bonnie and Clyde,1967,7.7,drama,US
+2024-05-25 21:13:01,484.data_receiver1.INFO  [x] Done.
+2024-05-25 21:13:01,486.data_receiver1.INFO  [x] Received 4,Dirty Harry,1971,7.7,thriller,US
+2024-05-25 21:13:01,487.data_receiver1.INFO [x] Filtered genre: 4,Dirty Harry,1971,7.7,thriller,US
+2024-05-25 21:13:02,488.data_receiver1.INFO  [x] Done.
+2024-05-25 21:13:02,491.data_receiver1.INFO  [x] Received 5,The Exorcist,1973,8.1,horror,US
+2024-05-25 21:13:02,492.data_receiver1.INFO [x] Filtered genre: 5,The Exorcist,1973,8.1,horror,US
+2024-05-25 21:13:03,493.data_receiver1.INFO  [x] Done.
+2024-05-25 21:13:03,496.data_receiver1.INFO  [x] Received 6,Monty Python and the Holy Grail,1975,8.2,comedy,GB
+2024-05-25 21:13:03,497.data_receiver1.INFO [x] Filtered genre: 6,Monty Python and the Holy Grail,1975,8.2,comedy,GB
+2024-05-25 21:13:04,498.data_receiver1.INFO  [x] Done.
+2024-05-25 21:13:04,500.data_receiver1.INFO  [x] Received 7,Taxi Driver,1976,8.3,crime,US
+2024-05-25 21:13:04,502.data_receiver1.INFO [x] Filtered genre: 7,Taxi Driver,1976,8.3,crime,US
+2024-05-25 21:13:05,504.data_receiver1.INFO  [x] Done.
+2024-05-25 21:13:05,506.data_receiver1.INFO  [x] Received 8,Life of Brian,1979,8,comedy,GB
+2024-05-25 21:13:05,507.data_receiver1.INFO [x] Filtered genre: 8,Life of Brian,1979,8,comedy,GB
+2024-05-25 21:13:05,508.data_receiver1.INFO  [x] Done.
+2024-05-25 21:13:05,509.data_receiver1.INFO  [x] Received 9,The Blue Lagoon,1980,5.8,romance,US
+2024-05-25 21:13:05,510.data_receiver1.INFO [x] Filtered genre: 9,The Blue Lagoon,1980,5.8,romance,US
+9,The Blue Lagoon,1980,5.8,romance,US
+2024-05-25 21:13:06,512.data_receiver1.INFO  [x] Done.
+2024-05-25 21:13:06,516.data_receiver1.INFO  [x] Received 10,Annie,1982,6.6,drama,US
+2024-05-25 21:13:06,517.data_receiver1.INFO [x] Filtered genre: 10,Annie,1982,6.6,drama,US
+2024-05-25 21:13:07,519.data_receiver1.INFO  [x] Done.
+2024-05-25 21:13:07,521.data_receiver1.INFO  [x] Received 11,Christine,1983,6.7,horror,US
+2024-05-25 21:13:07,523.data_receiver1.INFO [x] Filtered genre: 11,Christine,1983,6.7,horror,US
+2024-05-25 21:13:08,525.data_receiver1.INFO  [x] Done.
+2024-05-25 21:13:08,527.data_receiver1.INFO  [x] Received 12,Once Upon a Time in America,1984,8.3,drama,US
+2024-05-25 21:13:08,528.data_receiver1.INFO [x] Filtered genre: 12,Once Upon a Time in America,1984,8.3,drama,US
+2024-05-25 21:13:09,530.data_receiver1.INFO  [x] Done.
+2024-05-25 21:13:09,533.data_receiver1.INFO  [x] Received 13,Stand by Me,1986,8.1,drama,US
+2024-05-25 21:13:09,534.data_receiver1.INFO [x] Filtered genre: 13,Stand by Me,1986,8.1,drama,US
+2024-05-25 21:13:10,536.data_receiver1.INFO  [x] Done.
+2024-05-25 21:13:10,538.data_receiver1.INFO  [x] Received 14,Full Metal Jacket,1987,8.3,drama,GB
+2024-05-25 21:13:10,539.data_receiver1.INFO [x] Filtered genre: 14,Full Metal Jacket,1987,8.3,drama,GB
+2024-05-25 21:13:11,540.data_receiver1.INFO  [x] Done.
+2024-05-25 21:13:11,543.data_receiver1.INFO  [x] Received 15,When Harry Met Sally...,1989,7.7,romance,US
+2024-05-25 21:13:11,544.data_receiver1.INFO [x] Filtered genre: 15,When Harry Met Sally...,1989,7.7,romance,US
+15,When Harry Met Sally...,1989,7.7,romance,US
+2024-05-25 21:13:15,545.data_receiver1.INFO  [x] Done.
+2024-05-25 21:13:15,548.data_receiver1.INFO  [x] Received 16,Awakenings,1990,7.8,drama,US
+2024-05-25 21:13:15,549.data_receiver1.INFO [x] Filtered genre: 16,Awakenings,1990,7.8,drama,US
+2024-05-25 21:13:16,551.data_receiver1.INFO  [x] Done.
+2024-05-25 21:13:16,555.data_receiver1.INFO  [x] Received 17,My Girl,1991,6.9,comedy,US
+2024-05-25 21:13:16,557.data_receiver1.INFO [x] Filtered genre: 17,My Girl,1991,6.9,comedy,US
+2024-05-25 21:13:17,557.data_receiver1.INFO  [x] Done.
+2024-05-25 21:13:17,559.data_receiver1.INFO  [x] Received 18,A River Runs Through It,1992,7.2,drama,US
+2024-05-25 21:13:17,560.data_receiver1.INFO [x] Filtered genre: 18,A River Runs Through It,1992,7.2,drama,US
+2024-05-25 21:13:18,562.data_receiver1.INFO  [x] Done.
+2024-05-25 21:13:18,564.data_receiver1.INFO  [x] Received 19,Menace II Society,1993,7.5,drama,US
+2024-05-25 21:13:18,566.data_receiver1.INFO [x] Filtered genre: 19,Menace II Society,1993,7.5,drama,US
+2024-05-25 21:13:19,568.data_receiver1.INFO  [x] Done.
+2024-05-25 21:13:19,571.data_receiver1.INFO  [x] Received 20,Forrest Gump,1994,8.8,drama,US
+2024-05-25 21:13:19,573.data_receiver1.INFO [x] Filtered genre: 20,Forrest Gump,1994,8.8,drama,US
+2024-05-25 21:13:20,574.data_receiver1.INFO  [x] Done.
+2024-05-25 21:13:20,576.data_receiver1.INFO  [x] Received 21,Desperado,1995,7.1,thriller,US
+2024-05-25 21:13:20,577.data_receiver1.INFO [x] Filtered genre: 21,Desperado,1995,7.1,thriller,US
+2024-05-25 21:13:21,578.data_receiver1.INFO  [x] Done.
+2024-05-25 21:13:21,582.data_receiver1.INFO  [x] Received 22,Happy Gilmore,1996,7,comedy,US
+2024-05-25 21:13:21,584.data_receiver1.INFO [x] Filtered genre: 22,Happy Gilmore,1996,7,comedy,US
+2024-05-25 21:13:21,585.data_receiver1.INFO  [x] Done.
+2024-05-25 21:13:21,587.data_receiver1.INFO  [x] Received 23,Neon Genesis Evangelion: The End of Evangelion,1997,8,scifi,JP
+2024-05-25 21:13:21,592.data_receiver1.INFO [x] Filtered genre: 23,Neon Genesis Evangelion: The End of Evangelion,1997,8,scifi,JP
+2024-05-25 21:13:21,596.data_receiver1.INFO  [x] Done.
+2024-05-25 21:13:21,599.data_receiver1.INFO  [x] Received 24,Saving Private Ryan,1998,8.6,drama,US
+2024-05-25 21:13:21,600.data_receiver1.INFO [x] Filtered genre: 24,Saving Private Ryan,1998,8.6,drama,US
+2024-05-25 21:13:22,600.data_receiver1.INFO  [x] Done.
+2024-05-25 21:13:22,612.data_receiver1.INFO  [x] Received 25,Girl, Interrupted,1999,7.3,drama,US
+2024-05-25 21:13:22,614.data_receiver1.INFO [x] Filtered genre: 25,Girl, Interrupted,1999,7.3,drama,US
+2024-05-25 21:13:23,615.data_receiver1.INFO  [x] Done.
+2024-05-25 21:13:23,617.data_receiver1.INFO  [x] Received 26,The Patriot,2000,7.2,drama,DE
+2024-05-25 21:13:23,618.data_receiver1.INFO [x] Filtered genre: 26,The Patriot,2000,7.2,drama,DE
+2024-05-25 21:13:24,619.data_receiver1.INFO  [x] Done.
+2024-05-25 21:13:24,621.data_receiver1.INFO  [x] Received 27,Lagaan: Once Upon a Time in India,2001,8.1,drama,IN
+2024-05-25 21:13:24,622.data_receiver1.INFO [x] Filtered genre: 27,Lagaan: Once Upon a Time in India,2001,8.1,drama,IN
+2024-05-25 21:13:25,624.data_receiver1.INFO  [x] Done.
+2024-05-25 21:13:25,626.data_receiver1.INFO  [x] Received 28,Road to Perdition,2002,7.7,thriller,US
+2024-05-25 21:13:25,627.data_receiver1.INFO [x] Filtered genre: 28,Road to Perdition,2002,7.7,thriller,US
+2024-05-25 21:13:26,628.data_receiver1.INFO  [x] Done.
+2024-05-25 21:13:26,631.data_receiver1.INFO  [x] Received 29,Big Fish,2003,8,drama,US
+2024-05-25 21:13:26,635.data_receiver1.INFO [x] Filtered genre: 29,Big Fish,2003,8,drama,US
+2024-05-25 21:13:26,636.data_receiver1.INFO  [x] Done.
+2024-05-25 21:13:26,639.data_receiver1.INFO  [x] Received 30,Swades,2004,8.1,drama,IN
+2024-05-25 21:13:26,641.data_receiver1.INFO [x] Filtered genre: 30,Swades,2004,8.1,drama,IN
+2024-05-25 21:13:27,642.data_receiver1.INFO  [x] Done.
+2024-05-25 21:13:27,644.data_receiver1.INFO  [x] Received 31,Memoirs of a Geisha,2005,7.3,drama,FR
+2024-05-25 21:13:27,645.data_receiver1.INFO [x] Filtered genre: 31,Memoirs of a Geisha,2005,7.3,drama,FR
+2024-05-25 21:13:28,647.data_receiver1.INFO  [x] Done.
+2024-05-25 21:13:28,647.data_receiver1.INFO  [x] Received 32,Rang De Basanti,2006,8.1,comedy,IN
+2024-05-25 21:13:28,648.data_receiver1.INFO [x] Filtered genre: 32,Rang De Basanti,2006,8.1,comedy,IN
+2024-05-25 21:13:29,649.data_receiver1.INFO  [x] Done.
+2024-05-25 21:13:29,650.data_receiver1.INFO  [x] Received 33,Like Stars on Earth,2007,8.3,drama,IN
+2024-05-25 21:13:29,651.data_receiver1.INFO [x] Filtered genre: 33,Like Stars on Earth,2007,8.3,drama,IN
+2024-05-25 21:13:30,652.data_receiver1.INFO  [x] Done.
+2024-05-25 21:13:30,657.data_receiver1.INFO  [x] Received 34,Ip Man,2008,8,drama,HK
+2024-05-25 21:13:30,658.data_receiver1.INFO [x] Filtered genre: 34,Ip Man,2008,8,drama,HK
+2024-05-25 21:13:30,660.data_receiver1.INFO  [x] Done.
+2024-05-25 21:13:30,665.data_receiver1.INFO  [x] Received 35,3 Idiots,2009,8.4,comedy,IN
+2024-05-25 21:13:30,666.data_receiver1.INFO [x] Filtered genre: 35,3 Idiots,2009,8.4,comedy,IN
+2024-05-25 21:13:31,668.data_receiver1.INFO  [x] Done.
+2024-05-25 21:13:31,676.data_receiver1.INFO  [x] Received 36,Inception,2010,8.8,scifi,GB
+2024-05-25 21:13:31,677.data_receiver1.INFO [x] Filtered genre: 36,Inception,2010,8.8,scifi,GB
+2024-05-25 21:13:32,678.data_receiver1.INFO  [x] Done.
+2024-05-25 21:13:32,680.data_receiver1.INFO  [x] Received 37,Warrior,2011,8.2,drama,US
+2024-05-25 21:13:32,681.data_receiver1.INFO [x] Filtered genre: 37,Warrior,2011,8.2,drama,US
+2024-05-25 21:13:33,683.data_receiver1.INFO  [x] Done.
+2024-05-25 21:13:33,684.data_receiver1.INFO  [x] Received 38,Django Unchained,2012,8.4,western,US
+2024-05-25 21:13:33,685.data_receiver1.INFO [x] Filtered genre: 38,Django Unchained,2012,8.4,western,US
+2024-05-25 21:13:34,686.data_receiver1.INFO  [x] Done.
+2024-05-25 21:13:34,690.data_receiver1.INFO  [x] Received 39,Rush,2013,8.1,drama,US
+2024-05-25 21:13:34,692.data_receiver1.INFO [x] Filtered genre: 39,Rush,2013,8.1,drama,US
+2024-05-25 21:13:35,693.data_receiver1.INFO  [x] Done.
+2024-05-25 21:13:35,695.data_receiver1.INFO  [x] Received 40,Queen,2014,8.2,drama,IN
+2024-05-25 21:13:35,696.data_receiver1.INFO [x] Filtered genre: 40,Queen,2014,8.2,drama,IN
+2024-05-25 21:13:36,698.data_receiver1.INFO  [x] Done.
+2024-05-25 21:13:36,699.data_receiver1.INFO  [x] Received 41,Drishyam,2015,8.2,thriller,IN
+2024-05-25 21:13:36,701.data_receiver1.INFO [x] Filtered genre: 41,Drishyam,2015,8.2,thriller,IN
+2024-05-25 21:13:37,702.data_receiver1.INFO  [x] Done.
+2024-05-25 21:13:37,705.data_receiver1.INFO  [x] Received 42,Dangal,2016,8.4,action,IN
+2024-05-25 21:13:37,707.data_receiver1.INFO [x] Filtered genre: 42,Dangal,2016,8.4,action,IN
+2024-05-25 21:13:38,709.data_receiver1.INFO  [x] Done.
+2024-05-25 21:13:38,712.data_receiver1.INFO  [x] Received 43,Bahubali 2: The Conclusion,2017,8.2,fantasy,IN
+2024-05-25 21:13:38,714.data_receiver1.INFO [x] Filtered genre: 43,Bahubali 2: The Conclusion,2017,8.2,fantasy,IN
+2024-05-25 21:13:39,716.data_receiver1.INFO  [x] Done.
+2024-05-25 21:13:39,719.data_receiver1.INFO  [x] Received 44,Andhadhun,2018,8.2,thriller,IN
+2024-05-25 21:13:39,720.data_receiver1.INFO [x] Filtered genre: 44,Andhadhun,2018,8.2,thriller,IN
+2024-05-25 21:13:40,721.data_receiver1.INFO  [x] Done.
+2024-05-25 21:13:40,724.data_receiver1.INFO  [x] Received 45,Dave Chappelle: Sticks & Stones,2019,8.4,comedy,US
+2024-05-25 21:13:40,725.data_receiver1.INFO [x] Filtered genre: 45,Dave Chappelle: Sticks & Stones,2019,8.4,comedy,US
+2024-05-25 21:13:41,726.data_receiver1.INFO  [x] Done.
+2024-05-25 21:13:41,729.data_receiver1.INFO  [x] Received 46,David Attenborough: A Life on Our Planet,2020,9,documentary,GB
+2024-05-25 21:13:41,731.data_receiver1.INFO [x] Filtered genre: 46,David Attenborough: A Life on Our Planet,2020,9,documentary,GB
+2024-05-25 21:13:41,733.data_receiver1.INFO  [x] Done.
+2024-05-25 21:13:41,738.data_receiver1.INFO  [x] Received 47,Bo Burnham: Inside,2021,8.7,comedy,US
+2024-05-25 21:13:41,739.data_receiver1.INFO [x] Filtered genre: 47,Bo Burnham: Inside,2021,8.7,comedy,US
+2024-05-25 21:13:42,741.data_receiver1.INFO  [x] Done.
+2024-05-25 21:13:42,744.data_receiver1.INFO  [x] Received 48,The Tinder Swindler,2022,7.2,crime,GB
+2024-05-25 21:13:42,746.data_receiver1.INFO [x] Filtered genre: 48,The Tinder Swindler,2022,7.2,crime,GB
+2024-05-25 21:13:43,747.data_receiver1.INFO  [x] Done.
+2024-05-25 21:17:52,793.data_receiver1.INFO 
+Closing connection. Goodbye.
+
